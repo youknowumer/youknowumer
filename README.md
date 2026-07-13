@@ -37,7 +37,7 @@ Currently Building: "Artisan Aura Creations a full-scale Odoo ERP capstone proje
 Project Honor: "1 of only 3 projects selected for exhibition at ICAISAI'26 (HSM–UMT)"
 ```
 
-- 🎓 Final-year **BBIS** student blending business strategy with technical execution
+- 🎓 **BBIS** student blending business strategy with technical execution
 - 🏆 Selected as **1 of 3 projects** exhibited at ICAISAI'26 (HSM–UMT), evaluated by industry professionals
 - 💼 Experience spanning **Frontend Development, HR Operations, and Data Annotation**
 - 📊 Passionate about turning raw data into decisions SQL, Power BI, and Oracle
