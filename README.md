@@ -28,13 +28,13 @@
 ## 🧭 About Me
 
 ```yaml
-name: Muhammad Umer Faheem
-location: Iqbal Town, Lahore, Pakistan
-role: Frontend Developer · BI Specialist · ERP Implementer
-education: BBIS, University of Management and Technology (UMT) — 8th Semester
-focus: [Frontend Development, Business Intelligence, ERP Systems, UI/UX]
-currently_building: "Artisan Aura Creations — a full-scale Odoo ERP capstone project"
-fun_fact: "1 of only 3 projects selected for exhibition at ICAISAI'26 (HSM–UMT)"
+Name: Muhammad Umer Faheem
+Location: Lahore, Pakistan
+Role: Frontend Developer · BI Specialist · ERP Implementer
+Education: BBIS, University of Management and Technology (UMT)
+Focus: [Frontend Development, Business Intelligence, ERP Systems, UI/UX]
+Currently Building: "Artisan Aura Creations a full-scale Odoo ERP capstone project"
+Project Honor: "1 of only 3 projects selected for exhibition at ICAISAI'26 (HSM–UMT)"
 ```
 
 - 🎓 Final-year **BBIS** student blending business strategy with technical execution
