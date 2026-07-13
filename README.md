@@ -173,7 +173,7 @@ Structured database design for student registration and library management using
 - 🚀 **Capstone Project Lead** Artisan Aura Creations, UMT
 - 🎨 **Recognized Intern** Tara Technologies Pvt. Ltd. for UI/UX & frontend contributions
 - 📚 **Multi-Platform Certified**  Google, Microsoft, IBM, SAP, Coursera, Simplilearn
-- 👥 **Team Leader** — Academic Design & Tech Projects
+- 👥 **Team Leader** Academic Design & Tech Projects
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
