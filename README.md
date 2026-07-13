@@ -107,7 +107,7 @@ Managed talent acquisition, onboarding, and payroll processing using the Oracle 
 <td><b>Jul – Sep 2023</b></td>
 <td>
 <b>Front End Intern</b> · Tara Technologies Pvt. Ltd. <i>(Lahore)</i><br/>
-Designed and coded client interfaces using Figma, Photoshop, HTML, CSS, and Java — recognized for UI/UX contributions.
+Designed and coded client interfaces using Figma, Photoshop, HTML, CSS, and Java recognized for UI/UX contributions.
 </td>
 </tr>
 </table>
@@ -121,7 +121,7 @@ Designed and coded client interfaces using Figma, Photoshop, HTML, CSS, and Java
 <td width="50%" valign="top">
 
 ### 🧵 Artisan Aura Creations
-**Sustainable Leather Goods Brand — Odoo ERP**
+**Sustainable Leather Goods Brand Odoo ERP**
 
 Direct-to-consumer brand built as a Capstone & Final Year Project, implementing full-scale operations in Odoo ERP.
 
@@ -133,7 +133,7 @@ Direct-to-consumer brand built as a Capstone & Final Year Project, implementing 
 <td width="50%" valign="top">
 
 ### 🗄️ Student Registration System
-**Database Structure Design — Oracle**
+**Database Structure Design Oracle**
 
 Structured database design for student registration and library management using conceptual & logical modeling.
 
@@ -169,10 +169,10 @@ Structured database design for student registration and library management using
 
 ## 🏆 Awards & Achievements
 
-- 🥇 **Project Exhibition Selectee** — ICAISAI'26, HSM UMT *(1 of 3 selected, evaluated by a DevOps & Cloud industry expert)*
-- 🚀 **Capstone Project Lead** — Artisan Aura Creations, UMT
-- 🎨 **Recognized Intern** — Tara Technologies Pvt. Ltd. for UI/UX & frontend contributions
-- 📚 **Multi-Platform Certified** — Google, Microsoft, IBM, SAP, Coursera, Simplilearn
+- 🥇 **Project Exhibition Selectee** ICAISAI'26, HSM UMT *(1 of 3 selected, evaluated by a DevOps & Cloud industry expert)*
+- 🚀 **Capstone Project Lead** Artisan Aura Creations, UMT
+- 🎨 **Recognized Intern** Tara Technologies Pvt. Ltd. for UI/UX & frontend contributions
+- 📚 **Multi-Platform Certified**  Google, Microsoft, IBM, SAP, Coursera, Simplilearn
 - 👥 **Team Leader** — Academic Design & Tech Projects
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
