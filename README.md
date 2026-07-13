@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&width=650&lines=Turning+Digital+Strategy+into+User-Centric+Experiences;BBIS+Student+%40+UMT+%7C+8th+Semester;Frontend+%2B+Business+Intelligence+%2B+ERP;Building+Odoo+ERP+solutions+%26+data-driven+dashboards" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4A90D9&center=true&vCenter=true&width=650&lines=Turning+Digital+Strategy+into+User-Centric+Experiences;BBIS+Student+%40+UMT;Frontend+%2B+Business+Intelligence+%2B+ERP;Building+Odoo+ERP+solutions+%26+data-driven+dashboards" alt="Typing SVG" />
 
 </div>
 
