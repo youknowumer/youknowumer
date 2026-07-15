@@ -1,5 +1,5 @@
-<svg width="1200" height="640" viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
     <style>
       <![CDATA[
       :root {
@@ -46,7 +46,7 @@
       ]]>
     </style>
 
-    <clipPath id="cardClip"><rect x="0" y="0" width="1200" height="640" rx="32"/></clipPath>
+    <clipPath id="cardClip"><rect x="0" y="0" width="1200" height="720" rx="32"/></clipPath>
     <clipPath id="avatarClip"><circle cx="102" cy="102" r="92"/></clipPath>
 
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -105,20 +105,19 @@
   </defs>
 
   <g clip-path="url(#cardClip)">
-    <rect x="0" y="0" width="1200" height="640" fill="url(#bgGrad)"/>
-    <rect x="0" y="0" width="1200" height="640" filter="url(#noiseFilter)"/>
+    <rect x="0" y="0" width="1200" height="800" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="1200" height="800" filter="url(#noiseFilter)"/>
 
     <circle cx="160" cy="120" r="260" fill="url(#meshA)">
       <animate attributeName="cx" values="160;230;160" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1040" cy="500" r="300" fill="url(#meshB)">
-      <animate attributeName="cy" values="500;440;500" dur="18s" repeatCount="indefinite"/>
+    <circle cx="1040" cy="560" r="320" fill="url(#meshB)">
+      <animate attributeName="cy" values="560;500;560" dur="18s" repeatCount="indefinite"/>
     </circle>
     <circle cx="820" cy="70" r="220" fill="url(#meshC)">
       <animate attributeName="cx" values="820;760;820" dur="14s" repeatCount="indefinite"/>
     </circle>
 
-    
       <circle cx="150" cy="520" r="2.4" class="particle">
         <animate attributeName="cy" values="520;500;520" dur="5s" begin="0.00s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.15;0.55;0.15" dur="5s" begin="0.00s" repeatCount="indefinite"/>
@@ -151,19 +150,35 @@
         <animate attributeName="cy" values="600;580;600" dur="6s" begin="2.80s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.15;0.55;0.15" dur="6s" begin="2.80s" repeatCount="indefinite"/>
       </circle>
+      <circle cx="900" cy="650" r="1.7" class="particle">
+        <animate attributeName="cy" values="650;630;650" dur="6s" begin="3.10s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.55;0.15" dur="6s" begin="3.10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="230" cy="680" r="1.5" class="particle">
+        <animate attributeName="cy" values="680;660;680" dur="7s" begin="3.40s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.55;0.15" dur="7s" begin="3.40s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="220" r="1.6" class="particle">
+        <animate attributeName="cy" values="220;200;220" dur="5s" begin="3.70s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.55;0.15" dur="5s" begin="3.70s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="430" cy="40" r="1.3" class="particle">
+        <animate attributeName="cy" values="40;20;40" dur="6s" begin="3.95s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.15;0.55;0.15" dur="6s" begin="3.95s" repeatCount="indefinite"/>
+      </circle>
 
     <!-- glass sheen diagonal streak -->
-    <rect x="-200" y="-40" width="500" height="720" fill="url(#glassSheen)" transform="rotate(18 0 0)">
+    <rect x="-200" y="-40" width="500" height="880" fill="url(#glassSheen)" transform="rotate(18 0 0)">
       <animateTransform attributeName="transform" type="translate" values="-100,0; 1600,0" dur="9s" begin="1s" repeatCount="indefinite" additive="sum"/>
     </rect>
 
     <!-- outer border -->
-    <rect x="1.5" y="1.5" width="1197" height="637" rx="31" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-opacity="0.5"/>
-    <rect x="1.5" y="1.5" width="1197" height="637" rx="31" fill="none" stroke="var(--border)" stroke-width="1"/>
+    <rect x="1.5" y="1.5" width="1197" height="797" rx="31" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" stroke-opacity="0.5"/>
+    <rect x="1.5" y="1.5" width="1197" height="797" rx="31" fill="none" stroke="var(--border)" stroke-width="1"/>
 
     <!-- ============ MAIN GLASS CARD ============ -->
     <g filter="url(#softShadow)">
-      <rect x="40" y="40" width="1120" height="560" rx="26" fill="var(--panel)" stroke="var(--border)"/>
+      <rect x="40" y="40" width="1120" height="720" rx="26" fill="var(--panel)" stroke="var(--border)"/>
     </g>
 
     <!-- avatar with glowing ring -->
@@ -180,138 +195,193 @@
 
     <!-- name / tagline / typing role -->
     <g transform="translate(300,110)">
-      <text x="0" y="0" class="name" font-size="34">Muhammad Umer Faheem</text>
-      <text x="0" y="30" class="tagline" font-size="15">Frontend Developer · Data &amp; BI Enthusiast</text>
-      <g transform="translate(0,72)">
-        
+      <text x="0" y="0" class="name" font-size="36">Muhammad Umer Faheem</text>
+      <text x="0" y="31" class="tagline" font-size="15.5">Frontend Developer &#183; Data &amp; BI Enthusiast</text>
+      <g transform="translate(0,74)">
         <text x="0" y="0" class="role-text" opacity="0">Frontend Developer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0150;0.1850;0.2000;1" dur="12.0s" repeatCount="indefinite"/></text>
         <text x="0" y="0" class="role-text" opacity="0">Data &amp; BI Enthusiast<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2000;0.2150;0.3850;0.4000;1" dur="12.0s" repeatCount="indefinite"/></text>
         <text x="0" y="0" class="role-text" opacity="0">UI / UX Craftsman<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4000;0.4150;0.5850;0.6000;1" dur="12.0s" repeatCount="indefinite"/></text>
         <text x="0" y="0" class="role-text" opacity="0">Odoo ERP Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6000;0.6150;0.7850;0.8000;1" dur="12.0s" repeatCount="indefinite"/></text>
         <text x="0" y="0" class="role-text" opacity="0">Open Source Contributor<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8000;0.8150;1" dur="12.0s" repeatCount="indefinite"/></text>
-        <rect x="270" y="-18" width="9" height="22" fill="var(--accent-2)">
+        <rect x="290" y="-18" width="9" height="22" fill="var(--accent-2)">
           <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
         </rect>
       </g>
     </g>
 
-    <!-- info bar -->
-    <g transform="translate(300,232)">
-      
-      <g transform="translate(0,0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="2.40s" dur="0.6s" fill="freeze"/>
-        <text x="0" y="0" class="info-label">LOCATION</text>
-        <text x="0" y="24" class="info-value">Lahore, Pakistan</text>
-      </g><line x1="232" y1="-16" x2="232" y2="24" class="info-divider"/>
-      <g transform="translate(260,0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="2.65s" dur="0.6s" fill="freeze"/>
-        <text x="0" y="0" class="info-label">EDUCATION</text>
-        <text x="0" y="24" class="info-value">BBIS — UMT (2022 – 2026)</text>
-      </g><line x1="492" y1="-16" x2="492" y2="24" class="info-divider"/>
-      <g transform="translate(520,0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="2.90s" dur="0.6s" fill="freeze"/>
-        <text x="0" y="0" class="info-label">FOCUS</text>
-        <text x="0" y="24" class="info-value">Odoo ERP · Capstone Project</text>
-      </g>
+    <!-- open to work ribbon -->
+    <g transform="translate(1136,56)" opacity="0" text-anchor="end">
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.6s" fill="freeze"/>
+      <rect x="-180" y="-24" width="180" height="34" rx="17" fill="var(--panel-strong)" stroke="var(--accent-3)" stroke-width="1.2"/>
+      <circle cx="-164" cy="-7" r="4.5" fill="var(--accent-3)">
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="-18" y="-2" class="social-text" fill="var(--text)">OPEN TO WORK</text>
     </g>
-    <line x1="64" y1="290" x2="1136" y2="290" stroke="var(--border)" stroke-width="1"/>
 
-    <!-- skills -->
-    <text x="64" y="330" class="info-label">SKILLS</text>
-    <g transform="translate(64,344)">
-      
+    <!-- ============ INFO STAT CARDS ============ -->
+    <g transform="translate(64.0,300)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.5s" fill="freeze"/>
+      <rect width="253.0" height="78" rx="16" class="pill"/>
+      <text x="20" y="30" font-size="18">📍</text>
+      <text x="50" y="27" class="info-label">LOCATION</text>
+      <text x="50" y="49" class="info-value" font-size="15">Lahore, Pakistan</text>
+    </g>
+    <g transform="translate(337.0,300)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.52s" dur="0.5s" fill="freeze"/>
+      <rect width="253.0" height="78" rx="16" class="pill"/>
+      <text x="20" y="30" font-size="18">🎓</text>
+      <text x="50" y="27" class="info-label">EDUCATION</text>
+      <text x="50" y="49" class="info-value" font-size="15">BBIS — UMT (2022–26)</text>
+    </g>
+    <g transform="translate(610.0,300)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.6399999999999997s" dur="0.5s" fill="freeze"/>
+      <rect width="253.0" height="78" rx="16" class="pill"/>
+      <text x="20" y="30" font-size="18">🎯</text>
+      <text x="50" y="27" class="info-label">FOCUS</text>
+      <text x="50" y="49" class="info-value" font-size="15">Odoo ERP · Power BI</text>
+    </g>
+    <g transform="translate(883.0,300)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="3.76s" dur="0.5s" fill="freeze"/>
+      <rect width="253.0" height="78" rx="16" class="pill"/>
+      <text x="20" y="30" font-size="18">💼</text>
+      <text x="50" y="27" class="info-label">EXPERIENCE</text>
+      <text x="50" y="49" class="info-value" font-size="15">3 Internships</text>
+    </g>
+
+    <line x1="64" y1="400" x2="1136" y2="400" stroke="var(--border)" stroke-width="1"/>
+
+    <!-- ============ SKILLS ============ -->
+    <text x="64" y="422" class="info-label">CORE SKILLS &amp; TOOLS</text>
+    <g transform="translate(64,436)">
       <g transform="translate(0.0,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.40s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.00s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">HTML</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">HTML</text>
       </g>
       <g transform="translate(180.7,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.48s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.08s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.18s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">CSS</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">CSS</text>
       </g>
       <g transform="translate(361.3,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.56s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.16s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.36s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">JavaScript</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">JavaScript</text>
       </g>
       <g transform="translate(542.0,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.64s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.24s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.54s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">Python</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">Python</text>
       </g>
       <g transform="translate(722.7,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.72s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.32s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.72s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">SQL</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">SQL</text>
       </g>
       <g transform="translate(903.3,0.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.80s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="0.90s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">Power BI</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">Power BI</text>
       </g>
       <g transform="translate(0.0,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.88s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.48s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.08s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">Odoo ERP</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">Odoo ERP</text>
       </g>
       <g transform="translate(180.7,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="5.96s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.5600000000000005s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.26s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">SAP ERP</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">SAP ERP</text>
       </g>
       <g transform="translate(361.3,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="6.04s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.64s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.44s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">Figma</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">Figma</text>
       </g>
       <g transform="translate(542.0,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="6.12s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.72s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.62s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">WordPress</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">WordPress</text>
       </g>
       <g transform="translate(722.7,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="6.20s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.80s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">GitHub</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">GitHub</text>
       </g>
       <g transform="translate(903.3,46.0)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="6.28s" dur="0.4s" fill="freeze"/>
-        <rect width="168.7" height="34" rx="17.0" class="pill">
+        <animate attributeName="opacity" from="0" to="1" begin="4.88s" dur="0.4s" fill="freeze"/>
+        <rect width="168.7" height="36" rx="18" class="pill">
           <animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.2s" begin="1.98s" repeatCount="indefinite"/>
         </rect>
-        <text x="84.3" y="21.5" text-anchor="middle" class="pill-text">Canva</text>
+        <text x="84.3" y="23.0" text-anchor="middle" class="pill-text">Canva</text>
       </g>
     </g>
 
+    <line x1="64" y1="538" x2="1136" y2="538" stroke="var(--border)" stroke-width="1"/>
+
+    <!-- ============ HIGHLIGHTS ============ -->
+    <text x="64" y="562" class="info-label">HIGHLIGHTS</text>
+    <g transform="translate(64,576)">
+      <g transform="translate(0.0,0)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="6.6s" dur="0.5s" fill="freeze"/>
+        <rect width="253.0" height="78" rx="16" class="pill" filter="url(#pillGlow)"/>
+        <rect x="0" y="14" width="4" height="50" rx="2" fill="url(#accentGrad)"/>
+        <text x="22" y="34" class="pill-text" font-size="22" font-weight="800">9+</text>
+        <text x="22" y="56" class="tagline" font-size="12">Certifications Earned</text>
+      </g>
+      <g transform="translate(273.0,0)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="6.699999999999999s" dur="0.5s" fill="freeze"/>
+        <rect width="253.0" height="78" rx="16" class="pill" filter="url(#pillGlow)"/>
+        <rect x="0" y="14" width="4" height="50" rx="2" fill="url(#accentGrad)"/>
+        <text x="22" y="34" class="pill-text" font-size="22" font-weight="800">1 of 3</text>
+        <text x="22" y="56" class="tagline" font-size="12">Exhibited @ ICAISAI’26</text>
+      </g>
+      <g transform="translate(546.0,0)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="6.8s" dur="0.5s" fill="freeze"/>
+        <rect width="253.0" height="78" rx="16" class="pill" filter="url(#pillGlow)"/>
+        <rect x="0" y="14" width="4" height="50" rx="2" fill="url(#accentGrad)"/>
+        <text x="22" y="34" class="pill-text" font-size="22" font-weight="800">3</text>
+        <text x="22" y="56" class="tagline" font-size="12">Internships Completed</text>
+      </g>
+      <g transform="translate(819.0,0)" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="6.8999999999999995s" dur="0.5s" fill="freeze"/>
+        <rect width="253.0" height="78" rx="16" class="pill" filter="url(#pillGlow)"/>
+        <rect x="0" y="14" width="4" height="50" rx="2" fill="url(#accentGrad)"/>
+        <text x="22" y="34" class="pill-text" font-size="22" font-weight="800">8th</text>
+        <text x="22" y="56" class="tagline" font-size="12">Semester · BBIS, UMT</text>
+      </g>
+    </g>
+
+    <line x1="64" y1="674" x2="1136" y2="674" stroke="var(--border)" stroke-width="1"/>
+
     <!-- footer: socials + tag -->
-    <g transform="translate(64,462)">
-      
+    <g transform="translate(64,694)">
       <a xlink:href="https://github.com/youknowumer" target="_blank">
         <g transform="translate(0,0)" opacity="0">
-          <animate attributeName="opacity" from="0" to="1" begin="7.20s" dur="0.4s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" begin="7.60s" dur="0.4s" fill="freeze"/>
           <circle cx="20" cy="20" r="20" class="social-btn">
             <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.00s" repeatCount="indefinite"/>
           </circle>
@@ -320,7 +390,7 @@
       </a>
       <a xlink:href="https://www.linkedin.com/in/youknowumer/" target="_blank">
         <g transform="translate(58,0)" opacity="0">
-          <animate attributeName="opacity" from="0" to="1" begin="7.35s" dur="0.4s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" begin="7.75s" dur="0.4s" fill="freeze"/>
           <circle cx="20" cy="20" r="20" class="social-btn">
             <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.30s" repeatCount="indefinite"/>
           </circle>
@@ -329,16 +399,16 @@
       </a>
       <a xlink:href="mailto:umerfaheem632@gmail.com" target="_blank">
         <g transform="translate(116,0)" opacity="0">
-          <animate attributeName="opacity" from="0" to="1" begin="7.50s" dur="0.4s" fill="freeze"/>
+          <animate attributeName="opacity" from="0" to="1" begin="7.90s" dur="0.4s" fill="freeze"/>
           <circle cx="20" cy="20" r="20" class="social-btn">
             <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.60s" repeatCount="indefinite"/>
           </circle>
           <text x="20" y="25" text-anchor="middle" class="social-text">@</text>
         </g>
       </a>
-      <text x="198" y="25" class="footer-text">github.com/youknowumer · umerfaheem632@gmail.com</text>
+      <text x="198" y="25" class="footer-text">github.com/youknowumer &#183; umerfaheem632@gmail.com</text>
     </g>
 
-    <text x="1136" y="612" text-anchor="end" class="footer-text">Adapts to system light / dark mode</text>
+    <text x="1136" y="780" text-anchor="end" class="footer-text">Adapts to system light / dark mode</text>
   </g>
 </svg>
