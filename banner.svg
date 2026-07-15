@@ -121,28 +121,24 @@
 
   <!-- ============ HEADER ROW: avatar + name/role (left) | contact grid (right) ============ -->
   <g transform="translate(80,80)">
-    <!-- avatar with rotating ring -->
-<div style="margin: 20px 0;">
-  <svg viewBox="-20 -20 216 216">
-    <g>
-      <circle cx="88" cy="88" r="84" fill="none" stroke="url(#ringGrad)" stroke-width="3">
-        <animateTransform attributeName="transform" type="rotate" from="0 88 88" to="360 88 88" dur="12s" repeatCount="indefinite"/>
-      </circle>
+   <div style="margin:20px 0;">
+  <g>
+    <circle cx="88" cy="88" r="84" fill="none" stroke="url(#ringGrad)" stroke-width="3">
+      <animateTransform attributeName="transform" type="rotate" from="0 88 88" to="360 88 88" dur="12s" repeatCount="indefinite"/>
+    </circle>
 
-      <circle cx="88" cy="88" r="78" fill="var(--panel-strong)"/>
+    <circle cx="88" cy="88" r="78" fill="var(--panel-strong)"/>
 
-      <g clip-path="url(#avatarClip)">
-        <image 
-          href="data:image/jpeg;base64,YOUR_BASE64_IMAGE_HERE"
-          x="0"
-          y="0"
-          width="176"
-          height="176"
-          preserveAspectRatio="xMidYMid slice"
-        />
-      </g>
+    <g clip-path="url(#avatarClip)">
+      <image 
+        href="data:image/jpeg;base64,PASTE_YOUR_EXISTING_BASE64_HERE"
+        x="0"
+        y="0"
+        width="176"
+        height="176"
+        preserveAspectRatio="xMidYMid slice"/>
     </g>
-  </svg>
+  </g>
 </div>
 
     <!-- name block -->
