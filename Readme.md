@@ -181,33 +181,109 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 
 <div align="center">
 
-| # | Certification | Provider | Category | Date |
-|:-:|:--|:--|:--|:-:|
-| 1 | Microsoft Power BI (Data Analysis & Visualization) | Uni Athena — Cambridge International Qualification (UK) | Data & BI | Apr 2025 |
-| 2 | WordPress (Building Websites) | Coursera | Web Development | Apr 2025 |
-| 3 | Canva (Graphic Design) | Simplilearn | Design | Apr 2025 |
-| 4 | IT Automation with Python | Google | Programming | Jun 2025 |
-| 5 | Managing Basic Business Scenarios | SAP | ERP | Jun 2025 |
-| 6 | Odoo 14 Essentials | Odoo | ERP | Jun 2025 |
-| 7 | Foundations of Project Management | Google | Project Management | Jul 2025 |
-| 8 | Developing Interpersonal Skills | IBM | Soft Skills | Jul 2025 |
-| 9 | Jira SCRUM Project | Coursera | Project Management | Jul 2025 |
+<table>
+<thead>
+<tr>
+<th align="center">#</th>
+<th align="left">Certification</th>
+<th align="left">Provider</th>
+<th align="center">Category</th>
+<th align="center">Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">01</td>
+<td align="left">Microsoft Power BI (Data Analysis &amp; Visualization)</td>
+<td align="left">Uni Athena — Cambridge International (UK)</td>
+<td align="center">Data &amp; BI</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td align="center">02</td>
+<td align="left">WordPress (Building Websites)</td>
+<td align="left">Coursera</td>
+<td align="center">Web Development</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td align="center">03</td>
+<td align="left">Canva (Graphic Design)</td>
+<td align="left">Simplilearn</td>
+<td align="center">Design</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td align="center">04</td>
+<td align="left">IT Automation with Python</td>
+<td align="left">Google</td>
+<td align="center">Programming</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td align="center">05</td>
+<td align="left">Managing Basic Business Scenarios</td>
+<td align="left">SAP</td>
+<td align="center">ERP</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td align="center">06</td>
+<td align="left">Odoo 14 Essentials</td>
+<td align="left">Odoo</td>
+<td align="center">ERP</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td align="center">07</td>
+<td align="left">Foundations of Project Management</td>
+<td align="left">Google</td>
+<td align="center">Project Management</td>
+<td align="center">Jul 2025</td>
+</tr>
+<tr>
+<td align="center">08</td>
+<td align="left">Developing Interpersonal Skills</td>
+<td align="left">IBM</td>
+<td align="center">Soft Skills</td>
+<td align="center">Jul 2025</td>
+</tr>
+<tr>
+<td align="center">09</td>
+<td align="left">Jira SCRUM Project</td>
+<td align="left">Coursera</td>
+<td align="center">Project Management</td>
+<td align="center">Jul 2025</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
 <br>
 
-## GitHub Stats & Activity
+## GitHub Stats &amp; Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=dark&hide_border=true" alt="GitHub Streak" width="49%">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="49%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" alt="Contribution Graph" width="49%">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%">
+</td>
+<td align="center" width="50%">
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="100%">
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -217,7 +293,8 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,figma,git,github,wordpress,oracle,vscode&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,sql,oracle,figma&perline=8&theme=dark" alt="Core Tools"><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,jira,canva,ai,ps&perline=8&theme=dark" alt="Workflow Tools">
 
 </div>
 
