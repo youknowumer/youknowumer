@@ -12,9 +12,10 @@
 
 <br>
 
-## About
+## Muhammad Umer Faheem
+**Frontend Developer · Data & BI Enthusiast · Turning Digital Strategy into User-Centric Experiences**
 
-Ambitious BBIS student (8th semester, University of Management and Technology, Lahore) with hands-on experience across front-end development, IT support, database systems, and business process analysis — comfortable across the full stack of a small dev/BI toolkit, from `HTML`/`CSS`/`JS` to `SQL`, `Power BI`, and `Odoo ERP`.
+Ambitious BBIS student with a strong passion for technology, customer service, and continuous improvement. Brings hands-on experience in IT support, database systems, and business process analysis, along with solid proficiency in tools such as SQL, Microsoft Office Suite, and CRM platforms. Known for a detail-oriented approach and a collaborative mindset, demonstrated through both academic and practical project work. Eager to grow professionally and contribute to meaningful, results-driven initiatives within dynamic organizations.
 
 <div align="center">
 
@@ -73,16 +74,16 @@ Ambitious BBIS student (8th semester, University of Management and Technology, L
 
 <table>
 <tr>
-<td width="240"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore</sub></td>
-<td>Designed and coded interfaces using Photoshop, Illustrator, Figma, HTML, CSS and Java, collaborating via GitHub on real client projects.</td>
+<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
+<td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, CSS, and Java, while collaborating via GitHub.</td>
 </tr>
 <tr>
-<td width="240"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi</sub></td>
-<td>Supported talent acquisition (CV screening, interview scheduling) and new-hire onboarding; maintained employee records and processed payroll data via the Oracle HR database.</td>
+<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
+<td>Assisted in HR operations at a manufacturing firm by managing talent acquisition (CV screening, interview scheduling) and supporting new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
 </tr>
 <tr>
-<td width="240"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote</sub></td>
-<td>Prepared video datasets for computer vision — frame extraction, filtration, and YOLO ↔ COCO annotation conversion — managing labeling and QA workflows in CVAT.</td>
+<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
+<td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows using CVAT. Performed accurate data labeling, validation, and quality checks to support machine learning model development.</td>
 </tr>
 </table>
 
@@ -92,17 +93,28 @@ Ambitious BBIS student (8th semester, University of Management and Technology, L
 
 <table>
 <tr>
-<td width="30"><b>🧵</b></td>
+<td width="30" valign="top"><b>🧵</b></td>
 <td>
-<b>Artisan Aura Creations</b> — Sustainable Leather Goods Brand <sub>(Odoo ERP)</sub><br>
-Final-year capstone building a direct-to-consumer, ethically sourced leather goods brand end-to-end on Odoo ERP — integrating CRM, HR, Sales, and Inventory into unified procurement, marketing, and production workflows. Selected as <b>1 of 3 projects</b> exhibited at the ICAISAI'26 Project Exhibition Competition, evaluated by industry professionals.
+<b>Artisan Aura Creations</b> — Sustainable Leather Goods Brand <sub>(Odoo ERP Project)</sub><br><br>
+Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable leather goods, selected as <b>1 of only 3 projects</b> to be exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.
+<ul>
+<li>Implemented full-scale business operations using Odoo ERP, integrating CRM, HR, Sales, Inventory, and more</li>
+<li>Designed end-to-end workflows for procurement, marketing, and production through robust project management</li>
+<li>Championing eco-conscious fashion with customizable, ethically sourced leather products that blend style with sustainability</li>
+<li><i>Future vision:</i> grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship</li>
+</ul>
 </td>
 </tr>
 <tr>
-<td width="30"><b>🗄️</b></td>
+<td width="30" valign="top"><b>🗄️</b></td>
 <td>
-<b>Student Registration & Library Management Database Design</b><br>
-Structured database design (Oracle) for a student registration system covering department allocation, sectioning, fee tracking, and eligibility checks, with ER diagrams mapping relationships between students, advisors, instructors, and departments.
+<b>Database Structure Design</b> — Student Registration & Library Management System <sub>(Oracle)</sub><br><br>
+<ul>
+<li>Designed a structured database system for student registration using conceptual and logical modeling</li>
+<li>Included key processes like department allocation, sectioning, fee tracking, and eligibility checks</li>
+<li>Mapped relationships between students, advisors, instructors, and departments via ER diagrams</li>
+<li>Ensured efficient data flow, accuracy, and system integrity throughout the registration process</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -111,11 +123,13 @@ Structured database design (Oracle) for a student registration system covering d
 
 ## Awards & Recognition
 
-- 🥇 **Project Exhibition Selectee**, ICAISAI'26 (HSM, UMT) — 1 of only 3 projects selected, evaluated by a DevOps & Cloud industry expert
-- 🧩 **Capstone Project Lead**, Artisan Aura Creations — full-scale Odoo ERP system integrating CRM, HR, Sales & Inventory
-- ⭐ **Recognized Intern**, Tara Technologies — for UI/UX design and front-end contributions on live client projects
-- 📜 **Multi-Platform Certified** — Google, Microsoft, IBM, SAP, Coursera, Simplilearn
-- 👥 **Team Leader**, Academic Design & Tech Projects — interface design, user journey mapping, cross-functional delivery
+| | |
+|:--|:--|
+| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT — 1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
+| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT — built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
+| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd. — recognized for UI/UX design and front-end contributions on live client projects |
+| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn — certifications in IT Automation, Power BI, SAP, ERP, Project Management & more |
+| 👥 **Team Leader** | Academic Design & Tech Projects — led university teams through interface design, user journey mapping, and cross-functional delivery |
 
 <br>
 
