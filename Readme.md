@@ -22,13 +22,25 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
 </p>
 
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#certifications">Certifications</a> ·
+  <a href="#tools">Tools</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#awards">Awards</a> ·
+  <a href="#stats">GitHub Stats</a> ·
+  <a href="#connect">Contact</a>
+</p>
+
 <br>
 
 <!-- ============================================================= -->
 <!-- 👋 ABOUT                                                       -->
 <!-- ============================================================= -->
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center" id="about">👋 About Me</h2>
 
 <table width="100%">
   <tr>
@@ -65,7 +77,13 @@
 <!-- 💼 EXPERIENCE                                                  -->
 <!-- ============================================================= -->
 
-<h2 align="center">💼 Professional Experience</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34E5B0,50:34C8E8,100:7C6CF6&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="experience">💼 Professional Experience</h2>
 
 <table width="100%">
   <thead>
@@ -100,7 +118,13 @@
 <!-- 🎓 EDUCATION                                                   -->
 <!-- ============================================================= -->
 
-<h2 align="center">🎓 Education</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="education">🎓 Education</h2>
 
 <table width="100%">
   <tr>
@@ -121,7 +145,13 @@
 <!-- 🎓 CERTIFICATIONS                                              -->
 <!-- ============================================================= -->
 
-<h2 align="center">🎓 Certifications</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34E5B0,50:34C8E8,100:7C6CF6&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="certifications">🎓 Certifications</h2>
 <p align="center"><sub>Multi-platform certified across Google · Microsoft · SAP · IBM · Coursera · Simplilearn</sub></p>
 
 <table width="100%">
@@ -191,7 +221,7 @@
 <!-- 🛠️ TOOLS & TECHNOLOGIES                                        -->
 <!-- ============================================================= -->
 
-<h2 align="center">🛠️ Tools &amp; Technologies</h2>
+<h2 align="center" id="tools">🛠️ Tools &amp; Technologies</h2>
 <p align="center"><sub>The stack behind my frontend, data, and ERP work</sub></p>
 
 <table width="100%">
@@ -244,7 +274,7 @@
 <!-- 🚀 FEATURED PROJECTS                                           -->
 <!-- ============================================================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center" id="projects">🚀 Featured Projects</h2>
 
 <table width="100%">
   <tr>
@@ -276,7 +306,13 @@
 <!-- 🏆 AWARDS & ACHIEVEMENTS                                       -->
 <!-- ============================================================= -->
 
-<h2 align="center">🏆 Awards &amp; Achievements</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="awards">🏆 Awards &amp; Achievements</h2>
 
 <table width="100%">
   <tr>
@@ -307,7 +343,13 @@
 <!-- 📊 GITHUB STATS & ACTIVITY                                     -->
 <!-- ============================================================= -->
 
-<h2 align="center">📊 GitHub Stats &amp; Activity</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34E5B0,50:34C8E8,100:7C6CF6&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="stats">📊 GitHub Stats &amp; Activity</h2>
 <p align="center"><sub>Live snapshot of my open-source footprint</sub></p>
 
 <table width="100%">
@@ -342,7 +384,13 @@
 <!-- ✉️ CONTACT / FOOTER                                            -->
 <!-- ============================================================= -->
 
-<h2 align="center">✉️ Let's Connect</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<h2 align="center" id="connect">✉️ Let's Connect</h2>
 
 <p align="center">
   Open to frontend development, data &amp; BI, and ERP-focused opportunities. References available on request.
