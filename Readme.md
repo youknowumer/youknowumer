@@ -1,313 +1,359 @@
-<div align="center">
+<!-- ============================================================= -->
+<!-- 🖼️ BANNER                                                      -->
+<!-- ============================================================= -->
+<p align="center">
+  <img src="./banner.svg" alt="Muhammad Umer Faheem — Frontend Developer | Data & BI Enthusiast" width="100%"/>
+</p>
 
-<img src="banner.svg" alt="Muhammad Umer Faheem — Frontend Developer | Data & BI Enthusiast" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/BBIS-8th_Semester-7C6CF6?style=for-the-badge&labelColor=0B0F1E"/>
+  <img src="https://img.shields.io/badge/Focus-Odoo_ERP_·_Power_BI-34C8E8?style=for-the-badge&labelColor=0B0F1E"/>
+  <img src="https://img.shields.io/badge/Based_in-Lahore,_Pakistan-34E5B0?style=for-the-badge&labelColor=0B0F1E"/>
+  <img src="https://komarev.com/ghpvc/?username=youknowumer&style=for-the-badge&color=7C6CF6&label=PROFILE+VIEWS"/>
+</p>
 
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://wa.me/923258148564"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-
-</div>
-
-<br>
-
-## Muhammad Umer Faheem
-**Frontend Developer · Data & BI Enthusiast · Turning Digital Strategy into User-Centric Experiences**
-
-Ambitious BBIS student with a strong passion for technology, customer service, and continuous improvement. Brings hands-on experience in IT support, database systems, and business process analysis, along with solid proficiency in tools such as SQL, Microsoft Office Suite, and CRM platforms. Known for a detail-oriented approach and a collaborative mindset, demonstrated through both academic and practical project work. Eager to grow professionally and contribute to meaningful, results-driven initiatives within dynamic organizations.
-
-<div align="center">
-
-| | |
-|:--|:--|
-| 📍 **Location** | Lahore, Pakistan |
-| ✉️ **Email** | umerfaheem632@gmail.com |
-| 📞 **Phone** | 031-443-33022 |
-| 💬 **WhatsApp** | 032-581-48564 |
-| 🔗 **LinkedIn** | [linkedin.com/in/youknowumer](https://www.linkedin.com/in/youknowumer/) |
-| 💻 **GitHub** | [github.com/youknowumer](https://github.com/youknowumer) |
-| 🗣️ **Languages** | English (Fluent) · Urdu (Fluent) |
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
+</p>
 
 <br>
 
-## Education
+<!-- ============================================================= -->
+<!-- 👋 ABOUT                                                       -->
+<!-- ============================================================= -->
 
-<table>
-<tr>
-<td width="260"><b>Bachelor of Business Information System (BBIS)</b><br>University of Management and Technology (UMT)<br><sub>Nov 2022 – Aug 2026 · Lahore, Pakistan</sub></td>
-<td>Currently in 8th semester. Coursework and capstone work spanning ERP systems, database design, and business process analysis.</td>
-</tr>
-<tr>
-<td width="260"><b>FSc. Pre-Engineering</b><br>Unique College (UGI)<br><sub>2020 – 2022 · Lahore, Pakistan</sub></td>
-<td>Pre-engineering foundation in mathematics and sciences.</td>
-</tr>
+<h2 align="center">👋 About Me</h2>
+
+<table width="100%">
+  <tr>
+    <td width="70%" valign="middle">
+      <p>
+        Ambitious <b>BBIS</b> student (8th semester, University of Management and Technology) with a strong
+        passion for technology, customer service, and continuous improvement. I bring hands-on experience in
+        <b>frontend development</b>, <b>IT support</b>, <b>database systems</b>, and <b>business process analysis</b>,
+        backed by solid proficiency in SQL, Power BI, the MS Office Suite, and CRM/ERP platforms.
+      </p>
+      <p>
+        Known for a detail-oriented approach and a collaborative mindset — demonstrated through both academic and
+        industry project work — I'm eager to contribute to meaningful, results-driven initiatives within dynamic
+        organizations.
+      </p>
+      <ul>
+        <li>🔭 Currently building <b>Artisan Aura Creations</b> — a full-scale Odoo ERP capstone project</li>
+        <li>📊 Deepening my expertise in <b>Power BI</b> and data-driven decision making</li>
+        <li>🎯 Actively seeking <b>frontend development</b> &amp; <b>BI/data analytics</b> opportunities</li>
+        <li>💬 Ask me about Odoo ERP, SAP ERP, Power BI, or frontend UI/UX</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/English-Fluent-0B0F1E?style=flat-square&labelColor=7C6CF6"/><br/><br/>
+      <img src="https://img.shields.io/badge/Urdu-Fluent-0B0F1E?style=flat-square&labelColor=34C8E8"/><br/><br/>
+      <img src="https://img.shields.io/badge/Location-Iqbal_Town,_Lahore-0B0F1E?style=flat-square&labelColor=34E5B0"/>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-## Skills
+<!-- ============================================================= -->
+<!-- 💼 EXPERIENCE                                                  -->
+<!-- ============================================================= -->
 
-### ➢ Technical
+<h2 align="center">💼 Professional Experience</h2>
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS_(Basic)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B_(Basic)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
-### ➢ ERP, Design & Project Tools
-
-<div align="center">
-
-![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ERP_(Financial_%26_Supply_Chain)-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Audition](https://img.shields.io/badge/Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA_(SCRUM)-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-</div>
-
-### ➢ Productivity & Analysis
-
-<div align="center">
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
-![SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-</div>
-
-### ➢ Soft Skills & Languages
-
-<table>
-<tr>
-<td width="140" valign="top"><b>Soft Skills</b></td>
-<td>Professional social media management · Brand marketing · Strong customer service · Empathetic listening · Leadership</td>
-</tr>
-<tr>
-<td valign="top"><b>Languages</b></td>
-<td>English (Fluent) · Urdu (Fluent)</td>
-</tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Role &amp; Company</th>
+      <th align="left">Duration</th>
+      <th align="left">Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Annotator</b><br/>Nex Pred Solutions <sub>(Remote)</sub></td>
+      <td align="center">Feb 2026 – Mar 2026</td>
+      <td>Processed &amp; prepared video datasets for computer vision; converted annotations between YOLO ⇄ COCO formats; managed labeling workflows in CVAT with quality checks for ML model development.</td>
+    </tr>
+    <tr>
+      <td><b>HR Internee</b><br/>MGA Industries Pvt. Ltd. <sub>(On-site, Manga Mandi, Lahore)</sub></td>
+      <td align="center">Aug 2025 – Sep 2025</td>
+      <td>Supported talent acquisition (CV screening, interview scheduling) &amp; onboarding; maintained employee records and processed payroll data using the Oracle HR database.</td>
+    </tr>
+    <tr>
+      <td><b>Front End Intern</b><br/>Tara Technologies Pvt. Ltd. <sub>(On-site, Lahore)</sub></td>
+      <td align="center">Jul 2023 – Sep 2023</td>
+      <td>Designed &amp; coded live client interfaces using Photoshop, Illustrator, Figma, HTML, CSS, and JavaScript; collaborated via GitHub. Recognized for UI/UX contributions.</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
 
-## Professional Experience
+<!-- ============================================================= -->
+<!-- 🎓 EDUCATION                                                   -->
+<!-- ============================================================= -->
 
-<table>
-<tr>
-<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
-<td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, CSS, and Java, while collaborating via GitHub.</td>
-</tr>
-<tr>
-<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
-<td>Assisted in HR operations at a manufacturing firm by managing talent acquisition (CV screening, interview scheduling) and supporting new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
-</tr>
-<tr>
-<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
-<td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows using CVAT. Performed accurate data labeling, validation, and quality checks to support machine learning model development.</td>
-</tr>
+<h2 align="center">🎓 Education</h2>
+
+<table width="100%">
+  <tr>
+    <td width="8%" align="center">🏛️</td>
+    <td><b>Bachelor of Business Information System (BBIS)</b><br/>University of Management and Technology (UMT), Lahore</td>
+    <td align="right"><sub>Nov 2022 – Aug 2026<br/>Current: 8th Semester</sub></td>
+  </tr>
+  <tr>
+    <td width="8%" align="center">📘</td>
+    <td><b>FSc. Pre-Engineering</b><br/>Unique College (UGI), Lahore</td>
+    <td align="right"><sub>2020 – 2022</sub></td>
+  </tr>
 </table>
 
 <br>
 
-## Featured Projects
+<!-- ============================================================= -->
+<!-- 🎓 CERTIFICATIONS                                              -->
+<!-- ============================================================= -->
 
-<table>
-<tr>
-<td width="30" valign="top"><b>🧵</b></td>
-<td>
-<b>Artisan Aura Creations</b> — Sustainable Leather Goods Brand <sub>(Odoo ERP Project)</sub><br><br>
-Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable leather goods, selected as <b>1 of only 3 projects</b> to be exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.
-<ul>
-<li>Implemented full-scale business operations using Odoo ERP, integrating CRM, HR, Sales, Inventory, and more</li>
-<li>Designed end-to-end workflows for procurement, marketing, and production through robust project management</li>
-<li>Championing eco-conscious fashion with customizable, ethically sourced leather products that blend style with sustainability</li>
-<li><i>Future vision:</i> grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="30" valign="top"><b>🗄️</b></td>
-<td>
-<b>Database Structure Design</b> — Student Registration & Library Management System <sub>(Oracle)</sub><br><br>
-<ul>
-<li>Designed a structured database system for student registration using conceptual and logical modeling</li>
-<li>Included key processes like department allocation, sectioning, fee tracking, and eligibility checks</li>
-<li>Mapped relationships between students, advisors, instructors, and departments via ER diagrams</li>
-<li>Ensured efficient data flow, accuracy, and system integrity throughout the registration process</li>
-</ul>
-</td>
-</tr>
+<h2 align="center">🎓 Certifications</h2>
+<p align="center"><sub>Multi-platform certified across Google · Microsoft · SAP · IBM · Coursera · Simplilearn</sub></p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">🏅 Certification</th>
+      <th align="left">🏢 Issued By</th>
+      <th align="center">📅 Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Microsoft Power BI — Data Analysis &amp; Visualization</td>
+      <td>Uni Athena (Cambridge International Qualification, UK)</td>
+      <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>WordPress — Building Websites</td>
+      <td>Coursera</td>
+      <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>Canva — Graphic Design</td>
+      <td>Simplilearn</td>
+      <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>IT Automation with Python</td>
+      <td>Google</td>
+      <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>Managing Basic Business Scenarios</td>
+      <td>SAP</td>
+      <td align="center"><img src="https://img.shields.io/badge/Jun_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>ODOO 14 Essentials</td>
+      <td>ODOO</td>
+      <td align="center"><img src="https://img.shields.io/badge/Jun_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>Foundations of Project Management</td>
+      <td>Google</td>
+      <td align="center"><img src="https://img.shields.io/badge/Jun_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>Developing Interpersonal Skills</td>
+      <td>IBM</td>
+      <td align="center"><img src="https://img.shields.io/badge/Jul_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td>Jira SCRUM Project</td>
+      <td>Coursera</td>
+      <td align="center"><img src="https://img.shields.io/badge/Jul_2025-0B0F1E?style=flat-square"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:34E5B0,50:34C8E8,100:7C6CF6&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<!-- ============================================================= -->
+<!-- 🛠️ TOOLS & TECHNOLOGIES                                        -->
+<!-- ============================================================= -->
+
+<h2 align="center">🛠️ Tools &amp; Technologies</h2>
+<p align="center"><sub>The stack behind my frontend, data, and ERP work</sub></p>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="16.6%"><b>Languages</b></td>
+    <td align="center" width="16.6%"><b>Web</b></td>
+    <td align="center" width="16.6%"><b>Data &amp; BI</b></td>
+    <td align="center" width="16.6%"><b>ERP</b></td>
+    <td align="center" width="16.6%"><b>Design</b></td>
+    <td align="center" width="16.6%"><b>Productivity</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,cpp,js" alt="languages"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,wordpress" alt="web"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=powerbi,oracle" alt="data & bi"/>
+      &nbsp;<img src="https://img.shields.io/badge/SPSS-1E4C7C?style=for-the-badge&logo=ibm&logoColor=white" height="28"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="28"/><br/>
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="28"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" alt="design"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="28"/><br/>
+      <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="6">
+      <sub><b>Workflow &amp; Version Control</b></sub><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,jira,figma" alt="workflow"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C6CF6,50:34C8E8,100:34E5B0&height=3&section=header&width=100%"/>
+</p>
+
+<br>
+
+<!-- ============================================================= -->
+<!-- 🚀 FEATURED PROJECTS                                           -->
+<!-- ============================================================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="6%" align="center">🧵</td>
+    <td>
+      <b>Artisan Aura Creations — Sustainable Leather Goods Brand</b>
+      <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white"/><br/>
+      Final-year capstone: a direct-to-consumer, sustainable leather goods brand built on full-scale <b>Odoo ERP</b>
+      operations — integrating CRM, HR, Sales, and Inventory. Designed end-to-end procurement, marketing, and
+      production workflows for an ethically-sourced, customizable product line.
+      <br/><sub>🏆 Selected as 1 of only 3 projects exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="6%" align="center">🗄️</td>
+    <td>
+      <b>Student Registration &amp; Library Management Database Design</b>
+      <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/>
+      Designed a structured database system for student registration using conceptual and logical modeling —
+      covering department allocation, sectioning, fee tracking, and eligibility checks. Mapped ER relationships
+      between students, advisors, instructors, and departments to ensure data integrity and efficient flow.
+    </td>
+  </tr>
 </table>
 
 <br>
 
-## Awards & Achievements
+<!-- ============================================================= -->
+<!-- 🏆 AWARDS & ACHIEVEMENTS                                       -->
+<!-- ============================================================= -->
 
-| | |
-|:--|:--|
-| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT — 1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
-| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT — built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
-| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd. — recognized for UI/UX design and front-end contributions on live client projects |
-| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn — certifications in IT Automation, Power BI, SAP, ERP, Project Management & more |
-| 👥 **Team Leader** | Academic Design & Tech Projects — led university teams through interface design, user journey mapping, and cross-functional delivery |
+<h2 align="center">🏆 Awards &amp; Achievements</h2>
 
-<br>
-
-## Certifications
-
-<div align="center">
-
-<table>
-<thead>
-<tr>
-<th align="center">#</th>
-<th align="left">Certification</th>
-<th align="left">Provider</th>
-<th align="center">Category</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">01</td>
-<td align="left">Microsoft Power BI (Data Analysis &amp; Visualization)</td>
-<td align="left">Uni Athena — Cambridge International (UK)</td>
-<td align="center">Data &amp; BI</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center">02</td>
-<td align="left">WordPress (Building Websites)</td>
-<td align="left">Coursera</td>
-<td align="center">Web Development</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center">03</td>
-<td align="left">Canva (Graphic Design)</td>
-<td align="left">Simplilearn</td>
-<td align="center">Design</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center">04</td>
-<td align="left">IT Automation with Python</td>
-<td align="left">Google</td>
-<td align="center">Programming</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center">05</td>
-<td align="left">Managing Basic Business Scenarios</td>
-<td align="left">SAP</td>
-<td align="center">ERP</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center">06</td>
-<td align="left">Odoo 14 Essentials</td>
-<td align="left">Odoo</td>
-<td align="center">ERP</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center">07</td>
-<td align="left">Foundations of Project Management</td>
-<td align="left">Google</td>
-<td align="center">Project Management</td>
-<td align="center">Jul 2025</td>
-</tr>
-<tr>
-<td align="center">08</td>
-<td align="left">Developing Interpersonal Skills</td>
-<td align="left">IBM</td>
-<td align="center">Soft Skills</td>
-<td align="center">Jul 2025</td>
-</tr>
-<tr>
-<td align="center">09</td>
-<td align="left">Jira SCRUM Project</td>
-<td align="left">Coursera</td>
-<td align="center">Project Management</td>
-<td align="center">Jul 2025</td>
-</tr>
-</tbody>
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">🥇</td>
+    <td><b>Project Exhibition Selectee</b> — ICAISAI'26, HSM UMT<br/><sub>1 of only 3 projects selected for exhibition; evaluated by a DevOps &amp; Cloud industry expert from Nex Skill.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧑‍💻</td>
+    <td><b>Capstone Project Lead</b> — Artisan Aura Creations, UMT<br/><sub>Built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">⭐</td>
+    <td><b>Recognized Intern</b> — Tara Technologies Pvt. Ltd.<br/><sub>Recognized for UI/UX design and front-end contributions on live client projects.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📜</td>
+    <td><b>Multi-Platform Certified</b> — Google, Microsoft, IBM, SAP, Coursera, Simplilearn<br/><sub>Certifications spanning IT Automation, Power BI, SAP, ERP, and Project Management.</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🧭</td>
+    <td><b>Team Leader</b> — Academic Design &amp; Tech Projects<br/><sub>Led university teams through interface design, user journey mapping, and cross-functional delivery.</sub></td>
+  </tr>
 </table>
 
-</div>
-
 <br>
 
-## GitHub Stats &amp; Activity
+<!-- ============================================================= -->
+<!-- 📊 GITHUB STATS & ACTIVITY                                     -->
+<!-- ============================================================= -->
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats &amp; Activity</h2>
+<p align="center"><sub>Live snapshot of my open-source footprint</sub></p>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%">
-</td>
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=dark&hide_border=true" alt="GitHub Streak" width="100%">
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="100%">
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7C6CF6&icon_color=34C8E8&text_color=F5F6FA&bg_color=0B0F1E" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&title_color=7C6CF6&text_color=F5F6FA&bg_color=0B0F1E" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0B0F1E&stroke=7C6CF6&ring=34C8E8&fire=34E5B0&currStreakLabel=F5F6FA" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=tokyo-night&hide_border=true&bg_color=0B0F1E&color=F5F6FA&line=7C6CF6&point=34E5B0" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=youknowumer&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" width="100%"/>
+    </td>
+  </tr>
 </table>
 
-</div>
-
 <br>
 
-## Tools I Work With
+<!-- ============================================================= -->
+<!-- ✉️ CONTACT / FOOTER                                            -->
+<!-- ============================================================= -->
 
-<div align="center">
+<h2 align="center">✉️ Let's Connect</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,sql,oracle,figma&perline=8&theme=dark" alt="Core Tools"><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,jira,canva,ai,ps&perline=8&theme=dark" alt="Workflow Tools">
+<p align="center">
+  Open to frontend development, data &amp; BI, and ERP-focused opportunities. References available on request.
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<br>
-
-<div align="center">
-
-### Let's build something
-
-<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<sub>References available upon request.</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1E,100:05060C&height=90&section=footer&width=100%"/>
+</p>
