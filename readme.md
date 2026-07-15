@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Muhammad Umer Faheem — Frontend Developer | Data & BI Enthusiast" width="100%">
+<img src="banner.svg" alt="Muhammad Umer Faheem  Frontend Developer | Data & BI Enthusiast" width="100%">
 
 <br><br>
 
@@ -21,8 +21,8 @@ Ambitious BBIS student with a strong passion for technology, customer service, a
 
 | | |
 |---|---|
-| 🎓 **Education** | BBIS, University of Management and Technology — Nov 2022 – Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations* — Odoo ERP–powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
+| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022 – Aug 2026 |
+| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP–powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
 | 📍 **Location** | Lahore, Pakistan |
 | 💬 **Languages** | English (fluent) · Urdu (fluent) |
 
@@ -95,7 +95,7 @@ Ambitious BBIS student with a strong passion for technology, customer service, a
 <tr>
 <td width="30" valign="top"><b>🧵</b></td>
 <td>
-<b>Artisan Aura Creations</b> — Sustainable Leather Goods Brand <sub>(Odoo ERP Project)</sub><br><br>
+<b>Artisan Aura Creations</b>  Sustainable Leather Goods Brand <sub>(Odoo ERP Project)</sub><br><br>
 Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable leather goods, selected as <b>1 of only 3 projects</b> to be exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.
 <ul>
 <li>Implemented full-scale business operations using Odoo ERP, integrating CRM, HR, Sales, Inventory, and more</li>
@@ -108,7 +108,7 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 <tr>
 <td width="30" valign="top"><b>🗄️</b></td>
 <td>
-<b>Database Structure Design</b> — Student Registration & Library Management System <sub>(Oracle)</sub><br><br>
+<b>Database Structure Design</b>  Student Registration & Library Management System <sub>(Oracle)</sub><br><br>
 <ul>
 <li>Designed a structured database system for student registration using conceptual and logical modeling</li>
 <li>Included key processes like department allocation, sectioning, fee tracking, and eligibility checks</li>
@@ -125,11 +125,11 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 
 | | |
 |:--|:--|
-| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT — 1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
-| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT — built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
-| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd. — recognized for UI/UX design and front-end contributions on live client projects |
-| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn — certifications in IT Automation, Power BI, SAP, ERP, Project Management & more |
-| 👥 **Team Leader** | Academic Design & Tech Projects — led university teams through interface design, user journey mapping, and cross-functional delivery |
+| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT  1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
+| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT  built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
+| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd.  recognized for UI/UX design and front-end contributions on live client projects |
+| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn  certifications in IT Automation, Power BI, SAP, ERP, Project Management & more |
+| 👥 **Team Leader** | Academic Design & Tech Projects  led university teams through interface design, user journey mapping, and cross-functional delivery |
 
 <br>
 
