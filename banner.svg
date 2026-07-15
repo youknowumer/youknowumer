@@ -267,7 +267,7 @@
 
   <!-- ============ FOOTER: socials + contact recap ============ -->
   <g transform="translate(80,694)">
-    <a xlink:href="https://github.com/youknowumer" target="_blank">
+    <a xlink:href="" target="_blank">
       <g transform="translate(0,0)">
         <circle cx="22" cy="22" r="22" class="social-btn"/>
         <text x="22" y="27" text-anchor="middle" class="social-text">GH</text>
