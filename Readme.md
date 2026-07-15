@@ -49,40 +49,57 @@ Ambitious BBIS student with a strong passion for technology, customer service, a
 
 <br>
 
-## Core Competencies
+## Skills
+
+### ➢ Technical
 
 <div align="center">
 
-**Technical**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS_(Basic)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B_(Basic)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+### ➢ ERP, Design & Project Tools
+
+<div align="center">
+
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_ERP_(Financial_%26_Supply_Chain)-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 ![Audition](https://img.shields.io/badge/Audition-9999FF?style=flat-square&logo=adobeaudition&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira_SCRUM-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/JIRA_(SCRUM)-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+### ➢ Productivity & Analysis
+
+<div align="center">
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 ![Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoftaccess&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoftoffice&logoColor=white)
+![SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 </div>
+
+### ➢ Soft Skills & Languages
 
 <table>
 <tr>
@@ -164,17 +181,43 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 
 <div align="center">
 
-| Certification | Provider | Date |
-|:--|:--|:--:|
-| Microsoft Power BI (Data Analysis & Visualization) | Uni Athena, Cambridge International Qualification (UK) | Apr 2025 |
-| WordPress (Building Websites) | Coursera | Apr 2025 |
-| Canva (Graphic Design) | Simplilearn | Apr 2025 |
-| IT Automation with Python | Google | Jun 2025 |
-| Managing Basic Business Scenarios | SAP | Jun 2025 |
-| Odoo 14 Essentials | Odoo | Jun 2025 |
-| Foundations of Project Management | Google | Jul 2025 |
-| Developing Interpersonal Skills | IBM | Jul 2025 |
-| Jira SCRUM Project | Coursera | Jul 2025 |
+| # | Certification | Provider | Category | Date |
+|:-:|:--|:--|:--|:-:|
+| 1 | Microsoft Power BI (Data Analysis & Visualization) | Uni Athena — Cambridge International Qualification (UK) | Data & BI | Apr 2025 |
+| 2 | WordPress (Building Websites) | Coursera | Web Development | Apr 2025 |
+| 3 | Canva (Graphic Design) | Simplilearn | Design | Apr 2025 |
+| 4 | IT Automation with Python | Google | Programming | Jun 2025 |
+| 5 | Managing Basic Business Scenarios | SAP | ERP | Jun 2025 |
+| 6 | Odoo 14 Essentials | Odoo | ERP | Jun 2025 |
+| 7 | Foundations of Project Management | Google | Project Management | Jul 2025 |
+| 8 | Developing Interpersonal Skills | IBM | Soft Skills | Jul 2025 |
+| 9 | Jira SCRUM Project | Coursera | Project Management | Jul 2025 |
+
+</div>
+
+<br>
+
+## GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=dark&hide_border=true" alt="GitHub Streak" width="49%">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" width="49%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" alt="Contribution Graph" width="49%">
+
+</div>
+
+<br>
+
+## Tools I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,figma,git,github,wordpress,oracle,vscode&theme=dark" alt="Tools">
 
 </div>
 
