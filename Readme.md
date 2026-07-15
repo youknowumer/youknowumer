@@ -2,7 +2,7 @@
 <!-- 🖼️ BANNER                                                      -->
 <!-- ============================================================= -->
 <p align="center">
-  <img src="./banner.svg" alt="Muhammad Umer Faheem — Frontend Developer | Data & BI Enthusiast" width="100%"/>
+  <img src="./banner.svg" alt="Muhammad Umer Faheem  Frontend Developer | Data & BI Enthusiast" width="100%"/>
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@
         backed by solid proficiency in SQL, Power BI, the MS Office Suite, and CRM/ERP platforms.
       </p>
       <p>
-        Known for a detail-oriented approach and a collaborative mindset — demonstrated through both academic and
-        industry project work — I'm eager to contribute to meaningful, results-driven initiatives within dynamic
+        Known for a detail-oriented approach and a collaborative mindset  demonstrated through both academic and
+        industry project work  I'm eager to contribute to meaningful, results-driven initiatives within dynamic
         organizations.
       </p>
       <ul>
-        <li>🔭 Currently building <b>Artisan Aura Creations</b> — a full-scale Odoo ERP capstone project</li>
+        <li>🔭 Currently building <b>Artisan Aura Creations</b>  a full-scale Odoo ERP capstone project</li>
         <li>📊 Deepening my expertise in <b>Power BI</b> and data-driven decision making</li>
         <li>🎯 Actively seeking <b>frontend development</b> &amp; <b>BI/data analytics</b> opportunities</li>
         <li>💬 Ask me about Odoo ERP, SAP ERP, Power BI, or frontend UI/UX</li>
@@ -164,17 +164,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>Microsoft Power BI — Data Analysis &amp; Visualization</td>
+      <td>Microsoft Power BI  Data Analysis &amp; Visualization</td>
       <td>Uni Athena (Cambridge International Qualification, UK)</td>
       <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
     </tr>
     <tr>
-      <td>WordPress — Building Websites</td>
+      <td>WordPress  Building Websites</td>
       <td>Coursera</td>
       <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
     </tr>
     <tr>
-      <td>Canva — Graphic Design</td>
+      <td>Canva  Graphic Design</td>
       <td>Simplilearn</td>
       <td align="center"><img src="https://img.shields.io/badge/Apr_2025-0B0F1E?style=flat-square"/></td>
     </tr>
@@ -280,10 +280,10 @@
   <tr>
     <td width="6%" align="center">🧵</td>
     <td>
-      <b>Artisan Aura Creations — Sustainable Leather Goods Brand</b>
+      <b>Artisan Aura Creations  Sustainable Leather Goods Brand</b>
       <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white"/><br/>
       Final-year capstone: a direct-to-consumer, sustainable leather goods brand built on full-scale <b>Odoo ERP</b>
-      operations — integrating CRM, HR, Sales, and Inventory. Designed end-to-end procurement, marketing, and
+      operations  integrating CRM, HR, Sales, and Inventory. Designed end-to-end procurement, marketing, and
       production workflows for an ethically-sourced, customizable product line.
       <br/><sub>🏆 Selected as 1 of only 3 projects exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.</sub>
     </td>
@@ -293,7 +293,7 @@
     <td>
       <b>Student Registration &amp; Library Management Database Design</b>
       <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/><br/>
-      Designed a structured database system for student registration using conceptual and logical modeling —
+      Designed a structured database system for student registration using conceptual and logical modeling 
       covering department allocation, sectioning, fee tracking, and eligibility checks. Mapped ER relationships
       between students, advisors, instructors, and departments to ensure data integrity and efficient flow.
     </td>
@@ -317,23 +317,23 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">🥇</td>
-    <td><b>Project Exhibition Selectee</b> — ICAISAI'26, HSM UMT<br/><sub>1 of only 3 projects selected for exhibition; evaluated by a DevOps &amp; Cloud industry expert from Nex Skill.</sub></td>
+    <td><b>Project Exhibition Selectee</b>  ICAISAI'26, HSM UMT<br/><sub>1 of only 3 projects selected for exhibition; evaluated by a DevOps &amp; Cloud industry expert from Nex Skill.</sub></td>
   </tr>
   <tr>
     <td align="center">🧑‍💻</td>
-    <td><b>Capstone Project Lead</b> — Artisan Aura Creations, UMT<br/><sub>Built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory.</sub></td>
+    <td><b>Capstone Project Lead</b>  Artisan Aura Creations, UMT<br/><sub>Built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory.</sub></td>
   </tr>
   <tr>
     <td align="center">⭐</td>
-    <td><b>Recognized Intern</b> — Tara Technologies Pvt. Ltd.<br/><sub>Recognized for UI/UX design and front-end contributions on live client projects.</sub></td>
+    <td><b>Recognized Intern</b>  Tara Technologies Pvt. Ltd.<br/><sub>Recognized for UI/UX design and front-end contributions on live client projects.</sub></td>
   </tr>
   <tr>
     <td align="center">📜</td>
-    <td><b>Multi-Platform Certified</b> — Google, Microsoft, IBM, SAP, Coursera, Simplilearn<br/><sub>Certifications spanning IT Automation, Power BI, SAP, ERP, and Project Management.</sub></td>
+    <td><b>Multi-Platform Certified</b>  Google, Microsoft, IBM, SAP, Coursera, Simplilearn<br/><sub>Certifications spanning IT Automation, Power BI, SAP, ERP, and Project Management.</sub></td>
   </tr>
   <tr>
     <td align="center">🧭</td>
-    <td><b>Team Leader</b> — Academic Design &amp; Tech Projects<br/><sub>Led university teams through interface design, user journey mapping, and cross-functional delivery.</sub></td>
+    <td><b>Team Leader</b>  Academic Design &amp; Tech Projects<br/><sub>Led university teams through interface design, user journey mapping, and cross-functional delivery.</sub></td>
   </tr>
 </table>
 
