@@ -190,12 +190,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=youknowumer&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&layout=compact" width="49%" />
-
 </div>
-
----
-
 
 ---
 
