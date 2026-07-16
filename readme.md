@@ -12,10 +12,19 @@
 
 <br>
 
-## Muhammad Umer Faheem
-**Frontend Developer · Data & BI Enthusiast · Turning Digital Strategy into User-Centric Experiences**
+### 🟣 About Me
 
-Ambitious BBIS student with a strong passion for technology, customer service, and continuous improvement. Brings hands-on experience in IT support, database systems, and business process analysis, along with solid proficiency in tools such as SQL, Microsoft Office Suite, and CRM platforms. Known for a detail-oriented approach and a collaborative mindset, demonstrated through both academic and practical project work. Eager to grow professionally and contribute to meaningful, results-driven initiatives within dynamic organizations.
+I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at UMT, Lahore (Class of 2026), with a strong passion for **frontend engineering, business intelligence, and enterprise systems**. I bring hands-on experience across **IT support, database design, ERP implementation, and UI/UX**, blending technical execution with a **product and business-strategy mindset**.
+
+- 🎨 Frontend development with HTML, CSS, JavaScript (Basic), WordPress & Figma
+- 📊 Business Intelligence & data visualization using **Power BI**, **SQL**, and **Oracle DB**
+- 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP (Financial & Supply Chain)**
+- 🎬 Creative & design toolkit — Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
+- 🧩 Detail-oriented, collaborative, and outcome-driven across academic and real-world projects
+
+**🟢 Open To:** Frontend Development Roles · Business Intelligence & Data Analyst Roles · ERP/CRM Implementation · Internships & Junior Engineering Positions
+
+---
 
 <div align="center">
 
@@ -89,35 +98,49 @@ Ambitious BBIS student with a strong passion for technology, customer service, a
 
 <br>
 
-## Featured Projects
 
-<table>
-<tr>
-<td width="30" valign="top"><b>🧵</b></td>
-<td>
-<b>Artisan Aura Creations</b>  Sustainable Leather Goods Brand <sub>(Odoo ERP Project)</sub><br><br>
-Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable leather goods, selected as <b>1 of only 3 projects</b> to be exhibited at the Project Exhibition Competition, ICAISAI'26 (HSM–UMT), evaluated by industry professionals.
-<ul>
-<li>Implemented full-scale business operations using Odoo ERP, integrating CRM, HR, Sales, Inventory, and more</li>
-<li>Designed end-to-end workflows for procurement, marketing, and production through robust project management</li>
-<li>Championing eco-conscious fashion with customizable, ethically sourced leather products that blend style with sustainability</li>
-<li><i>Future vision:</i> grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="30" valign="top"><b>🗄️</b></td>
-<td>
-<b>Database Structure Design</b>  Student Registration & Library Management System <sub>(Oracle)</sub><br><br>
-<ul>
-<li>Designed a structured database system for student registration using conceptual and logical modeling</li>
-<li>Included key processes like department allocation, sectioning, fee tracking, and eligibility checks</li>
-<li>Mapped relationships between students, advisors, instructors, and departments via ER diagrams</li>
-<li>Ensured efficient data flow, accuracy, and system integrity throughout the registration process</li>
-</ul>
-</td>
-</tr>
-</table>
+### 🟣 Featured Projects
+
+<details>
+<summary><b>🛍️ Artisan Aura Creations — Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
+<br/>
+
+Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Odoo ERP (CRM, HR, Sales, Inventory) |
+| **Scale** | Full-scale simulated business operations |
+| **Workflows** | End-to-end procurement, marketing & production workflows |
+| **Governance** | Role-based ERP access & data integrity controls |
+| **Impact** | 1 of 3 projects exhibited at ICAISAI'26, evaluated by industry professionals |
+| **Vision** | Grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship |
+| **Repository** | Available upon request |
+
+Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion — with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
+
+</details>
+
+<details>
+<summary><b>🗄️ Student Registration & Library Management Database System</b></summary>
+<br/>
+
+A structured Oracle-based database system designed using conceptual and logical modeling for student registration and library management.
+
+| Aspect | Details |
+|---|---|
+| **Stack** | Oracle Database, ER Modeling |
+| **Scale** | Institution-wide registration & library workflows |
+| **Processes Covered** | Department allocation, sectioning, fee tracking, eligibility checks |
+| **Integrity** | Referential integrity & eligibility validation checks |
+| **Impact** | Efficient department allocation, sectioning, and fee tracking |
+| **Repository** | Available upon request |
+
+Mapped relationships between students, advisors, instructors, and departments via ER diagrams, ensuring accuracy and system integrity throughout the registration process.
+
+</details>
+
+---
 
 <br>
 
@@ -150,6 +173,51 @@ Capstone & Exhibition Project: a direct-to-consumer brand redefining sustainable
 | Jira SCRUM Project | Coursera | Jul 2025 |
 
 </div>
+
+### 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="48%" />
+
+</div>
+
+---
+### 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+### 🟣 Current Focus
+
+```yaml
+Learning:
+  - Advanced JavaScript & modern frontend frameworks
+  - Deeper SQL & data modeling for BI
+
+Building:
+  - Artisan Aura Creations (Odoo ERP capstone)
+  - Personal portfolio & frontend projects
+
+Exploring:
+  - Computer vision data pipelines (YOLO/COCO)
+  - ERP-driven business process automation
+
+Open To:
+  - Frontend Development roles
+  - Business Intelligence / Data Analyst roles
+  - Internships & entry-level engineering positions
+```
+
+---
 
 <br>
 
