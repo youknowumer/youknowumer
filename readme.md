@@ -4,12 +4,6 @@
 
 <br/>
 
-![BBIS](https://img.shields.io/badge/BBIS-University%20of%20Management%20%26%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youknowumer/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerfaheem632@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youknowumer)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
 ![Stars](https://img.shields.io/github/stars/youknowumer?style=flat-square&color=7c3aed&label=Stars)
