@@ -219,8 +219,6 @@ Open To:
 
 <sub>References available upon request.</sub>
 
-<img src="footer.svg" alt="footer" />
-
 <img src="footer-top.svg" alt="" />
 <p align="center">
   <a href="https://github.com/youknowumer"><img src="icons/icon-github.svg" width="34" /></a>
