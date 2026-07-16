@@ -184,14 +184,60 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9&card_width=500" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&card_width=500" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="48%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&card_width=1030" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=youknowumer&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&layout=compact" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youknowumer&theme=radical&utcOffset=5" width="49%" />
 
 </div>
 
 ---
+
+### 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=youknowumer&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=5" width="100%" />
+
+</div>
+
+---
+
+### 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&bg_color=0d1117&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Umer's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+### 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+### 🟣 Repositories Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youknowumer&repo=REPO_NAME_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=youknowumer&repo=REPO_NAME_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+
+</div>
 
 ### 🟣 Current Focus
 
