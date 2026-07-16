@@ -25,7 +25,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 - 🎨 Frontend development with HTML, CSS, JavaScript (Basic), WordPress & Figma
 - 📊 Business Intelligence & data visualization using **Power BI**, **SQL**, and **Oracle DB**
 - 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP (Financial & Supply Chain)**
-- 🎬 Creative & design toolkit — Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
+- 🎬 Creative & design toolkit  Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
 - 🧩 Detail-oriented, collaborative, and outcome-driven across academic and real-world projects
 
 **🟢 Open To:** Frontend Development Roles · Business Intelligence & Data Analyst Roles · ERP/CRM Implementation · Internships & Junior Engineering Positions
@@ -108,7 +108,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>🛍️ Artisan Aura Creations — Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
+<summary><b>🛍️ Artisan Aura Creations  Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
 <br/>
 
 Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
@@ -123,7 +123,7 @@ Capstone & exhibition project: a direct-to-consumer brand redefining sustainable
 | **Vision** | Grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship |
 | **Repository** | Available upon request |
 
-Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion — with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
+Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion  with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
 
 </details>
 
