@@ -39,7 +39,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <br>
 
-## Skills
+## 🟣 Skills
 
 <div align="center">
 
@@ -79,7 +79,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <br>
 
-## Experience
+## 🟣 Experience
 
 <table>
 <tr>
@@ -144,7 +144,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br>
 
-## Awards & Recognition
+## 🟣 Awards & Recognition
 
 | | |
 |:--|:--|
@@ -156,7 +156,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br>
 
-## Certifications
+## 🟣 Certifications
 
 <div align="center">
 
@@ -182,15 +182,6 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="48%" />
-
-</div>
-
----
-### 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
@@ -223,12 +214,15 @@ Open To:
 
 <div align="center">
 
-### Let's build something
+### 🟣 Connect With Me
 
-<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-umerfaheem632@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerfaheem632@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youknowumer-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youknowumer/)
+[![GitHub](https://img.shields.io/badge/GitHub-youknowumer-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youknowumer)
 
 <sub>References available upon request.</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
 
 </div>
