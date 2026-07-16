@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="banner.svg" alt="Muhammad Umer Faheem  Frontend Developer | Data & BI Enthusiast" width="100%">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Umer%20Faheem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Data%20%26%20BI%20Enthusiast&descAlignY=55&descSize=18)
 
-<br><br>
+<br/>
 
-<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/youknowumer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:umerfaheem632@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+![BBIS](https://img.shields.io/badge/BBIS-University%20of%20Management%20%26%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youknowumer/)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerfaheem632@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youknowumer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
+![Stars](https://img.shields.io/github/stars/youknowumer?style=flat-square&color=7c3aed&label=Stars)
 
 </div>
 
