@@ -220,19 +220,6 @@ Open To:
 <sub>References available upon request.</sub>
 
 <img src="footer-top.svg" alt="" />
-
-<p align="center">
-<a href="https://github.com/youknowumer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="34" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/youknowumer/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="34" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:umerfaheem632@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="34" />
-</a>
 </p>
 
 <img src="footer-bottom.svg" alt="" />
