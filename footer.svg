@@ -43,64 +43,15 @@
     <clipPath id="footerClip"><rect width="1180" height="190" rx="24"/></clipPath>
   </defs>
 
-  <g clip-path="url(#footerClip)">
-    <rect width="1180" height="190" fill="var(--bg)"/>
-
-    <!-- ambient glow -->
-    <circle cx="590" cy="200" r="260" fill="url(#glowF)">
-      <animate attributeName="cx" values="590;650;590" dur="12s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- top wave -->
-    <path fill="var(--pillBg)" stroke="var(--border)" stroke-width="1">
-      <animate attributeName="d" dur="9s" repeatCount="indefinite"
-        values="
-          M0,26 C 180,4 320,44 590,26 C 860,8 1000,46 1180,24 L1180,0 L0,0 Z;
-          M0,24 C 180,44 320,4 590,24 C 860,44 1000,6 1180,26 L1180,0 L0,0 Z;
-          M0,26 C 180,4 320,44 590,26 C 860,8 1000,46 1180,24 L1180,0 L0,0 Z"/>
-    </path>
-    <path fill="none" stroke="url(#accentF)" stroke-opacity="0.55" stroke-width="1.4">
-      <animate attributeName="d" dur="9s" repeatCount="indefinite"
-        values="
-          M0,26 C 180,4 320,44 590,26 C 860,8 1000,46 1180,24;
-          M0,24 C 180,44 320,4 590,24 C 860,44 1000,6 1180,26;
-          M0,26 C 180,4 320,44 590,26 C 860,8 1000,46 1180,24"/>
-    </path>
-
-    <!-- outer border -->
-    <rect x="1.25" y="1.25" width="1177.5" height="187.5" rx="22.75" fill="none" stroke="url(#accentF)" stroke-opacity="0.45" stroke-width="1.5"/>
-
-    <!-- quote -->
-    <text x="590" y="86" text-anchor="middle" font-size="16" font-style="italic" fill="var(--text)">
-      "Building thoughtful interfaces, one commit at a time."
-    </text>
-
-    <!-- divider -->
-    <rect x="490" y="106" width="200" height="1.5" fill="url(#accentF)" opacity="0.6"/>
-
-    <!-- signature row -->
 <g class="mono" font-size="12.5" fill="var(--muted)">
   <text x="56" y="150">© 2026 Muhammad Umer Faheem</text>
-
-  <text x="590" y="150" text-anchor="middle">
-    Thanks for stopping by 👋
-  </text>
-
+  <text x="590" y="150" text-anchor="middle">Thanks for stopping by 👋</text>
   <text x="1124" y="150" text-anchor="end">
-    <animate 
-      attributeName="opacity" 
-      values="1;0.35;1" 
-      dur="1.8s" 
-      repeatCount="indefinite"/>
-    <animate 
-      attributeName="fill" 
-      values="#22c55e;#86efac;#22c55e" 
-      dur="1.8s" 
-      repeatCount="indefinite"/>
-    ✨ Create Impact
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="var(--muted);#22c55e;var(--muted)" dur="2.4s" repeatCount="indefinite"/>
+    Create Impact
   </text>
 </g>
-    </g>
 
     <!-- tiny pulse dot -->
     <circle cx="56" cy="170" r="3" fill="var(--accent3)">
