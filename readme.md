@@ -231,10 +231,12 @@ Open To:
 
 <img src="footer.svg" alt="footer" />
 
+<img src="footer-top.svg" alt="" />
 <p align="center">
-  <a href="https://github.com/youknowumer">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/youknowumer/">LinkedIn</a> ·
-  <a href="mailto:umerfaheem632@gmail.com">Email</a>
+  <a href="https://github.com/youknowumer"><img src="icons/icon-github.svg" width="34" /></a>
+  <a href="https://www.linkedin.com/in/youknowumer/"><img src="icons/icon-linkedin.svg" width="34" /></a>
+  <a href="mailto:umerfaheem632@gmail.com"><img src="icons/icon-email.svg" width="34" /></a>
 </p>
+<img src="footer-bottom.svg" alt="" />
 
 </div>
