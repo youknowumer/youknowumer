@@ -1,5 +1,4 @@
 <img src="banner.svg" alt="Muhammad Umer Faheem" />
-<img src="footer.svg" alt="footer" />
 
 <div align="center">
 
@@ -230,6 +229,6 @@ Open To:
 
 <sub>References available upon request.</sub>
 
-
+<img src="footer.svg" alt="footer" />
 
 </div>
