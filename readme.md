@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Umer%20Faheem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Data%20%26%20BI%20Enthusiast&descAlignY=55&descSize=18)
-
 <br/>
 
 ![BBIS](https://img.shields.io/badge/BBIS-University%20of%20Management%20%26%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
