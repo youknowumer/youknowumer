@@ -79,19 +79,33 @@
     <rect x="490" y="106" width="200" height="1.5" fill="url(#accentF)" opacity="0.6"/>
 
     <!-- signature row -->
-    <g class="mono" font-size="12.5" fill="var(--muted)">
-      <text x="56" y="150">© 2026 Muhammad Umer Faheem</text>
-      <text x="590" y="150" text-anchor="middle">Thanks for stopping by 👋</text>
-      <text x="1124" y="150" text-anchor="end">
-        <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
-        ↑ back to top
-      </text>
+<g class="mono" font-size="12.5" fill="var(--muted)">
+  <text x="56" y="150">© 2026 Muhammad Umer Faheem</text>
+
+  <text x="590" y="150" text-anchor="middle">
+    Thanks for stopping by 👋
+  </text>
+
+  <text x="1124" y="150" text-anchor="end">
+    <animate 
+      attributeName="opacity" 
+      values="1;0.35;1" 
+      dur="1.8s" 
+      repeatCount="indefinite"/>
+    <animate 
+      attributeName="fill" 
+      values="#22c55e;#86efac;#22c55e" 
+      dur="1.8s" 
+      repeatCount="indefinite"/>
+    ✨ Create Impact
+  </text>
+</g>
     </g>
 
     <!-- tiny pulse dot -->
     <circle cx="56" cy="170" r="3" fill="var(--accent3)">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="66" y="174" font-size="10.5" fill="var(--muted)" class="mono">open to opportunities</text>
+    <text x="66" y="174" font-size="10.5" fill="var(--muted)" class="mono">Ambitious</text>
   </g>
 </svg>
