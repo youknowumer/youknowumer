@@ -217,10 +217,6 @@ Open To:
 
 ### 🟣 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-umerfaheem632@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerfaheem632@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-youknowumer-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youknowumer/)
-[![GitHub](https://img.shields.io/badge/GitHub-youknowumer-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youknowumer)
-
 <sub>References available upon request.</sub>
 
 <img src="footer.svg" alt="footer" />
