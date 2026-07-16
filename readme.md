@@ -231,4 +231,10 @@ Open To:
 
 <img src="footer.svg" alt="footer" />
 
+<p align="center">
+  <a href="https://github.com/youknowumer">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/youknowumer/">LinkedIn</a> ·
+  <a href="mailto:umerfaheem632@gmail.com">Email</a>
+</p>
+
 </div>
