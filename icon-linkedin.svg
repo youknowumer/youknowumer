@@ -1,0 +1,10 @@
+<svg width="34" height="34" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root { --pillBg: rgba(255,255,255,0.05); --pillBorder: rgba(255,255,255,0.14); --text: #F8FAFC; }
+    @media (prefers-color-scheme: light) {
+      :root { --pillBg: rgba(15,23,42,0.035); --pillBorder: rgba(15,23,42,0.14); --text: #0F172A; }
+    }
+  </style>
+  <circle cx="17" cy="17" r="16" fill="var(--pillBg)" stroke="var(--pillBorder)"/>
+  <text x="17" y="22" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="var(--text)">in</text>
+</svg>
