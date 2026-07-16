@@ -221,8 +221,8 @@ Open To:
 
 <img src="footer-top.svg" alt="" />
 <p align="center">
-<a href="https://github.com/youknowumer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="34" /></a>
-<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="34" /></a>
+<a href="https://github.com/youknowumer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="34" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/youknowumer/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="34" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:umerfaheem632@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="34" /></a>
 </p>
 <img src="footer-bottom.svg" alt="" />
