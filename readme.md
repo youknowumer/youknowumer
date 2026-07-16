@@ -1,4 +1,5 @@
 <img src="banner.svg" alt="Muhammad Umer Faheem" />
+<img src="footer.svg" alt="footer" />
 
 <div align="center">
 
@@ -229,7 +230,6 @@ Open To:
 
 <sub>References available upon request.</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 
 </div>
