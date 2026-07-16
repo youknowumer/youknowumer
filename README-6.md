@@ -1,17 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Umer%20Faheem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Data%20%26%20BI%20Enthusiast&descAlignY=55&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+Digital+Strategy+into+User-Centric+Experiences;Frontend+%2B+BI+%2B+ERP+%2F+Odoo+Enthusiast;BBIS+Student+%40+University+of+Management+%26+Technology" alt="Typing SVG" />
-
 <br/>
 
-![BBIS](https://img.shields.io/badge/BBIS-University%20of%20Management%20%26%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Iqbal%20Town,%20Lahore-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-031--443--33022-4C1D95?style=for-the-badge&logo=phone&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-032--581--48564-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youknowumer/)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerfaheem632@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youknowumer)
