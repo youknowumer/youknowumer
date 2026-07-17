@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Muhammad Umer Faheem Banner" />
+
 <div align="center">
 
 <br/>
