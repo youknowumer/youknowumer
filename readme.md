@@ -1,5 +1,3 @@
-<img src="banner.svg" alt="Muhammad Umer Faheem  Banner" />
-
 <div align="center">
 
 <br/>
@@ -7,6 +5,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
 ![Stars](https://img.shields.io/github/stars/youknowumer?style=flat-square&color=7c3aed&label=Stars)
+
+<br/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=youknowumer&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+<br/>
+
+![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-8b5cf6?style=flat-square&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-a855f7?style=flat-square&logo=github)
+![Projects](https://img.shields.io/badge/Projects-Active-7c3aed?style=flat-square&logo=rocket)
+![Learning](https://img.shields.io/badge/Learning-Continuous-8b5cf6?style=flat-square&logo=bookstack)
 
 </div>
 
