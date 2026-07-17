@@ -1,0 +1,60 @@
+<svg width="1180" height="140" viewBox="0 0 1180 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --text: #0F172A;
+        --muted: #64748B;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #10B981;
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+  </style>
+
+  <defs>
+    <linearGradient id="accentCTA" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="50%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowCTA1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent1)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="var(--accent1)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCTA2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="var(--accent3)" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="var(--accent3)" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cardClipCTA"><rect width="1180" height="140" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClipCTA)">
+    <rect width="1180" height="140" fill="var(--bg)"/>
+    <circle cx="90" cy="120" r="160" fill="url(#glowCTA1)">
+      <animate attributeName="cy" values="120;95;120" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="20" r="180" fill="url(#glowCTA2)">
+      <animate attributeName="cy" values="20;45;20" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="1.25" y="1.25" width="1177.5" height="137.5" rx="22.75" fill="none" stroke="url(#accentCTA)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+    <g class="mono" font-size="12.5" fill="url(#accentCTA)" text-anchor="middle">
+      <text x="590" y="52">&lt; LET'S BUILD SOMETHING GREAT /&gt;</text>
+    </g>
+    <text x="590" y="90" font-size="26" font-weight="700" fill="var(--text)" text-anchor="middle">Open to Frontend, BI &amp; ERP Opportunities</text>
+    <text x="590" y="116" font-size="13.5" fill="var(--muted)" text-anchor="middle">Always glad to connect on new roles, internships, or collaborative projects — tap an icon below.</text>
+  </g>
+</svg>

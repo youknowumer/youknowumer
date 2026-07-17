@@ -224,8 +224,25 @@ Open To:
 
 <sub>References available upon request.</sub>
 
-<img src="footer-top.svg" alt="Connect with Muhammad Umer Faheem" />
+<img src="footer-cta.svg" alt="Let's build something great" width="100%" />
 
-<img src="footer-bottom.svg" alt="" />
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/youknowumer" target="_blank"><img src="icon-github.svg" width="140" alt="GitHub" /></a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/youknowumer/" target="_blank"><img src="icon-linkedin.svg" width="140" alt="LinkedIn" /></a>
+</td>
+<td align="center">
+<a href="mailto:umerfaheem632@gmail.com"><img src="icon-email.svg" width="140" alt="Email" /></a>
+</td>
+<td align="center">
+<a href="Muhammad_Umer_Faheem_CV.pdf" target="_blank"><img src="icon-resume.svg" width="140" alt="Resume" /></a>
+</td>
+</tr>
+</table>
+
+<img src="footer-bottom.svg" alt="" width="100%" />
 
 </div>

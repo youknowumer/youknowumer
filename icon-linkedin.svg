@@ -1,0 +1,41 @@
+<svg width="140" height="150" viewBox="0 0 140 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+      --pillBg: rgba(255,255,255,0.05);
+      --pillBorder: rgba(255,255,255,0.14);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --text: #0F172A;
+        --muted: #64748B;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #10B981;
+        --pillBg: rgba(15,23,42,0.035);
+        --pillBorder: rgba(15,23,42,0.14);
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+  </style>
+  <defs>
+    <linearGradient id="accentLI" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="150" fill="var(--bg)"/>
+  <g transform="translate(70,44)">
+    <circle r="30" fill="var(--pillBg)" stroke="url(#accentLI)" stroke-width="1.3"/>
+    <text x="0" y="10" text-anchor="middle" font-size="24" font-weight="700" fill="var(--text)">in</text>
+  </g>
+  <text x="70" y="112" text-anchor="middle" font-size="13" font-weight="600" fill="var(--text)">LinkedIn</text>
+  <text x="70" y="130" text-anchor="middle" font-size="10.5" class="mono" fill="var(--muted)">Connect</text>
+</svg>
