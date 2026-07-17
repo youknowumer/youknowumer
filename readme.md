@@ -222,8 +222,6 @@ Open To:
 
 <div align="center">
 
-<sub>References available upon request.</sub>
-
 <img src="footer-cta.svg" alt="Let's build something great" width="100%" />
 
 <table>
