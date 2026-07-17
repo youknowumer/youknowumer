@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Muhammad Umer Faheem" />
+<img src="banner.svg" alt="Muhammad Umer Faheem — Banner" />
 
 <div align="center">
 
@@ -12,32 +12,34 @@
 
 <br>
 
-### 🟣 About Me
+## 🟣 About Me
 
 I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at UMT, Lahore (Class of 2026), with a strong passion for **frontend engineering, business intelligence, and enterprise systems**. I bring hands-on experience across **IT support, database design, ERP implementation, and UI/UX**, blending technical execution with a **product and business-strategy mindset**.
 
 - 🎨 Frontend development with HTML, CSS, JavaScript (Basic), WordPress & Figma
 - 📊 Business Intelligence & data visualization using **Power BI**, **SQL**, and **Oracle DB**
-- 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP (Financial & Supply Chain)**
-- 🎬 Creative & design toolkit  Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
+- 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP** (Financial & Supply Chain)
+- 🎬 Creative & design toolkit — Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
 - 🧩 Detail-oriented, collaborative, and outcome-driven across academic and real-world projects
 
 **🟢 Open To:** Frontend Development Roles · Business Intelligence & Data Analyst Roles · ERP/CRM Implementation · Internships & Junior Engineering Positions
 
----
+<br>
 
 <div align="center">
 
 | | |
-|---|---|
-| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022 – Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP–powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
+|:--|:--|
+| 🎓 **Education** | BBIS, University of Management and Technology — Nov 2022 – Aug 2026 |
+| 🚀 **Capstone** | *Artisan Aura Creations* — Odoo ERP–powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
 | 📍 **Location** | Lahore, Pakistan |
 | 💬 **Languages** | English (fluent) · Urdu (fluent) |
 
 </div>
 
 <br>
+
+<img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 Skills
 
@@ -79,36 +81,39 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <br>
 
+<img src="divider.svg" alt="" width="100%" />
+
 ## 🟣 Experience
 
 <table>
 <tr>
 <td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
-<td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, CSS, and Java, while collaborating via GitHub.</td>
+<td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, and CSS, while collaborating via GitHub with the wider engineering team.</td>
 </tr>
 <tr>
 <td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
-<td>Assisted in HR operations at a manufacturing firm by managing talent acquisition (CV screening, interview scheduling) and supporting new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
+<td>Supported HR operations at a manufacturing firm, managing talent acquisition (CV screening, interview scheduling) and new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
 </tr>
 <tr>
 <td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
-<td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows using CVAT. Performed accurate data labeling, validation, and quality checks to support machine learning model development.</td>
+<td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows in CVAT, performing data labeling, validation, and quality checks to support ML model development.</td>
 </tr>
 </table>
 
 <br>
 
+<img src="divider.svg" alt="" width="100%" />
 
-### 🟣 Featured Projects
+## 🟣 Featured Projects
 
-<details>
-<summary><b>🛍️ Artisan Aura Creations  Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
+<details open>
+<summary><b>🛍️ Artisan Aura Creations — Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
 <br/>
 
 Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
 
 | Aspect | Details |
-|---|---|
+|:--|:--|
 | **Stack** | Odoo ERP (CRM, HR, Sales, Inventory) |
 | **Scale** | Full-scale simulated business operations |
 | **Workflows** | End-to-end procurement, marketing & production workflows |
@@ -117,7 +122,7 @@ Capstone & exhibition project: a direct-to-consumer brand redefining sustainable
 | **Vision** | Grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship |
 | **Repository** | Available upon request |
 
-Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion  with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
+Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion — with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
 
 </details>
 
@@ -128,7 +133,7 @@ Designed end-to-end workflows across procurement, marketing, and production whil
 A structured Oracle-based database system designed using conceptual and logical modeling for student registration and library management.
 
 | Aspect | Details |
-|---|---|
+|:--|:--|
 | **Stack** | Oracle Database, ER Modeling |
 | **Scale** | Institution-wide registration & library workflows |
 | **Processes Covered** | Department allocation, sectioning, fee tracking, eligibility checks |
@@ -140,19 +145,19 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </details>
 
----
-
 <br>
+
+<img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 Awards & Recognition
 
 | | |
 |:--|:--|
-| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT  1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
-| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT  built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
-| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd.  recognized for UI/UX design and front-end contributions on live client projects |
-| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn  certifications in IT Automation, Power BI, SAP, ERP, Project Management & more |
-| 👥 **Team Leader** | Academic Design & Tech Projects  led university teams through interface design, user journey mapping, and cross-functional delivery |
+| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT — 1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
+| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT — built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
+| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd. — recognized for UI/UX design and front-end contributions on live client projects |
+| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn — certifications in IT Automation, Power BI, SAP, ERP, and Project Management |
+| 👥 **Team Leader** | Academic Design & Tech Projects — led university teams through interface design, user journey mapping, and cross-functional delivery |
 
 <br>
 
@@ -161,7 +166,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <div align="center">
 
 | Certification | Provider | Date |
-|:---|:---|:---:|
+|:--|:--|:--:|
 | Microsoft Power BI (Data Analysis & Visualization) | Uni Athena / Cambridge International | Apr 2025 |
 | WordPress (Building Websites) | Coursera | Apr 2025 |
 | Canva (Graphic Design) | Simplilearn | Apr 2025 |
@@ -174,7 +179,11 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </div>
 
-### 🟣 GitHub Analytics
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
+
+## 🟣 GitHub Analytics
 
 <div align="center">
 
@@ -186,9 +195,9 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </div>
 
----
+<img src="divider.svg" alt="" width="100%" />
 
-### 🟣 Current Focus
+## 🟣 Current Focus
 
 ```yaml
 Learning:
@@ -209,18 +218,13 @@ Open To:
   - Internships & entry-level engineering positions
 ```
 
----
-
 <br>
 
 <div align="center">
 
-### 🟣 Connect With Me
-
 <sub>References available upon request.</sub>
 
-<img src="footer-top.svg" alt="" />
-</p>
+<img src="footer-top.svg" alt="Connect with Muhammad Umer Faheem" />
 
 <img src="footer-bottom.svg" alt="" />
 

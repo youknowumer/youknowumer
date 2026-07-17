@@ -1,0 +1,27 @@
+<svg width="1180" height="36" viewBox="0 0 1180 36" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #10B981;
+      }
+    }
+  </style>
+  <defs>
+    <linearGradient id="accentD" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="var(--accent1)" stop-opacity="0"/>
+      <stop offset="15%" stop-color="var(--accent1)" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="var(--accent2)" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="var(--accent3)" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="var(--accent3)" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="18" x2="1180" y2="18" stroke="url(#accentD)" stroke-width="1.5"/>
+  <rect x="582" y="14" width="16" height="8" rx="4" fill="none" stroke="url(#accentD)" stroke-width="1.5" transform="rotate(45 590 18)"/>
+</svg>

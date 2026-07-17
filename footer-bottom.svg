@@ -1,0 +1,48 @@
+<svg width="1180" height="92" viewBox="0 0 1180 92" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --text: #F8FAFC;
+      --muted: #64748B;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --text: #0F172A;
+        --muted: #94A3B8;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #10B981;
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+  </style>
+
+  <defs>
+    <linearGradient id="accentB" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="50%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="cardClipB"><rect width="1180" height="92" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClipB)">
+    <rect width="1180" height="92" fill="var(--bg)"/>
+    <rect x="0" y="0" width="1180" height="3" fill="url(#accentB)"/>
+
+    <text x="590" y="42" text-anchor="middle" font-size="13.5" fill="var(--text)" font-weight="600">© 2026 Muhammad Umer Faheem</text>
+    <text x="590" y="65" text-anchor="middle" font-size="11.5" class="mono" fill="var(--muted)">Designed &amp; built with intention — Lahore, Pakistan</text>
+
+    <circle cx="80" cy="46" r="2.5" fill="var(--accent2)">
+      <animate attributeName="cx" values="60;1120;60" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.1;0.9;1"/>
+    </circle>
+  </g>
+</svg>
