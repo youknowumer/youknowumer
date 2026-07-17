@@ -30,8 +30,8 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 | | |
 |:--|:--|
-| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022 – Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP–powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
+| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022  Aug 2026 |
+| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERPpowered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
 | 📍 **Location** | Lahore, Pakistan |
 | 💬 **Languages** | English (fluent) · Urdu (fluent) |
 
@@ -87,15 +87,15 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <table>
 <tr>
-<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
+<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023  Sep 2023 · On-site, Lahore, Pakistan</sub></td>
 <td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, and CSS, while collaborating via GitHub with the wider engineering team.</td>
 </tr>
 <tr>
-<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
+<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025  Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
 <td>Supported HR operations at a manufacturing firm, managing talent acquisition (CV screening, interview scheduling) and new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
 </tr>
 <tr>
-<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
+<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026  Mar 2026 · Remote, Lahore</sub></td>
 <td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows in CVAT, performing data labeling, validation, and quality checks to support ML model development.</td>
 </tr>
 </table>
@@ -110,7 +110,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <summary><b>🛍️ Artisan Aura Creations  Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
 <br/>
 
-Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
+Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSMUMT)** and evaluated by industry professionals.
 
 | Aspect | Details |
 |:--|:--|
