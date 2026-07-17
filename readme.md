@@ -31,7 +31,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 | | |
 |:--|:--|
 | 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022  Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERPpowered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
+| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
 | 📍 **Location** | Lahore, Pakistan |
 | 💬 **Languages** | English (fluent) · Urdu (fluent) |
 
