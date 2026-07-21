@@ -92,21 +92,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 **Technical Skills**
 
-| Skill | Level | |
-|:--|:-:|:--|
-| SQL | Advanced | ![85%](https://progress-bar.xyz/85/?title=&width=180&color=2563eb&suffix=%25) |
-| Oracle DB | Advanced | ![85%](https://progress-bar.xyz/85/?title=&width=180&color=2563eb&suffix=%25) |
-| HTML / CSS | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
-| Figma | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
-| Odoo ERP | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
-| GitHub | Advanced | ![75%](https://progress-bar.xyz/75/?title=&width=180&color=2563eb&suffix=%25) |
-| Power BI | Intermediate | ![70%](https://progress-bar.xyz/70/?title=&width=180&color=3b82f6&suffix=%25) |
-| SAP ERP | Intermediate | ![65%](https://progress-bar.xyz/65/?title=&width=180&color=3b82f6&suffix=%25) |
-| WordPress | Intermediate | ![65%](https://progress-bar.xyz/65/?title=&width=180&color=3b82f6&suffix=%25) |
-| Python | Intermediate | ![60%](https://progress-bar.xyz/60/?title=&width=180&color=3b82f6&suffix=%25) |
-| JIRA (SCRUM) | Intermediate | ![60%](https://progress-bar.xyz/60/?title=&width=180&color=3b82f6&suffix=%25) |
-| JavaScript | Basic | ![35%](https://progress-bar.xyz/35/?title=&width=180&color=94a3b8&suffix=%25) |
-| C++ | Basic | ![30%](https://progress-bar.xyz/30/?title=&width=180&color=94a3b8&suffix=%25) |
+<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22horizontalBar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22SQL%22%2C%20%22Oracle%20DB%22%2C%20%22HTML%20/%20CSS%22%2C%20%22Figma%22%2C%20%22Odoo%20ERP%22%2C%20%22GitHub%22%2C%20%22Power%20BI%22%2C%20%22SAP%20ERP%22%2C%20%22WordPress%22%2C%20%22Python%22%2C%20%22JIRA%20%28SCRUM%29%22%2C%20%22JavaScript%22%2C%20%22C%2B%2B%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%20%25%22%2C%20%22data%22%3A%20%5B85%2C%2085%2C%2080%2C%2080%2C%2080%2C%2075%2C%2070%2C%2065%2C%2065%2C%2060%2C%2060%2C%2035%2C%2030%5D%2C%20%22backgroundColor%22%3A%20%22%238b5cf6%22%2C%20%22borderRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22min%22%3A%200%2C%20%22max%22%3A%20100%2C%20%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%7D%5D%2C%20%22yAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22display%22%3A%20false%7D%7D%5D%7D%7D%7D&backgroundColor=%230d1117&width=700&height=430&devicePixelRatio=2" width="85%" alt="Skill proficiency bar chart"/>
 
 <br/>
 
@@ -231,43 +217,11 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <img src="divider.svg" alt="" width="100%" />
 
-## 🟣 Certifications & Achievement Badges
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=55&section=header&text=Certified%20%26%20Recognized&fontSize=18&fontColor=a855f7&animation=fadeIn&desc=9%20industry%20certifications%20%C2%B7%205%20platforms&descAlignY=75&descSize=12" alt="Certifications header" />
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Odoo](https://img.shields.io/badge/Odoo_14_Essentials-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_Business_Scenarios-Certified-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Certified-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva_Design-Certified-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Python](https://img.shields.io/badge/IT_Automation-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PM](https://img.shields.io/badge/Project_Management-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![IBM](https://img.shields.io/badge/Interpersonal_Skills-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira_SCRUM-Coursera-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
-
-<br/><br/>
-
-![Exhibition](https://img.shields.io/badge/ICAISAI'26-Exhibition_Selectee-7c3aed?style=for-the-badge&logo=starship&logoColor=white)
-![Capstone](https://img.shields.io/badge/Capstone_Lead-Odoo_ERP_System-7c3aed?style=for-the-badge&logo=odoo&logoColor=white)
-![Intern](https://img.shields.io/badge/Recognized_Intern-Tara_Technologies-7c3aed?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<sub align="center">Full details for each credential are listed in the Certifications table above.</sub>
-
-<br>
-
-<img src="divider.svg" alt="" width="100%" />
-
 ## 🟣 GitHub Analytics
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=55&section=header&text=Live%20GitHub%20Stats&fontSize=18&fontColor=a855f7&animation=fadeIn&desc=Auto-updates%20from%20the%20GitHub%20API&descAlignY=75&descSize=12" alt="Analytics header" />
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="65%" alt="GitHub stats for youknowumer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" width="65%" alt="GitHub stats for youknowumer"/>
 
 <br/><br/>
 
@@ -275,9 +229,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </div>
 
-<br/>
-
-<sub align="center">Stats update live from the GitHub API. If a card doesn't render on first load, refresh — the badge service occasionally rate-limits and needs a retry.</sub>
+<sub align="center">These two cards are live images generated by github-readme-stats.vercel.app and streak-stats.demolab.com from your GitHub username. If either shows a broken-image icon, it's usually the free hosting service rate-limiting — reload the page after a minute, or replace <code>youknowumer</code> in the URL with your exact GitHub username if it's changed.</sub>
 
 <br>
 
