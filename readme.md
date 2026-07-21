@@ -90,26 +90,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <div align="center">
 
-**Technical Skills**
-
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22horizontalBar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22SQL%22%2C%20%22Oracle%20DB%22%2C%20%22HTML%20/%20CSS%22%2C%20%22Figma%22%2C%20%22Odoo%20ERP%22%2C%20%22GitHub%22%2C%20%22Power%20BI%22%2C%20%22SAP%20ERP%22%2C%20%22WordPress%22%2C%20%22Python%22%2C%20%22JIRA%20%28SCRUM%29%22%2C%20%22JavaScript%22%2C%20%22C%2B%2B%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Proficiency%20%25%22%2C%20%22data%22%3A%20%5B85%2C%2085%2C%2080%2C%2080%2C%2080%2C%2075%2C%2070%2C%2065%2C%2065%2C%2060%2C%2060%2C%2035%2C%2030%5D%2C%20%22backgroundColor%22%3A%20%22%238b5cf6%22%2C%20%22borderRadius%22%3A%204%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22scales%22%3A%20%7B%22xAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22min%22%3A%200%2C%20%22max%22%3A%20100%2C%20%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22%2330363d%22%7D%7D%5D%2C%20%22yAxes%22%3A%20%5B%7B%22ticks%22%3A%20%7B%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22display%22%3A%20false%7D%7D%5D%7D%7D%7D&backgroundColor=%230d1117&width=700&height=430&devicePixelRatio=2" width="85%" alt="Skill proficiency bar chart"/>
-
-<br/>
-
-**Creative & Design Tools**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-80%25-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-75%25-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-80%25-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-65%25-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-60%25-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-
-**Soft Skills**
-
-![Customer Service](https://img.shields.io/badge/Customer_Service-85%25-d97706?style=flat-square)
-![Leadership](https://img.shields.io/badge/Leadership-75%25-d97706?style=flat-square)
-![Brand Marketing](https://img.shields.io/badge/Brand_Marketing-75%25-d97706?style=flat-square)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-80%25-d97706?style=flat-square)
+<img src="skills-proficiency.svg" alt="Skill proficiency chart" width="100%" />
 
 </div>
 
