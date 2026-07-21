@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 828 230" width="828" height="230">
+
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#131826"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="828" height="230" rx="14" fill="url(#bg2)" stroke="#21262d" stroke-width="1.5"/>
+
+<text x="34" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">LANGUAGES &amp; WEB</text>
+<rect x="34" y="56" width="66.6923076923077" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="48" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="58" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">HTML5</text>
+<rect x="108.6923076923077" y="56" width="57.55769230769231" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="122.6923076923077" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="132.69230769230768" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">CSS3</text>
+<rect x="174.25" y="56" width="88.42307692307692" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="188.25" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="198.25" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">JavaScript</text>
+<rect x="270.6730769230769" y="56" width="63.90384615384615" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="284.6730769230769" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="294.6730769230769" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
+<rect x="342.5769230769231" y="56" width="45.44230769230769" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="356.5769230769231" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="366.5769230769231" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">C++</text>
+<text x="34" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">DATA, BI &amp; DATABASES</text>
+<rect x="34" y="164" width="51.40384615384615" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="48" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="58" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">SQL</text>
+<rect x="93.40384615384616" y="164" width="82.17307692307693" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="107.40384615384616" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="117.40384615384616" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Power BI</text>
+<rect x="183.5769230769231" y="164" width="85.25" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="197.5769230769231" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="207.5769230769231" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Oracle DB</text>
+<rect x="276.8269230769231" y="164" width="94.09615384615385" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="290.8269230769231" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="300.8269230769231" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">IBM SPSS</text>
+<text x="434" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">ERP &amp; BUSINESS TOOLS</text>
+<rect x="434" y="56" width="85.15384615384616" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="448" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="458" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Odoo ERP</text>
+<rect x="527.1538461538462" y="56" width="84.96153846153845" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="541.1538461538462" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="551.1538461538462" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">SAP ERP</text>
+<rect x="620.1153846153846" y="56" width="112.65384615384616" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="634.1153846153846" cy="69.0" r="3" fill="#8b5cf6"/>
+<text x="644.1153846153846" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Jira (SCRUM)</text>
+<text x="434" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">DESIGN &amp; PRODUCTIVITY</text>
+<rect x="434" y="164" width="54.67307692307693" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="448" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="458" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Figma</text>
+<rect x="496.6730769230769" y="164" width="85.34615384615385" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="510.6730769230769" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="520.6730769230769" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">WordPress</text>
+<rect x="590.0192307692307" y="164" width="57.75" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="604.0192307692307" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="614.0192307692307" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Canva</text>
+<rect x="655.7692307692307" y="164" width="82.36538461538461" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="669.7692307692307" cy="177.0" r="3" fill="#8b5cf6"/>
+<text x="679.7692307692307" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Photoshop</text>
+<rect x="434" y="200" width="88.51923076923077" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="448" cy="213.0" r="3" fill="#8b5cf6"/>
+<text x="458" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Illustrator</text>
+<rect x="530.5192307692307" y="200" width="100.73076923076923" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="544.5192307692307" cy="213.0" r="3" fill="#8b5cf6"/>
+<text x="554.5192307692307" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Premiere Pro</text>
+<rect x="639.25" y="200" width="42.36538461538461" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="653.25" cy="213.0" r="3" fill="#8b5cf6"/>
+<text x="663.25" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Git</text>
+<rect x="689.6153846153846" y="200" width="63.80769230769231" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
+<circle cx="703.6153846153846" cy="213.0" r="3" fill="#8b5cf6"/>
+<text x="713.6153846153846" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">GitHub</text>
+<line x1="414.0" y1="26" x2="414.0" y2="214" stroke="#21262d" stroke-width="1"/>
+</svg>
