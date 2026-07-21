@@ -83,6 +83,21 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <img src="divider.svg" alt="" width="100%" />
 
+## 🟣 Skill Proficiency Scale
+
+<div align="center">
+<img src="https://quickchart.io/chart?bkg=white&width=700&height=420&c={type:'bar',indexAxis:'y',data:{labels:['SQL','Oracle%20DB','HTML%20%2F%20CSS','Figma','Odoo%20ERP','GitHub','Power%20BI','SAP%20ERP','WordPress','Python','JIRA%20(SCRUM)','IBM%20SPSS','JavaScript','C%2B%2B'],datasets:[{label:'Proficiency%20(%25)',data:[85,85,80,80,80,75,70,65,65,60,60,55,35,30],backgroundColor:'%232563eb'}]},options:{plugins:{legend:{display:false},title:{display:true,text:'Technical%20Skill%20Proficiency',font:{size:16}}},scales:{x:{max:100}}}" width="700"/>
+</div>
+
+<div align="center">
+<img src="https://quickchart.io/chart?bkg=white&width=650&height=350&c={type:'radar',data:{labels:['Photoshop','Illustrator','Premiere%20Pro','After%20Effects','Audition','Canva','Draw.io'],datasets:[{label:'Proficiency','data':[80,75,65,60,60,80,70],backgroundColor:'rgba(37,99,235,0.2)',borderColor:'%232563eb',pointBackgroundColor:'%232563eb'}]},options:{plugins:{title:{display:true,text:'Creative%20Tool%20Proficiency',font:{size:16}},legend:{display:false}},scales:{r:{min:0,max:100}}}" width="480"/>
+<img src="https://quickchart.io/chart?bkg=white&width=650&height=350&c={type:'radar',data:{labels:['Customer%20Service','Social%20Media%20Mgmt','Brand%20Marketing','Empathetic%20Listening','Leadership','Team%20Collaboration'],datasets:[{label:'Level','data':[85,80,75,80,75,80],backgroundColor:'rgba(217,119,6,0.2)',borderColor:'%23d97706',pointBackgroundColor:'%23d97706'}]},options:{plugins:{title:{display:true,text:'Soft%20Skills%20Profile',font:{size:16}},legend:{display:false}},scales:{r:{min:0,max:100}}}" width="480"/>
+</div>
+
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
+
 ## 🟣 Experience
 
 <table>
@@ -183,22 +198,58 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <img src="divider.svg" alt="" width="100%" />
 
+## 🟣 GitHub Achievement Badges
+
+<div align="center">
+
+![Progress](https://img.shields.io/badge/PROGRESS-0%2F7%20BADGES-22c55e?style=for-the-badge&labelColor=1a1a2e)
+
+<img src="https://quickchart.io/chart?bkg=white&c={type:'doughnut',data:{labels:['Earned','Remaining'],datasets:[{data:[0,7],backgroundColor:['%2322c55e','%23e5e7eb'],borderWidth:2}]},options:{plugins:{legend:{position:'bottom'}},title:{display:true,text:'Overall%20Badge%20Completion%20(0%20%2F%207)',font:{size:16}}}}" width="340"/>
+
+</div>
+
+| Badge | Requirement | Difficulty | Status |
+|:-:|:--|:-:|:-:|
+| 🔫 Quickdraw | Close an Issue/PR within 5 min | 🟢 Easy | ⬜ |
+| 💖 Public Sponsor | Sponsor a user or org | 🟢 Easy | ⬜ |
+| 🦈 Pull Shark | Merge 2 Pull Requests | 🟡 Medium | ⬜ |
+| 🤪 YOLO | Merge a PR without review | 🟡 Medium | ⬜ |
+| 🧠 Galaxy Brain | 2 accepted Discussion answers | 🟡 Medium | ⬜ |
+| 👥 Pair Extraordinaire | Co-author a merged PR | 🔴 Hard | ⬜ |
+| ⭐ Starstruck | 16 stars on own repo | 🔴 Hard | ⬜ |
+
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
+
 ## 🟣 GitHub Analytics
 
 <div align="center">
 
 <br/>
 
-<img src="analytics-banner.svg" alt="GitHub Analytics" width="100%" />
+### 📊 Live Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
 <br/><br/>
 
-<!-- 🟣 Live Contribution Snake — updates automatically every day via GitHub Actions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" />
-</picture>
+### 📈 Stats Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" alt="top languages"/>
+
+<br/><br/>
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&card_width=1030" width="100%" alt="streak stats"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" alt="snake animation"/>
 
 <br/>
 
