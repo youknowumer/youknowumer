@@ -86,12 +86,42 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 ## 🟣 Skill Proficiency Scale
 
 <div align="center">
-<img src="https://quickchart.io/chart?bkg=white&width=700&height=420&c={type:'bar',indexAxis:'y',data:{labels:['SQL','Oracle%20DB','HTML%20%2F%20CSS','Figma','Odoo%20ERP','GitHub','Power%20BI','SAP%20ERP','WordPress','Python','JIRA%20(SCRUM)','IBM%20SPSS','JavaScript','C%2B%2B'],datasets:[{label:'Proficiency%20(%25)',data:[85,85,80,80,80,75,70,65,65,60,60,55,35,30],backgroundColor:'%232563eb'}]},options:{plugins:{legend:{display:false},title:{display:true,text:'Technical%20Skill%20Proficiency',font:{size:16}}},scales:{x:{max:100}}}" width="700"/>
-</div>
 
-<div align="center">
-<img src="https://quickchart.io/chart?bkg=white&width=650&height=350&c={type:'radar',data:{labels:['Photoshop','Illustrator','Premiere%20Pro','After%20Effects','Audition','Canva','Draw.io'],datasets:[{label:'Proficiency','data':[80,75,65,60,60,80,70],backgroundColor:'rgba(37,99,235,0.2)',borderColor:'%232563eb',pointBackgroundColor:'%232563eb'}]},options:{plugins:{title:{display:true,text:'Creative%20Tool%20Proficiency',font:{size:16}},legend:{display:false}},scales:{r:{min:0,max:100}}}" width="480"/>
-<img src="https://quickchart.io/chart?bkg=white&width=650&height=350&c={type:'radar',data:{labels:['Customer%20Service','Social%20Media%20Mgmt','Brand%20Marketing','Empathetic%20Listening','Leadership','Team%20Collaboration'],datasets:[{label:'Level','data':[85,80,75,80,75,80],backgroundColor:'rgba(217,119,6,0.2)',borderColor:'%23d97706',pointBackgroundColor:'%23d97706'}]},options:{plugins:{title:{display:true,text:'Soft%20Skills%20Profile',font:{size:16}},legend:{display:false}},scales:{r:{min:0,max:100}}}" width="480"/>
+**Technical Skills**
+
+| Skill | Level | |
+|:--|:-:|:--|
+| SQL | Advanced | ![85%](https://progress-bar.xyz/85/?title=&width=180&color=2563eb&suffix=%25) |
+| Oracle DB | Advanced | ![85%](https://progress-bar.xyz/85/?title=&width=180&color=2563eb&suffix=%25) |
+| HTML / CSS | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
+| Figma | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
+| Odoo ERP | Advanced | ![80%](https://progress-bar.xyz/80/?title=&width=180&color=2563eb&suffix=%25) |
+| GitHub | Advanced | ![75%](https://progress-bar.xyz/75/?title=&width=180&color=2563eb&suffix=%25) |
+| Power BI | Intermediate | ![70%](https://progress-bar.xyz/70/?title=&width=180&color=3b82f6&suffix=%25) |
+| SAP ERP | Intermediate | ![65%](https://progress-bar.xyz/65/?title=&width=180&color=3b82f6&suffix=%25) |
+| WordPress | Intermediate | ![65%](https://progress-bar.xyz/65/?title=&width=180&color=3b82f6&suffix=%25) |
+| Python | Intermediate | ![60%](https://progress-bar.xyz/60/?title=&width=180&color=3b82f6&suffix=%25) |
+| JIRA (SCRUM) | Intermediate | ![60%](https://progress-bar.xyz/60/?title=&width=180&color=3b82f6&suffix=%25) |
+| JavaScript | Basic | ![35%](https://progress-bar.xyz/35/?title=&width=180&color=94a3b8&suffix=%25) |
+| C++ | Basic | ![30%](https://progress-bar.xyz/30/?title=&width=180&color=94a3b8&suffix=%25) |
+
+<br/>
+
+**Creative & Design Tools**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-80%25-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-75%25-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-80%25-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-65%25-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-60%25-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+
+**Soft Skills**
+
+![Customer Service](https://img.shields.io/badge/Customer_Service-85%25-d97706?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-75%25-d97706?style=flat-square)
+![Brand Marketing](https://img.shields.io/badge/Brand_Marketing-75%25-d97706?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-80%25-d97706?style=flat-square)
+
 </div>
 
 <br>
@@ -204,26 +234,17 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ![Progress](https://img.shields.io/badge/PROGRESS-0%2F7%20EARNED-8b5cf6?style=for-the-badge&labelColor=0d1117)
 
-<img src="https://quickchart.io/chart?bkg=white&width=380&height=220&c={type:'doughnut',data:{labels:['Earned','Remaining'],datasets:[{data:[0,7],backgroundColor:['%238b5cf6','%23e5e7eb'],borderWidth:0}]},options:{plugins:{legend:{position:'bottom',labels:{font:{size:13}}}},title:{display:true,text:'Badge%20Completion',font:{size:15}}},cutout:'65%25'}" width="300"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="140">🔫<br/><b>Quickdraw</b><br/><sub>🟢 Easy</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140">💖<br/><b>Public Sponsor</b><br/><sub>🟢 Easy</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140">🦈<br/><b>Pull Shark</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140">🤪<br/><b>YOLO</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-</tr>
-<tr>
-<td align="center" width="140">🧠<br/><b>Galaxy Brain</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140">👥<br/><b>Pair Extraordinaire</b><br/><sub>🔴 Hard</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140">⭐<br/><b>Starstruck</b><br/><sub>🔴 Hard</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
-<td align="center" width="140"></td>
-</tr>
-</table>
-
 </div>
+
+| Badge | Requirement | Difficulty | Status |
+|:--|:--|:-:|:-:|
+| 🔫 **Quickdraw** | Close an Issue/PR within 5 minutes | ![Easy](https://img.shields.io/badge/-EASY-22c55e?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| 💖 **Public Sponsor** | Sponsor a GitHub user or org | ![Easy](https://img.shields.io/badge/-EASY-22c55e?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| 🦈 **Pull Shark** | Merge 2 Pull Requests | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| 🤪 **YOLO** | Merge a PR without review | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| 🧠 **Galaxy Brain** | 2 accepted Discussion answers | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| 👥 **Pair Extraordinaire** | Co-author a merged PR | ![Hard](https://img.shields.io/badge/-HARD-ef4444?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| ⭐ **Starstruck** | Get 16 stars on your own repo | ![Hard](https://img.shields.io/badge/-HARD-ef4444?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
 
 <br>
 
@@ -235,36 +256,24 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ![Analytics](https://img.shields.io/badge/ANALYTICS-LIVE-8b5cf6?style=for-the-badge&labelColor=0d1117)
 
-<br/>
+<br/><br/>
 
-<!-- 📊 Contribution Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&area_color=7c3aed" width="100%" alt="contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&area_color=7c3aed" width="100%" alt="contribution activity graph"/>
 
 <br/><br/>
 
-<!-- 📈 Stats + Languages side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" height="180" alt="github stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="180" alt="top languages"/>
 
 <br/><br/>
 
-<!-- 🔥 Streak -->
 <img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="100%" alt="streak stats"/>
 
 <br/><br/>
 
-<!-- 🐍 Snake -->
 <sub>🐍 Contribution Snake — live, auto-updates daily via GitHub Actions</sub>
 <br/>
 <img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" alt="contribution snake"/>
-
-<br/><br/>
-
-<!-- ✅ Guaranteed-render fallback row (static, never breaks) -->
-<sub>Quick summary (always renders, even if cards above are rate-limited)</sub>
-<br/>
-<img src="https://img.shields.io/github/commit-activity/y/youknowumer/youknowumer?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=Commits%20This%20Year"/>
-<img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=for-the-badge&color=a855f7&labelColor=0d1117&label=Last%20Commit"/>
 
 </div>
 
