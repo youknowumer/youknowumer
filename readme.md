@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
-![Total Stars](https://img.shields.io/badge/dynamic/json?color=7c3aed&label=Stars&query=%24.data%5B%2A%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyouknowumer%2Frepos&style=flat-square)
+![Achievements](https://img.shields.io/badge/Achievements-7%20Badges%20Tracked-7c3aed?style=flat-square&logo=github)
 
 </div>
 
@@ -189,16 +189,16 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" width="100%" />
+<img src="analytics-banner.svg" alt="GitHub Analytics" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&card_width=1030" width="100%" />
+<!-- 🟣 Live Contribution Snake — updates automatically every day via GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" />
+</picture>
 
 <br/>
 
