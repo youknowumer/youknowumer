@@ -265,22 +265,14 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=55&section=header&text=Live%20GitHub%20Stats&fontSize=18&fontColor=a855f7&animation=fadeIn&desc=Auto-updates%20from%20the%20GitHub%20API&descAlignY=75&descSize=12" alt="Analytics header" />
 
-<table align="center" width="100%">
-<tr>
-<td align="center" valign="top" width="50%">
-<b>Overview</b><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&card_width=440" width="100%" alt="GitHub stats for youknowumer"/>
-</td>
-<td align="center" valign="top" width="50%">
-<b>Top Languages</b><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&card_width=440" width="100%" alt="Most used languages for youknowumer"/>
-</td>
-</tr>
-</table>
-
 <div align="center">
-<br/>
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="70%" alt="GitHub streak stats for youknowumer"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="65%" alt="GitHub stats for youknowumer"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="65%" alt="GitHub streak stats for youknowumer"/>
+
 </div>
 
 <br/>
