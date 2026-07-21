@@ -7,6 +7,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Business+Intelligence+%26+Data+Enthusiast;ERP+%26+CRM+Implementation;Turning+Digital+Strategy+into+UX" alt="Typing SVG" />
+
 </div>
 
 <br>
@@ -227,25 +231,31 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <img src="divider.svg" alt="" width="100%" />
 
-## 🟣 GitHub Achievement Badges
+## 🟣 Certifications & Achievement Badges
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=55&section=header&text=Certified%20%26%20Recognized&fontSize=18&fontColor=a855f7&animation=fadeIn&desc=9%20industry%20certifications%20%C2%B7%205%20platforms&descAlignY=75&descSize=12" alt="Certifications header" />
 
 <div align="center">
 
-**Progress — 0 / 7 Earned**
+![Power BI](https://img.shields.io/badge/Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Odoo](https://img.shields.io/badge/Odoo_14_Essentials-Certified-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_Business_Scenarios-Certified-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-Certified-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva_Design-Certified-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/IT_Automation-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PM](https://img.shields.io/badge/Project_Management-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![IBM](https://img.shields.io/badge/Interpersonal_Skills-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_SCRUM-Coursera-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+
+<br/><br/>
+
+![Exhibition](https://img.shields.io/badge/ICAISAI'26-Exhibition_Selectee-7c3aed?style=for-the-badge&logo=starship&logoColor=white)
+![Capstone](https://img.shields.io/badge/Capstone_Lead-Odoo_ERP_System-7c3aed?style=for-the-badge&logo=odoo&logoColor=white)
+![Intern](https://img.shields.io/badge/Recognized_Intern-Tara_Technologies-7c3aed?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-| # | Badge | Requirement | Difficulty | Status |
-|:-:|:--|:--|:-:|:-:|
-| 1 | 🔫 Quickdraw | Close an Issue/PR within 5 minutes of opening | Easy | ⬜ Not Started |
-| 2 | 💖 Public Sponsor | Sponsor a GitHub user or org via GitHub Sponsors | Easy | ⬜ Not Started |
-| 3 | 🦈 Pull Shark | Merge 2 Pull Requests | Medium | ⬜ Not Started |
-| 4 | 🤪 YOLO | Merge a Pull Request without review | Medium | ⬜ Not Started |
-| 5 | 🧠 Galaxy Brain | Get 2 answers accepted in Discussions | Medium | ⬜ Not Started |
-| 6 | 👥 Pair Extraordinaire | Co-author a merged Pull Request | Hard | ⬜ Not Started |
-| 7 | ⭐ Starstruck | Get 16 stars on a repository you own | Hard | ⬜ Not Started |
-
-<sub>Legend: 🟢 Earned · ⬜ Not Started — update the Status column as badges are unlocked.</sub>
+<sub align="center">Full details for each credential are listed in the Certifications table above.</sub>
 
 <br>
 
@@ -253,19 +263,29 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 🟣 GitHub Analytics
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=55&section=header&text=Live%20GitHub%20Stats&fontSize=18&fontColor=a855f7&animation=fadeIn&desc=Auto-updates%20from%20the%20GitHub%20API&descAlignY=75&descSize=12" alt="Analytics header" />
 
-| Overview | Top Languages |
-|:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub stats for youknowumer"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="100%" alt="Most used languages for youknowumer"/> |
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+<b>Overview</b><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&card_width=440" width="100%" alt="GitHub stats for youknowumer"/>
+</td>
+<td align="center" valign="top" width="50%">
+<b>Top Languages</b><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&card_width=440" width="100%" alt="Most used languages for youknowumer"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="70%" alt="GitHub streak stats for youknowumer"/>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="70%" alt="GitHub streak stats for youknowumer"/>
-
-</div>
-
-<sub>Stats update live from the GitHub API. If a card doesn't render, refresh the page — the badge service occasionally rate-limits and needs a retry.</sub>
+<sub align="center">Stats update live from the GitHub API. If a card doesn't render on first load, refresh — the badge service occasionally rate-limits and needs a retry.</sub>
 
 <br>
 
