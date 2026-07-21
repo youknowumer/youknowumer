@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
-![Achievements](https://img.shields.io/badge/Achievements-7%20Badges%20Tracked-7c3aed?style=flat-square&logo=github)
 
 </div>
 
@@ -232,19 +231,21 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/PROGRESS-0%2F7%20EARNED-8b5cf6?style=for-the-badge&labelColor=0d1117)
+**Progress — 0 / 7 Earned**
 
 </div>
 
-| Badge | Requirement | Difficulty | Status |
-|:--|:--|:-:|:-:|
-| 🔫 **Quickdraw** | Close an Issue/PR within 5 minutes | ![Easy](https://img.shields.io/badge/-EASY-22c55e?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| 💖 **Public Sponsor** | Sponsor a GitHub user or org | ![Easy](https://img.shields.io/badge/-EASY-22c55e?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| 🦈 **Pull Shark** | Merge 2 Pull Requests | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| 🤪 **YOLO** | Merge a PR without review | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| 🧠 **Galaxy Brain** | 2 accepted Discussion answers | ![Medium](https://img.shields.io/badge/-MEDIUM-eab308?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| 👥 **Pair Extraordinaire** | Co-author a merged PR | ![Hard](https://img.shields.io/badge/-HARD-ef4444?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
-| ⭐ **Starstruck** | Get 16 stars on your own repo | ![Hard](https://img.shields.io/badge/-HARD-ef4444?style=flat-square) | ![Not Started](https://img.shields.io/badge/-Not%20Started-94a3b8?style=flat-square) |
+| # | Badge | Requirement | Difficulty | Status |
+|:-:|:--|:--|:-:|:-:|
+| 1 | 🔫 Quickdraw | Close an Issue/PR within 5 minutes of opening | Easy | ⬜ Not Started |
+| 2 | 💖 Public Sponsor | Sponsor a GitHub user or org via GitHub Sponsors | Easy | ⬜ Not Started |
+| 3 | 🦈 Pull Shark | Merge 2 Pull Requests | Medium | ⬜ Not Started |
+| 4 | 🤪 YOLO | Merge a Pull Request without review | Medium | ⬜ Not Started |
+| 5 | 🧠 Galaxy Brain | Get 2 answers accepted in Discussions | Medium | ⬜ Not Started |
+| 6 | 👥 Pair Extraordinaire | Co-author a merged Pull Request | Hard | ⬜ Not Started |
+| 7 | ⭐ Starstruck | Get 16 stars on a repository you own | Hard | ⬜ Not Started |
+
+<sub>Legend: 🟢 Earned · ⬜ Not Started — update the Status column as badges are unlocked.</sub>
 
 <br>
 
@@ -254,28 +255,19 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-![Analytics](https://img.shields.io/badge/ANALYTICS-LIVE-8b5cf6?style=for-the-badge&labelColor=0d1117)
+| Overview | Top Languages |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub stats for youknowumer"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="100%" alt="Most used languages for youknowumer"/> |
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&area_color=7c3aed" width="100%" alt="contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" height="180" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="180" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="100%" alt="streak stats"/>
-
-<br/><br/>
-
-<sub>🐍 Contribution Snake — live, auto-updates daily via GitHub Actions</sub>
 <br/>
-<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" alt="contribution snake"/>
+
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="70%" alt="GitHub streak stats for youknowumer"/>
 
 </div>
+
+<sub>Stats update live from the GitHub API. If a card doesn't render, refresh the page — the badge service occasionally rate-limits and needs a retry.</sub>
+
+<br>
 
 <img src="divider.svg" alt="" width="100%" />
 
