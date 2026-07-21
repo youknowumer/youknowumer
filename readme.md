@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
-![Stars](https://img.shields.io/github/stars/youknowumer?style=flat-square&color=7c3aed&label=Stars)
+![Total Stars](https://img.shields.io/badge/dynamic/json?color=7c3aed&label=Stars&query=%24.data%5B%2A%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyouknowumer%2Frepos&style=flat-square)
 
 </div>
 
@@ -19,7 +19,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 - 🎨 Frontend development with HTML, CSS, JavaScript (Basic), WordPress & Figma
 - 📊 Business Intelligence & data visualization using **Power BI**, **SQL**, and **Oracle DB**
 - 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP** (Financial & Supply Chain)
-- 🎬 Creative & design toolkit  Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
+- 🎬 Creative & design toolkit — Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
 - 🧩 Detail-oriented, collaborative, and outcome-driven across academic and real-world projects
 
 **🟢 Open To:** Frontend Development Roles · Business Intelligence & Data Analyst Roles · ERP/CRM Implementation · Internships & Junior Engineering Positions
@@ -30,8 +30,8 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 | | |
 |:--|:--|
-| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022  Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
+| 🎓 **Education** | BBIS, University of Management and Technology — Nov 2022 – Aug 2026 |
+| 🚀 **Capstone** | *Artisan Aura Creations* — Odoo ERP powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
 | 📍 **Location** | Lahore, Pakistan |
 | 💬 **Languages** | English (fluent) · Urdu (fluent) |
 
@@ -87,15 +87,15 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <table>
 <tr>
-<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023  Sep 2023 · On-site, Lahore, Pakistan</sub></td>
+<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
 <td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, and CSS, while collaborating via GitHub with the wider engineering team.</td>
 </tr>
 <tr>
-<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025  Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
+<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
 <td>Supported HR operations at a manufacturing firm, managing talent acquisition (CV screening, interview scheduling) and new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
 </tr>
 <tr>
-<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026  Mar 2026 · Remote, Lahore</sub></td>
+<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
 <td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows in CVAT, performing data labeling, validation, and quality checks to support ML model development.</td>
 </tr>
 </table>
@@ -107,10 +107,10 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 ## 🟣 Featured Projects
 
 <details open>
-<summary><b>🛍️ Artisan Aura Creations  Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
+<summary><b>🛍️ Artisan Aura Creations — Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
 <br/>
 
-Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSMUMT)** and evaluated by industry professionals.
+Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
 
 | Aspect | Details |
 |:--|:--|
@@ -122,7 +122,7 @@ Capstone & exhibition project: a direct-to-consumer brand redefining sustainable
 | **Vision** | Grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship |
 | **Repository** | Available upon request |
 
-Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion  with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
+Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion — with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
 
 </details>
 
@@ -153,11 +153,11 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 | | |
 |:--|:--|
-| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT  1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
-| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT  built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
-| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd.  recognized for UI/UX design and front-end contributions on live client projects |
-| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn  certifications in IT Automation, Power BI, SAP, ERP, and Project Management |
-| 👥 **Team Leader** | Academic Design & Tech Projects  led university teams through interface design, user journey mapping, and cross-functional delivery |
+| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT — 1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
+| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT — built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
+| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd. — recognized for UI/UX design and front-end contributions on live client projects |
+| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn — certifications in IT Automation, Power BI, SAP, ERP, and Project Management |
+| 👥 **Team Leader** | Academic Design & Tech Projects — led university teams through interface design, user journey mapping, and cross-functional delivery |
 
 <br>
 
@@ -188,6 +188,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <div align="center">
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&card_width=1030" width="100%" />
 
