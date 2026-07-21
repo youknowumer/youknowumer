@@ -202,21 +202,28 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/PROGRESS-0%2F7%20BADGES-22c55e?style=for-the-badge&labelColor=1a1a2e)
+![Progress](https://img.shields.io/badge/PROGRESS-0%2F7%20EARNED-8b5cf6?style=for-the-badge&labelColor=0d1117)
 
-<img src="https://quickchart.io/chart?bkg=white&c={type:'doughnut',data:{labels:['Earned','Remaining'],datasets:[{data:[0,7],backgroundColor:['%2322c55e','%23e5e7eb'],borderWidth:2}]},options:{plugins:{legend:{position:'bottom'}},title:{display:true,text:'Overall%20Badge%20Completion%20(0%20%2F%207)',font:{size:16}}}}" width="340"/>
+<img src="https://quickchart.io/chart?bkg=white&width=380&height=220&c={type:'doughnut',data:{labels:['Earned','Remaining'],datasets:[{data:[0,7],backgroundColor:['%238b5cf6','%23e5e7eb'],borderWidth:0}]},options:{plugins:{legend:{position:'bottom',labels:{font:{size:13}}}},title:{display:true,text:'Badge%20Completion',font:{size:15}}},cutout:'65%25'}" width="300"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="140">🔫<br/><b>Quickdraw</b><br/><sub>🟢 Easy</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140">💖<br/><b>Public Sponsor</b><br/><sub>🟢 Easy</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140">🦈<br/><b>Pull Shark</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140">🤪<br/><b>YOLO</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center" width="140">🧠<br/><b>Galaxy Brain</b><br/><sub>🟡 Medium</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140">👥<br/><b>Pair Extraordinaire</b><br/><sub>🔴 Hard</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140">⭐<br/><b>Starstruck</b><br/><sub>🔴 Hard</sub><br/><img src="https://img.shields.io/badge/-Not%20Started-e5e7eb?style=flat-square"/></td>
+<td align="center" width="140"></td>
+</tr>
+</table>
 
 </div>
-
-| Badge | Requirement | Difficulty | Status |
-|:-:|:--|:-:|:-:|
-| 🔫 Quickdraw | Close an Issue/PR within 5 min | 🟢 Easy | ⬜ |
-| 💖 Public Sponsor | Sponsor a user or org | 🟢 Easy | ⬜ |
-| 🦈 Pull Shark | Merge 2 Pull Requests | 🟡 Medium | ⬜ |
-| 🤪 YOLO | Merge a PR without review | 🟡 Medium | ⬜ |
-| 🧠 Galaxy Brain | 2 accepted Discussion answers | 🟡 Medium | ⬜ |
-| 👥 Pair Extraordinaire | Co-author a merged PR | 🔴 Hard | ⬜ |
-| ⭐ Starstruck | 16 stars on own repo | 🔴 Hard | ⬜ |
 
 <br>
 
@@ -226,32 +233,38 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<br/>
-
-### 📊 Live Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
-
-<br/><br/>
-
-### 📈 Stats Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165" alt="top languages"/>
-
-<br/><br/>
-
-### 🔥 Streak Stats
-
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=c9d1d9&card_width=1030" width="100%" alt="streak stats"/>
-
-<br/><br/>
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" alt="snake animation"/>
+![Analytics](https://img.shields.io/badge/ANALYTICS-LIVE-8b5cf6?style=for-the-badge&labelColor=0d1117)
 
 <br/>
+
+<!-- 📊 Contribution Activity -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=youknowumer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=a855f7&point=c084fc&area=true&area_color=7c3aed" width="100%" alt="contribution activity graph"/>
+
+<br/><br/>
+
+<!-- 📈 Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" height="180" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youknowumer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="180" alt="top languages"/>
+
+<br/><br/>
+
+<!-- 🔥 Streak -->
+<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="100%" alt="streak stats"/>
+
+<br/><br/>
+
+<!-- 🐍 Snake -->
+<sub>🐍 Contribution Snake — live, auto-updates daily via GitHub Actions</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/youknowumer/youknowumer/output/github-snake.svg" width="100%" alt="contribution snake"/>
+
+<br/><br/>
+
+<!-- ✅ Guaranteed-render fallback row (static, never breaks) -->
+<sub>Quick summary (always renders, even if cards above are rate-limited)</sub>
+<br/>
+<img src="https://img.shields.io/github/commit-activity/y/youknowumer/youknowumer?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=Commits%20This%20Year"/>
+<img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=for-the-badge&color=a855f7&labelColor=0d1117&label=Last%20Commit"/>
 
 </div>
 
