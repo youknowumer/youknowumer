@@ -4,12 +4,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers)
-![Stars](https://img.shields.io/github/stars/youknowumer?style=flat-square&color=38bdf8&label=Total+Stars)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyouknowumer&label=Public+Repos&query=%24.public_repos&color=34d399&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&color=f5a623&label=Last+Updated)
-![Top Language](https://img.shields.io/github/languages/top/youknowumer/youknowumer?style=flat-square&color=fb7185&label=Top+Language)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&color=a855f7&label=Followers" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&color=38bdf8&label=Total+Stars" alt="Total Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&color=f5a623&label=Last+Updated" alt="Last Updated"/>
+</p>
 
 <br/>
 
