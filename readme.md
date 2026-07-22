@@ -10,10 +10,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:38bdf8&height=260&section=header&text=Muhammad%20Umer%20Faheem&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Data%20%26%20BI%20Enthusiast&descAlignY=55&descSize=18" alt="Header"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=Frontend+Developer;Business+Intelligence+%26+Data+Enthusiast;ERP+%26+CRM+Implementation+Specialist;Turning+Digital+Strategy+into+UX;BBIS+Student+%40+UMT%2C+Lahore" alt="Typing SVG"/>
 </p>
 
