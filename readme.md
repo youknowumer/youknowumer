@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=fbbf24&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last Updated"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OPEN_TO-Internships-34d399?style=flat-square&labelColor=0d1117" alt="Open to Internships"/>
+  <img src="https://img.shields.io/badge/STATUS-Employed_%7C_Open_to_Projects-34d399?style=flat-square&labelColor=0d1117" alt="Status - Employed and Open to Projects"/>
 </p>
 
 <br/>
