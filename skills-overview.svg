@@ -1,80 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 852 242" width="852" height="242">
-
-  <defs>
-    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#131826"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="852" height="242" rx="14" fill="url(#bg2)" stroke="#21262d" stroke-width="1.5"/>
-
-<circle cx="50" cy="38" r="4" fill="#a855f7"/>
-<text x="62" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">LANGUAGES &amp; WEB</text>
-<rect x="46" y="56" width="66.6923076923077" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="60" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="70" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">HTML5</text>
-<rect x="120.6923076923077" y="56" width="57.55769230769231" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="134.69230769230768" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="144.69230769230768" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">CSS3</text>
-<rect x="186.25" y="56" width="88.42307692307692" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="200.25" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="210.25" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">JavaScript</text>
-<rect x="282.6730769230769" y="56" width="63.90384615384615" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="296.6730769230769" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="306.6730769230769" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Python</text>
-<rect x="354.5769230769231" y="56" width="45.44230769230769" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="368.5769230769231" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="378.5769230769231" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">C++</text>
-<circle cx="50" cy="146" r="4" fill="#a855f7"/>
-<text x="62" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">DATA, BI &amp; DATABASES</text>
-<rect x="46" y="164" width="51.40384615384615" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="60" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="70" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">SQL</text>
-<rect x="105.40384615384616" y="164" width="82.17307692307693" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="119.40384615384616" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="129.40384615384616" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Power BI</text>
-<rect x="195.5769230769231" y="164" width="85.25" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="209.5769230769231" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="219.5769230769231" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Oracle DB</text>
-<rect x="288.8269230769231" y="164" width="94.09615384615385" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="302.8269230769231" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="312.8269230769231" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">IBM SPSS</text>
-<circle cx="450" cy="38" r="4" fill="#a855f7"/>
-<text x="462" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">ERP &amp; BUSINESS TOOLS</text>
-<rect x="446" y="56" width="85.15384615384616" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="460" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="470" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Odoo ERP</text>
-<rect x="539.1538461538462" y="56" width="84.96153846153845" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="553.1538461538462" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="563.1538461538462" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">SAP ERP</text>
-<rect x="632.1153846153846" y="56" width="112.65384615384616" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="646.1153846153846" cy="69.0" r="3" fill="#8b5cf6"/>
-<text x="656.1153846153846" y="73.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Jira (SCRUM)</text>
-<circle cx="450" cy="146" r="4" fill="#a855f7"/>
-<text x="462" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.5" fill="#a855f7">DESIGN &amp; PRODUCTIVITY</text>
-<rect x="446" y="164" width="54.67307692307693" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="460" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="470" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Figma</text>
-<rect x="508.6730769230769" y="164" width="85.34615384615385" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="522.6730769230769" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="532.6730769230769" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">WordPress</text>
-<rect x="602.0192307692307" y="164" width="57.75" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="616.0192307692307" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="626.0192307692307" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Canva</text>
-<rect x="667.7692307692307" y="164" width="82.36538461538461" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="681.7692307692307" cy="177.0" r="3" fill="#8b5cf6"/>
-<text x="691.7692307692307" y="181.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Photoshop</text>
-<rect x="446" y="200" width="88.51923076923077" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="460" cy="213.0" r="3" fill="#8b5cf6"/>
-<text x="470" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Illustrator</text>
-<rect x="542.5192307692307" y="200" width="100.73076923076923" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="556.5192307692307" cy="213.0" r="3" fill="#8b5cf6"/>
-<text x="566.5192307692307" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Premiere Pro</text>
-<rect x="651.25" y="200" width="42.36538461538461" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="665.25" cy="213.0" r="3" fill="#8b5cf6"/>
-<text x="675.25" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">Git</text>
-<rect x="701.6153846153846" y="200" width="63.80769230769231" height="26" rx="13" fill="#1b2130" stroke="#31263f" stroke-width="1"/>
-<circle cx="715.6153846153846" cy="213.0" r="3" fill="#8b5cf6"/>
-<text x="725.6153846153846" y="217.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#c9d1d9">GitHub</text>
-<line x1="426.0" y1="26" x2="426.0" y2="226" stroke="#21262d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 540" width="1080" height="540">
+<defs>
+  <linearGradient id="bgMain" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#080b14"/>
+    <stop offset="55%" stop-color="#0d1220"/>
+    <stop offset="100%" stop-color="#12182a"/>
+  </linearGradient>
+  <linearGradient id="cardTop" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
+  </pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="0" y="0" width="1080" height="540" rx="18" fill="url(#bgMain)"/>
+<rect x="0" y="0" width="1080" height="540" rx="18" fill="url(#grid)"/>
+<rect x="0.75" y="0.75" width="1078.5" height="538.5" rx="17.5" fill="none" stroke="#242c42" stroke-width="1.2"/>
+<circle cx="1020" cy="40" r="150" fill="#8b5cf6" opacity="0.06" filter="url(#softGlow)"/>
+<circle cx="60" cy="500" r="150" fill="#38bdf8" opacity="0.05" filter="url(#softGlow)"/>
+<text x="32" y="34" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="2.5" fill="#5b6478">TOOLKIT — BY DOMAIN</text>
+<text x="1048" y="34" text-anchor="end" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#3d4459">20 TOOLS · 5 DOMAINS</text>
+<g>
+<rect x="32.00" y="66.00" width="497.00" height="158.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
+<rect x="32.00" y="66.00" width="497.00" height="158.00" rx="16" fill="url(#cardTop)"/>
+<rect x="32.00" y="66.00" width="4" height="158.00" rx="2" fill="#38bdf8" opacity="0.85"/>
+<g transform="translate(58.0,86) scale(0.7917)" fill="none" stroke="#38bdf8" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M16 18l6-6-6-6M8 6l-6 6 6 6"/></g>
+<text x="88.00" y="100.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.8" fill="#eef1f8">LANGUAGES &amp; WEB</text>
+<text x="88.00" y="116.00" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1" fill="#38bdf8" opacity="0.85">05 TOOLS</text>
+<rect x="58.00" y="128.00" width="93.06" height="29" rx="14.5" fill="#161c2c" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="1"/><circle cx="73.00" cy="142.50" r="2.6" fill="#38bdf8"/><text x="82.00" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">HTML5</text>
+<rect x="161.06" y="128.00" width="86.25" height="29" rx="14.5" fill="#161c2c" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="1"/><circle cx="176.06" cy="142.50" r="2.6" fill="#38bdf8"/><text x="185.06" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">CSS3</text>
+<rect x="257.31" y="128.00" width="127.13" height="29" rx="14.5" fill="#161c2c" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="1"/><circle cx="272.31" cy="142.50" r="2.6" fill="#38bdf8"/><text x="281.31" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">JavaScript</text>
+<rect x="394.44" y="128.00" width="99.88" height="29" rx="14.5" fill="#161c2c" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="1"/><circle cx="409.44" cy="142.50" r="2.6" fill="#38bdf8"/><text x="418.44" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Python</text>
+<rect x="58.00" y="166.00" width="79.44" height="29" rx="14.5" fill="#161c2c" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="1"/><circle cx="73.00" cy="180.50" r="2.6" fill="#38bdf8"/><text x="82.00" y="184.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">C++</text>
+</g>
+<g>
+<rect x="551.00" y="66.00" width="497.00" height="158.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
+<rect x="551.00" y="66.00" width="497.00" height="158.00" rx="16" fill="url(#cardTop)"/>
+<rect x="551.00" y="66.00" width="4" height="158.00" rx="2" fill="#8b5cf6" opacity="0.85"/>
+<g transform="translate(577.0,86) scale(0.7917)" fill="none" stroke="#8b5cf6" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 5v6c0 1.66-4.03 3-9 3s-9-1.34-9-3V5"/><path d="M3 11v6c0 1.66 4.03 3 9 3s9-1.34 9-3v-6"/></g>
+<text x="607.00" y="100.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.8" fill="#eef1f8">DATA, BI &amp; DATABASES</text>
+<text x="607.00" y="116.00" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1" fill="#8b5cf6" opacity="0.85">04 TOOLS</text>
+<rect x="577.00" y="128.00" width="79.44" height="29" rx="14.5" fill="#161c2c" stroke="#8b5cf6" stroke-opacity="0.38" stroke-width="1"/><circle cx="592.00" cy="142.50" r="2.6" fill="#8b5cf6"/><text x="601.00" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">SQL</text>
+<rect x="666.44" y="128.00" width="113.50" height="29" rx="14.5" fill="#161c2c" stroke="#8b5cf6" stroke-opacity="0.38" stroke-width="1"/><circle cx="681.44" cy="142.50" r="2.6" fill="#8b5cf6"/><text x="690.44" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Power BI</text>
+<rect x="789.94" y="128.00" width="120.31" height="29" rx="14.5" fill="#161c2c" stroke="#8b5cf6" stroke-opacity="0.38" stroke-width="1"/><circle cx="804.94" cy="142.50" r="2.6" fill="#8b5cf6"/><text x="813.94" y="146.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Oracle DB</text>
+<rect x="577.00" y="166.00" width="113.50" height="29" rx="14.5" fill="#161c2c" stroke="#8b5cf6" stroke-opacity="0.38" stroke-width="1"/><circle cx="592.00" cy="180.50" r="2.6" fill="#8b5cf6"/><text x="601.00" y="184.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">IBM SPSS</text>
+</g>
+<g>
+<rect x="32.00" y="246.00" width="497.00" height="120.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
+<rect x="32.00" y="246.00" width="497.00" height="120.00" rx="16" fill="url(#cardTop)"/>
+<rect x="32.00" y="246.00" width="4" height="120.00" rx="2" fill="#f5a623" opacity="0.85"/>
+<g transform="translate(58.0,266) scale(0.7917)" fill="none" stroke="#f5a623" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><path d="M2 13h20"/></g>
+<text x="88.00" y="280.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.8" fill="#eef1f8">ERP &amp; BUSINESS TOOLS</text>
+<text x="88.00" y="296.00" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1" fill="#f5a623" opacity="0.85">03 TOOLS</text>
+<rect x="58.00" y="308.00" width="113.50" height="29" rx="14.5" fill="#161c2c" stroke="#f5a623" stroke-opacity="0.38" stroke-width="1"/><circle cx="73.00" cy="322.50" r="2.6" fill="#f5a623"/><text x="82.00" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Odoo ERP</text>
+<rect x="181.50" y="308.00" width="106.69" height="29" rx="14.5" fill="#161c2c" stroke="#f5a623" stroke-opacity="0.38" stroke-width="1"/><circle cx="196.50" cy="322.50" r="2.6" fill="#f5a623"/><text x="205.50" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">SAP ERP</text>
+<rect x="298.19" y="308.00" width="140.75" height="29" rx="14.5" fill="#161c2c" stroke="#f5a623" stroke-opacity="0.38" stroke-width="1"/><circle cx="313.19" cy="322.50" r="2.6" fill="#f5a623"/><text x="322.19" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Jira (SCRUM)</text>
+</g>
+<g>
+<rect x="551.00" y="246.00" width="497.00" height="120.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
+<rect x="551.00" y="246.00" width="497.00" height="120.00" rx="16" fill="url(#cardTop)"/>
+<rect x="551.00" y="246.00" width="4" height="120.00" rx="2" fill="#fb7185" opacity="0.85"/>
+<g transform="translate(577.0,266) scale(0.7917)" fill="none" stroke="#fb7185" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="18" r="3"/><path d="M6 9v6"/><path d="M18 15c0-6-6-6-12-6"/></g>
+<text x="607.00" y="280.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.8" fill="#eef1f8">WEB &amp; DEV WORKFLOW</text>
+<text x="607.00" y="296.00" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1" fill="#fb7185" opacity="0.85">03 TOOLS</text>
+<rect x="577.00" y="308.00" width="120.31" height="29" rx="14.5" fill="#161c2c" stroke="#fb7185" stroke-opacity="0.38" stroke-width="1"/><circle cx="592.00" cy="322.50" r="2.6" fill="#fb7185"/><text x="601.00" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">WordPress</text>
+<rect x="707.31" y="308.00" width="79.44" height="29" rx="14.5" fill="#161c2c" stroke="#fb7185" stroke-opacity="0.38" stroke-width="1"/><circle cx="722.31" cy="322.50" r="2.6" fill="#fb7185"/><text x="731.31" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Git</text>
+<rect x="796.75" y="308.00" width="99.88" height="29" rx="14.5" fill="#161c2c" stroke="#fb7185" stroke-opacity="0.38" stroke-width="1"/><circle cx="811.75" cy="322.50" r="2.6" fill="#fb7185"/><text x="820.75" y="326.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">GitHub</text>
+</g>
+<g>
+<rect x="32.00" y="388.00" width="1016.00" height="120.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
+<rect x="32.00" y="388.00" width="1016.00" height="120.00" rx="16" fill="url(#cardTop)"/>
+<rect x="32.00" y="388.00" width="4" height="120.00" rx="2" fill="#34d399" opacity="0.85"/>
+<g transform="translate(58.0,408) scale(0.7917)" fill="none" stroke="#34d399" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"/><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"/><path d="M2 2l7.6 7.6"/><circle cx="11" cy="11" r="2"/></g>
+<text x="88.00" y="422.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" letter-spacing="0.8" fill="#eef1f8">DESIGN &amp; CREATIVE TOOLS</text>
+<text x="88.00" y="438.00" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" letter-spacing="1" fill="#34d399" opacity="0.85">05 TOOLS</text>
+<rect x="58.00" y="450.00" width="93.06" height="29" rx="14.5" fill="#161c2c" stroke="#34d399" stroke-opacity="0.38" stroke-width="1"/><circle cx="73.00" cy="464.50" r="2.6" fill="#34d399"/><text x="82.00" y="468.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Figma</text>
+<rect x="161.06" y="450.00" width="93.06" height="29" rx="14.5" fill="#161c2c" stroke="#34d399" stroke-opacity="0.38" stroke-width="1"/><circle cx="176.06" cy="464.50" r="2.6" fill="#34d399"/><text x="185.06" y="468.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Canva</text>
+<rect x="264.12" y="450.00" width="120.31" height="29" rx="14.5" fill="#161c2c" stroke="#34d399" stroke-opacity="0.38" stroke-width="1"/><circle cx="279.12" cy="464.50" r="2.6" fill="#34d399"/><text x="288.12" y="468.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Photoshop</text>
+<rect x="394.44" y="450.00" width="133.94" height="29" rx="14.5" fill="#161c2c" stroke="#34d399" stroke-opacity="0.38" stroke-width="1"/><circle cx="409.44" cy="464.50" r="2.6" fill="#34d399"/><text x="418.44" y="468.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Illustrator</text>
+<rect x="538.38" y="450.00" width="140.75" height="29" rx="14.5" fill="#161c2c" stroke="#34d399" stroke-opacity="0.38" stroke-width="1"/><circle cx="553.38" cy="464.50" r="2.6" fill="#34d399"/><text x="562.38" y="468.90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#dde3f0">Premiere Pro</text>
+</g>
 </svg>
