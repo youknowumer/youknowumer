@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=0d1117&color=38bdf8&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total Stars"/>
   &nbsp;
   <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=fbbf24&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last Updated"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN_TO-Internships-34d399?style=flat-square&labelColor=0d1117" alt="Open to Internships"/>
 </p>
 
 <br/>
