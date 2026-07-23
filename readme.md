@@ -81,18 +81,38 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 ## 🟣 Experience
 
+## 🟣 Professional Experience
+
 <table>
 <tr>
-<td width="260"><b>Front End Intern</b><br>Tara Technologies Pvt. Ltd.<br><sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub></td>
-<td>Contributed to real-world projects by designing and coding interfaces using Photoshop, Illustrator, Figma, HTML, and CSS, while collaborating via GitHub with the wider engineering team.</td>
+<td width="280">
+  <b>Front-End Development Intern</b><br>
+  Tara Technologies Pvt. Ltd.<br>
+  <sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub>
+</td>
+<td>
+  Engineered responsive, user-centric web interfaces for live client projects, translating high-fidelity designs from <b>Figma</b>, <b>Photoshop</b>, and <b>Illustrator</b> into production-ready <b>HTML</b> and <b>CSS</b>. Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows, participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
+</td>
 </tr>
 <tr>
-<td width="260"><b>HR Internee</b><br>MGA Industries Pvt. Ltd.<br><sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub></td>
-<td>Supported HR operations at a manufacturing firm, managing talent acquisition (CV screening, interview scheduling) and new-hire onboarding. Maintained employee records, processed payroll data, and monitored compliance using the Oracle HR database.</td>
+<td width="280">
+  <b>Human Resources Intern</b><br>
+  MGA Industries Pvt. Ltd.<br>
+  <sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub>
+</td>
+<td>
+  Drove end-to-end talent acquisition for a manufacturing enterprise, including CV screening, candidate shortlisting, and interview coordination, resulting in streamlined hiring turnaround. Managed new-hire onboarding processes and maintained accurate, audit-ready employee records within the <b>Oracle HR</b> database. Processed payroll data and monitored regulatory compliance across HR operations, ensuring data integrity and adherence to company policy.
+</td>
 </tr>
 <tr>
-<td width="260"><b>Data Annotator</b><br>Nex Pred Solutions<br><sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub></td>
-<td>Processed and prepared video datasets for computer vision applications, including video filtration and frame extraction. Converted annotations between YOLO and COCO formats and managed annotation workflows in CVAT, performing data labeling, validation, and quality checks to support ML model development.</td>
+<td width="280">
+  <b>Data Annotation Specialist</b><br>
+  Nex Pred Solutions<br>
+  <sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub>
+</td>
+<td>
+  Built and curated high-quality video datasets to support computer vision model training, performing systematic video filtration and frame extraction at scale. Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, and managed structured labeling workflows in <b>CVAT</b>, ensuring dataset accuracy and consistency. Conducted rigorous validation and quality-assurance checks, directly contributing to the reliability and performance of downstream ML models.
+</td>
 </tr>
 </table>
 
