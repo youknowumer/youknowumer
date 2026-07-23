@@ -79,37 +79,64 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <img src="divider.svg" alt="" width="100%" />
 
-## 🟣 Professional Experience
+## 💼 Professional Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="280">
-  <b>Front-End Development Intern</b><br>
-  Tara Technologies Pvt. Ltd.<br>
-  <sub>Jul 2023 – Sep 2023 · On-site, Lahore, Pakistan</sub>
+<td width="30%" valign="top">
+  <h3>🎨 Front-End Development Intern</h3>
+  <b>Tara Technologies Pvt. Ltd.</b><br>
+  📍 On-site, Lahore, Pakistan<br>
+  🗓️ Jul 2023 – Sep 2023
+  <br><br>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </td>
-<td>
-  Engineered responsive, user-centric web interfaces for live client projects, translating high-fidelity designs from <b>Figma</b>, <b>Photoshop</b>, and <b>Illustrator</b> into production-ready <b>HTML</b> and <b>CSS</b>. Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows, participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
+<td valign="top">
+  Engineered responsive, user-centric web interfaces for live client projects, translating high-fidelity designs from <b>Figma</b>, <b>Photoshop</b>, and <b>Illustrator</b> into production-ready <b>HTML</b> and <b>CSS</b>.
+  <br><br>
+  Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows — participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
 </td>
 </tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
 <tr>
-<td width="280">
-  <b>Human Resources Intern</b><br>
-  MGA Industries Pvt. Ltd.<br>
-  <sub>Aug 2025 – Sep 2025 · On-site, Manga Mandi, Lahore</sub>
+<td width="30%" valign="top">
+  <h3>🧑‍💼 Human Resources Intern</h3>
+  <b>MGA Industries Pvt. Ltd.</b><br>
+  📍 On-site, Manga Mandi, Lahore<br>
+  🗓️ Aug 2025 – Sep 2025
+  <br><br>
+  <img src="https://img.shields.io/badge/-Oracle%20HR-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Recruitment-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Payroll-2E8B57?style=flat-square" />
 </td>
-<td>
-  Drove end-to-end talent acquisition for a manufacturing enterprise, including CV screening, candidate shortlisting, and interview coordination, resulting in streamlined hiring turnaround. Managed new-hire onboarding processes and maintained accurate, audit-ready employee records within the <b>Oracle HR</b> database. Processed payroll data and monitored regulatory compliance across HR operations, ensuring data integrity and adherence to company policy.
+<td valign="top">
+  Drove end-to-end talent acquisition for a manufacturing enterprise — including CV screening, candidate shortlisting, and interview coordination — resulting in streamlined hiring turnaround.
+  <br><br>
+  Managed new-hire onboarding and maintained accurate, audit-ready employee records within the <b>Oracle HR</b> database, while processing payroll data and monitoring regulatory compliance to ensure data integrity across HR operations.
 </td>
 </tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
 <tr>
-<td width="280">
-  <b>Data Annotation Specialist</b><br>
-  Nex Pred Solutions<br>
-  <sub>Feb 2026 – Mar 2026 · Remote, Lahore</sub>
+<td width="30%" valign="top">
+  <h3>🤖 Data Annotation Specialist</h3>
+  <b>Nex Pred Solutions</b><br>
+  📍 Remote, Lahore<br>
+  🗓️ Feb 2026 – Mar 2026
+  <br><br>
+  <img src="https://img.shields.io/badge/-CVAT-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/-COCO-FF6F00?style=flat-square" />
 </td>
-<td>
-  Built and curated high-quality video datasets to support computer vision model training, performing systematic video filtration and frame extraction at scale. Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, and managed structured labeling workflows in <b>CVAT</b>, ensuring dataset accuracy and consistency. Conducted rigorous validation and quality-assurance checks, directly contributing to the reliability and performance of downstream ML models.
+<td valign="top">
+  Built and curated high-quality video datasets to support computer vision model training, performing systematic video filtration and frame extraction at scale.
+  <br><br>
+  Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, managed structured labeling workflows in <b>CVAT</b>, and conducted rigorous validation and QA checks — directly improving the reliability and performance of downstream ML models.
 </td>
 </tr>
 </table>
