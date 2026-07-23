@@ -79,8 +79,6 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <img src="divider.svg" alt="" width="100%" />
 
-## 🟣 Experience
-
 ## 🟣 Professional Experience
 
 <table>
