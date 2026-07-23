@@ -206,75 +206,74 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top">
+<td width="32%" valign="top">
   <h3>📊 Data, Analytics & Automation</h3>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </td>
 <td valign="top">
   <b>Microsoft Power BI</b> — Data Analysis & Visualization<br>
-  <sub>🏢 Uni Athena / Cambridge International &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+  <sub>🏢 Uni Athena / Cambridge International &nbsp;|&nbsp; 🗓️ Apr 2025</sub>
   <br><br>
   <b>IT Automation with Python</b><br>
-  <sub>🏢 Google &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+  <sub>🏢 Google &nbsp;|&nbsp; 🗓️ Jun 2025</sub>
 </td>
 </tr>
 
 <tr><td colspan="2"><hr></td></tr>
 
 <tr>
-<td width="30%" valign="top">
+<td width="32%" valign="top">
   <h3>🎨 Design & Web Development</h3>
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </td>
 <td valign="top">
   <b>WordPress</b> — Building Websites<br>
-  <sub>🏢 Coursera &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+  <sub>🏢 Coursera &nbsp;|&nbsp; 🗓️ Apr 2025</sub>
   <br><br>
   <b>Canva</b> — Graphic Design<br>
-  <sub>🏢 Simplilearn &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+  <sub>🏢 Simplilearn &nbsp;|&nbsp; 🗓️ Apr 2025</sub>
 </td>
 </tr>
 
 <tr><td colspan="2"><hr></td></tr>
 
 <tr>
-<td width="30%" valign="top">
+<td width="32%" valign="top">
   <h3>💼 Business & Enterprise Systems</h3>
-  <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </td>
 <td valign="top">
   <b>SAP</b> — Managing Basic Business Scenarios<br>
-  <sub>🏢 SAP &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+  <sub>🏢 SAP &nbsp;|&nbsp; 🗓️ Jun 2025</sub>
   <br><br>
   <b>Odoo 14 Essentials</b><br>
-  <sub>🏢 Odoo &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+  <sub>🏢 Odoo &nbsp;|&nbsp; 🗓️ Jun 2025</sub>
   <br><br>
   <b>Foundations of Project Management</b><br>
-  <sub>🏢 Google &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+  <sub>🏢 Google &nbsp;|&nbsp; 🗓️ Jul 2025</sub>
   <br><br>
   <b>Jira SCRUM Project</b><br>
-  <sub>🏢 Coursera &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+  <sub>🏢 Coursera &nbsp;|&nbsp; 🗓️ Jul 2025</sub>
 </td>
 </tr>
 
 <tr><td colspan="2"><hr></td></tr>
 
 <tr>
-<td width="30%" valign="top">
+<td width="32%" valign="top">
   <h3>🤝 Professional Development</h3>
-  <img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </td>
 <td valign="top">
   <b>Developing Interpersonal Skills</b><br>
-  <sub>🏢 IBM &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+  <sub>🏢 IBM &nbsp;|&nbsp; 🗓️ Jul 2025</sub>
 </td>
 </tr>
 </table>
-
 <br>
 
 <img src="divider.svg" alt="" width="100%" />
