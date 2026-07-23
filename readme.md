@@ -204,21 +204,77 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="30%" valign="top">
+  <h3>📊 Data, Analytics & Automation</h3>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</td>
+<td valign="top">
+  <b>Microsoft Power BI</b> — Data Analysis & Visualization<br>
+  <sub>🏢 Uni Athena / Cambridge International &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+  <br><br>
+  <b>IT Automation with Python</b><br>
+  <sub>🏢 Google &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+</td>
+</tr>
 
-| # | Certification | Category | Issuing Organization | Date |
-|:--:|:--|:--|:--|:--:|
-| 01 | **Microsoft Power BI** — Data Analysis & Visualization | Data & Analytics | Uni Athena / Cambridge International | Apr 2025 |
-| 02 | **IT Automation with Python** | Data & Analytics | Google | Jun 2025 |
-| 03 | **WordPress** — Building Websites | Design & Web Development | Coursera | Apr 2025 |
-| 04 | **Canva** — Graphic Design | Design & Web Development | Simplilearn | Apr 2025 |
-| 05 | **SAP** — Managing Basic Business Scenarios | Business & Enterprise Systems | SAP | Jun 2025 |
-| 06 | **Odoo 14 Essentials** | Business & Enterprise Systems | Odoo | Jun 2025 |
-| 07 | **Foundations of Project Management** | Business & Enterprise Systems | Google | Jul 2025 |
-| 08 | **Jira SCRUM Project** | Business & Enterprise Systems | Coursera | Jul 2025 |
-| 09 | **Developing Interpersonal Skills** | Professional Development | IBM | Jul 2025 |
+<tr><td colspan="2"><hr></td></tr>
 
-</div>
+<tr>
+<td width="30%" valign="top">
+  <h3>🎨 Design & Web Development</h3>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+</td>
+<td valign="top">
+  <b>WordPress</b> — Building Websites<br>
+  <sub>🏢 Coursera &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+  <br><br>
+  <b>Canva</b> — Graphic Design<br>
+  <sub>🏢 Simplilearn &nbsp;·&nbsp; 🗓️ Apr 2025</sub>
+</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+  <h3>💼 Business & Enterprise Systems</h3>
+  <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</td>
+<td valign="top">
+  <b>SAP</b> — Managing Basic Business Scenarios<br>
+  <sub>🏢 SAP &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+  <br><br>
+  <b>Odoo 14 Essentials</b><br>
+  <sub>🏢 Odoo &nbsp;·&nbsp; 🗓️ Jun 2025</sub>
+  <br><br>
+  <b>Foundations of Project Management</b><br>
+  <sub>🏢 Google &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+  <br><br>
+  <b>Jira SCRUM Project</b><br>
+  <sub>🏢 Coursera &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+</td>
+</tr>
+
+<tr><td colspan="2"><hr></td></tr>
+
+<tr>
+<td width="30%" valign="top">
+  <h3>🤝 Professional Development</h3>
+  <img src="https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</td>
+<td valign="top">
+  <b>Developing Interpersonal Skills</b><br>
+  <sub>🏢 IBM &nbsp;·&nbsp; 🗓️ Jul 2025</sub>
+</td>
+</tr>
+</table>
+
 <br>
 
 <img src="divider.svg" alt="" width="100%" />
