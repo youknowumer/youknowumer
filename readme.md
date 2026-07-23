@@ -208,71 +208,72 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <table width="95%">
 <thead>
-<tr style="background-color:#2F80ED;">
-<th align="left">Certification</th>
-<th align="left">Category</th>
-<th align="left">Issuing Organization</th>
+<tr>
+<th align="center">Certification</th>
+<th align="center">Category</th>
+<th align="center">Issuing Organization</th>
 <th align="center">Date</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b>Microsoft Power BI</b><br><sub>Data Analysis & Visualization</sub></td>
-<td>Data & Analytics</td>
-<td>Uni Athena / Cambridge International</td>
+<td align="center"><b>Microsoft Power BI</b><br><sub>Data Analysis & Visualization</sub></td>
+<td align="center">Data & Analytics</td>
+<td align="center">Uni Athena / Cambridge International</td>
 <td align="center">Apr 2025</td>
 </tr>
 <tr>
-<td><b>IT Automation with Python</b></td>
-<td>Data & Analytics</td>
-<td>Google</td>
+<td align="center"><b>IT Automation with Python</b></td>
+<td align="center">Data & Analytics</td>
+<td align="center">Google</td>
 <td align="center">Jun 2025</td>
 </tr>
 <tr>
-<td><b>WordPress</b><br><sub>Building Websites</sub></td>
-<td>Design & Web Development</td>
-<td>Coursera</td>
+<td align="center"><b>WordPress</b><br><sub>Building Websites</sub></td>
+<td align="center">Design & Web Development</td>
+<td align="center">Coursera</td>
 <td align="center">Apr 2025</td>
 </tr>
 <tr>
-<td><b>Canva</b><br><sub>Graphic Design</sub></td>
-<td>Design & Web Development</td>
-<td>Simplilearn</td>
+<td align="center"><b>Canva</b><br><sub>Graphic Design</sub></td>
+<td align="center">Design & Web Development</td>
+<td align="center">Simplilearn</td>
 <td align="center">Apr 2025</td>
 </tr>
 <tr>
-<td><b>SAP</b><br><sub>Managing Basic Business Scenarios</sub></td>
-<td>Business & Enterprise Systems</td>
-<td>SAP</td>
+<td align="center"><b>SAP</b><br><sub>Managing Basic Business Scenarios</sub></td>
+<td align="center">Business & Enterprise Systems</td>
+<td align="center">SAP</td>
 <td align="center">Jun 2025</td>
 </tr>
 <tr>
-<td><b>Odoo 14 Essentials</b></td>
-<td>Business & Enterprise Systems</td>
-<td>Odoo</td>
+<td align="center"><b>Odoo 14 Essentials</b></td>
+<td align="center">Business & Enterprise Systems</td>
+<td align="center">Odoo</td>
 <td align="center">Jun 2025</td>
 </tr>
 <tr>
-<td><b>Foundations of Project Management</b></td>
-<td>Business & Enterprise Systems</td>
-<td>Google</td>
+<td align="center"><b>Foundations of Project Management</b></td>
+<td align="center">Business & Enterprise Systems</td>
+<td align="center">Google</td>
 <td align="center">Jul 2025</td>
 </tr>
 <tr>
-<td><b>Jira SCRUM Project</b></td>
-<td>Business & Enterprise Systems</td>
-<td>Coursera</td>
+<td align="center"><b>Jira SCRUM Project</b></td>
+<td align="center">Business & Enterprise Systems</td>
+<td align="center">Coursera</td>
 <td align="center">Jul 2025</td>
 </tr>
 <tr>
-<td><b>Developing Interpersonal Skills</b></td>
-<td>Professional Development</td>
-<td>IBM</td>
+<td align="center"><b>Developing Interpersonal Skills</b></td>
+<td align="center">Professional Development</td>
+<td align="center">IBM</td>
 <td align="center">Jul 2025</td>
 </tr>
 </tbody>
 </table>
 
+</div>
 </div>
 <br>
 
