@@ -202,23 +202,62 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br>
 
-## 🟣 Certifications
+## 📜 Certifications & Professional Development
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="45%"><b>🎓 Certification</b></td>
+<td width="35%"><b>🏢 Issuing Organization</b></td>
+<td width="20%" align="center"><b>📅 Date</b></td>
+</tr>
+<tr><td colspan="3"><hr></td></tr>
 
-| Certification | Provider | Date |
-|:--|:--|:--:|
-| Microsoft Power BI (Data Analysis & Visualization) | Uni Athena / Cambridge International | Apr 2025 |
-| WordPress (Building Websites) | Coursera | Apr 2025 |
-| Canva (Graphic Design) | Simplilearn | Apr 2025 |
-| IT Automation with Python | Google | Jun 2025 |
-| Managing Basic Business Scenarios | SAP | Jun 2025 |
-| Odoo 14 Essentials | Odoo | Jun 2025 |
-| Foundations of Project Management | Google | Jul 2025 |
-| Developing Interpersonal Skills | IBM | Jul 2025 |
-| Jira SCRUM Project | Coursera | Jul 2025 |
-
-</div>
+<tr>
+<td>📊 Microsoft Power BI — Data Analysis & Visualization</td>
+<td>Uni Athena / Cambridge International</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td>🌐 WordPress — Building Websites</td>
+<td>Coursera</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td>🎨 Canva — Graphic Design</td>
+<td>Simplilearn</td>
+<td align="center">Apr 2025</td>
+</tr>
+<tr>
+<td>🐍 IT Automation with Python</td>
+<td>Google</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td>💼 Managing Basic Business Scenarios</td>
+<td>SAP</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td>⚙️ Odoo 14 Essentials</td>
+<td>Odoo</td>
+<td align="center">Jun 2025</td>
+</tr>
+<tr>
+<td>📈 Foundations of Project Management</td>
+<td>Google</td>
+<td align="center">Jul 2025</td>
+</tr>
+<tr>
+<td>🤝 Developing Interpersonal Skills</td>
+<td>IBM</td>
+<td align="center">Jul 2025</td>
+</tr>
+<tr>
+<td>📋 Jira SCRUM Project</td>
+<td>Coursera</td>
+<td align="center">Jul 2025</td>
+</tr>
+</table>
 
 <br>
 
