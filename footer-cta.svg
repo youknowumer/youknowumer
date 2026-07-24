@@ -55,6 +55,6 @@
       <text x="590" y="52">&lt; LET'S BUILD SOMETHING GREAT /&gt;</text>
     </g>
     <text x="590" y="90" font-size="26" font-weight="700" fill="var(--text)" text-anchor="middle">Open to Frontend, BI &amp; ERP Opportunities</text>
-    <text x="590" y="116" font-size="13.5" fill="var(--muted)" text-anchor="middle">Always glad to connect on new roles, internships, or collaborative projects — tap an icon below.</text>
+    <text x="590" y="116" font-size="13.5" fill="var(--muted)" text-anchor="middle">Always glad to connect on new roles, internships, or collaborative projects tap an icon below.</text>
   </g>
 </svg>
