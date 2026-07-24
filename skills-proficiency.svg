@@ -22,7 +22,6 @@
 <rect x="0.75" y="0.75" width="1078.5" height="652.5" rx="17.5" fill="none" stroke="#242c42" stroke-width="1.2"/>
 <circle cx="1020" cy="50" r="160" fill="#8b5cf6" opacity="0.055" filter="url(#softGlow)"/>
 <circle cx="60" cy="594" r="160" fill="#38bdf8" opacity="0.05" filter="url(#softGlow)"/>
-<text x="32" y="34" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="2.5" fill="#5b6478">PROFICIENCY — BY SKILL</text>
 <circle cx="670.32" cy="30.50" r="4" fill="#8b5cf6"/>
 <text x="681.32" y="34.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" fill="#8b93a8">ADVANCED · 75%+</text>
 <circle cx="792.16" cy="30.50" r="4" fill="#5eb8e0"/>
