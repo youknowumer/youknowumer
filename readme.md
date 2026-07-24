@@ -42,7 +42,6 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <div align="center">
 
-| | |
 |:--|:--|
 | 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022 – Aug 2026 |
 | 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
@@ -192,7 +191,6 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 🟣 Awards & Recognition
 
-| | |
 |:--|:--|
 | 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT  1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
 | 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT  built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
