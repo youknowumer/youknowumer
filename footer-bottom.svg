@@ -38,7 +38,7 @@
     <rect x="0" y="0" width="1180" height="3" fill="url(#accentB)"/>
 
     <text x="590" y="42" text-anchor="middle" font-size="13.5" fill="var(--text)" font-weight="600">© 2026 Muhammad Umer Faheem</text>
-    <text x="590" y="65" text-anchor="middle" font-size="11.5" class="mono" fill="var(--muted)">Designed &amp; built with intention — Lahore, Pakistan</text>
+    <text x="590" y="65" text-anchor="middle" font-size="11.5" class="mono" fill="var(--muted)">Designed &amp; built with intention Lahore, Pakistan</text>
 
     <circle cx="80" cy="46" r="2.5" fill="var(--accent2)">
       <animate attributeName="cx" values="60;1120;60" dur="14s" repeatCount="indefinite"/>
