@@ -206,102 +206,127 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%">
+<table>
 <tr>
-<td width="33%" align="center">
+
+<td width="50%" valign="top">
 
 ### 📊 Data & Analytics
 
-**🟨 Microsoft Power BI**  
-<sub>Data Analysis & Visualization</sub>
+<div align="center">
 
-🏢 UniAthena / Cambridge International  
-📅 Apr 2025
+### 🟨 Microsoft Power BI
+**Data Analysis & Visualization**
 
----
-
-**🐍 IT Automation with Python**
-
-🏢 Google  
-📅 Jun 2025
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎨 Design & Web Development
-
-**🌐 WordPress**  
-<sub>Building Websites</sub>
-
-🏢 Coursera  
-📅 Apr 2025
-
----
-
-**🎨 Canva**  
-<sub>Graphic Design</sub>
-
-🏢 Simplilearn  
-📅 Apr 2025
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏢 Business & Enterprise Systems
-
-**🏭 SAP**  
-<sub>Managing Basic Business Scenarios</sub>
-
-🏢 SAP  
-📅 Jun 2025
-
----
-
-**⚙️ Odoo 14 Essentials**
-
-🏢 Odoo  
-📅 Jun 2025
-
----
-
-**📈 Foundations of Project Management**
-
-🏢 Google  
-📅 Jul 2025
-
----
-
-**🗂️ Jira SCRUM Project**
-
-🏢 Coursera  
-📅 Jul 2025
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="95%">
-<tr>
-<td align="center">
-
-### 🤝 Professional Development
-
-**💬 Developing Interpersonal Skills**
-
-🏢 IBM  
-📅 Jul 2025
-
-</td>
-</tr>
-</table>
+🏢 **UniAthena / Cambridge International**  
+📅 **April 2025**
 
 </div>
 
-<img src="divider.svg" alt="" width="100%" />
+<br>
+
+<div align="center">
+
+### 🐍 IT Automation with Python
+
+🏢 **Google**  
+📅 **June 2025**
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Design & Web Development
+
+<div align="center">
+
+### 🌐 WordPress
+**Building Websites**
+
+🏢 **Coursera**  
+📅 **April 2025**
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎨 Canva
+**Graphic Design**
+
+🏢 **Simplilearn**  
+📅 **April 2025**
+
+</div>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 Business & Enterprise Systems
+
+<div align="center">
+
+### 🏭 SAP
+**Managing Basic Business Scenarios**
+
+🏢 **SAP**  
+📅 **June 2025**
+
+<br>
+
+### ⚙️ Odoo 14 Essentials
+
+🏢 **Odoo**  
+📅 **June 2025**
+
+<br>
+
+### 📈 Foundations of Project Management
+
+🏢 **Google**  
+📅 **July 2025**
+
+<br>
+
+### 🗂️ Jira SCRUM Project
+
+🏢 **Coursera**  
+📅 **July 2025**
+
+</div>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+### 🤝 Professional Development
+
+<div align="center">
+
+### 💬 Developing Interpersonal Skills
+
+🏢 **IBM**  
+📅 **July 2025**
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div><img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 GitHub Analytics
 
