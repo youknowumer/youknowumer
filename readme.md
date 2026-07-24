@@ -204,21 +204,18 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-<div align="center">
+| 🎓 **Certification** | 🏷️ **Category** | 🏢 **Issuing Organization** | 📅 **Completed** |
+| :------------------- | :-------------- | :-------------------------- | :--------------- |
+| **Microsoft Power BI**<br><sub>Data Analysis & Visualization</sub> | Data & Analytics | UniAthena / Cambridge International | **Apr 2025** |
+| **IT Automation with Python** | Data & Analytics | Google | **Jun 2025** |
+| **WordPress**<br><sub>Building Websites</sub> | Design & Web Development | Coursera | **Apr 2025** |
+| **Canva**<br><sub>Graphic Design</sub> | Design & Web Development | Simplilearn | **Apr 2025** |
+| **SAP**<br><sub>Managing Basic Business Scenarios</sub> | Business & Enterprise Systems | SAP | **Jun 2025** |
+| **Odoo 14 Essentials** | Business & Enterprise Systems | Odoo | **Jun 2025** |
+| **Foundations of Project Management** | Business & Enterprise Systems | Google | **Jul 2025** |
+| **Jira SCRUM Project** | Business & Enterprise Systems | Coursera | **Jul 2025** |
+| **Developing Interpersonal Skills** | Professional Development | IBM | **Jul 2025** |
 
-| 🎓 Certification | 🏷️ Category | 🏢 Issuing Organization | 📅 Completed |
-|:-----------------|:-----------:|:-----------------------:|:-----------:|
-| **Microsoft Power BI**<br><sub>Data Analysis & Visualization</sub> | 📊 Data & Analytics | UniAthena / Cambridge International | **Apr 2025** |
-| **IT Automation with Python** | 📊 Data & Analytics | Google | **Jun 2025** |
-| **WordPress**<br><sub>Building Websites</sub> | 🎨 Design & Web Development | Coursera | **Apr 2025** |
-| **Canva**<br><sub>Graphic Design</sub> | 🎨 Design & Web Development | Simplilearn | **Apr 2025** |
-| **SAP**<br><sub>Managing Basic Business Scenarios</sub> | 🏢 Business & Enterprise Systems | SAP | **Jun 2025** |
-| **Odoo 14 Essentials** | 🏢 Business & Enterprise Systems | Odoo | **Jun 2025** |
-| **Foundations of Project Management** | 📋 Business & Enterprise Systems | Google | **Jul 2025** |
-| **Jira SCRUM Project** | 📋 Business & Enterprise Systems | Coursera | **Jul 2025** |
-| **Developing Interpersonal Skills** | 🤝 Professional Development | IBM | **Jul 2025** |
-
-</div>
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 GitHub Analytics
