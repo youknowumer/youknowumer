@@ -206,77 +206,19 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%">
-<thead>
-<tr>
-<th align="center">Certification</th>
-<th align="center">Category</th>
-<th align="center">Issuing Organization</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><b>Microsoft Power BI</b><br><sub>Data Analysis & Visualization</sub></td>
-<td align="center">Data & Analytics</td>
-<td align="center">Uni Athena / Cambridge International</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center"><b>IT Automation with Python</b></td>
-<td align="center">Data & Analytics</td>
-<td align="center">Google</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center"><b>WordPress</b><br><sub>Building Websites</sub></td>
-<td align="center">Design & Web Development</td>
-<td align="center">Coursera</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center"><b>Canva</b><br><sub>Graphic Design</sub></td>
-<td align="center">Design & Web Development</td>
-<td align="center">Simplilearn</td>
-<td align="center">Apr 2025</td>
-</tr>
-<tr>
-<td align="center"><b>SAP</b><br><sub>Managing Basic Business Scenarios</sub></td>
-<td align="center">Business & Enterprise Systems</td>
-<td align="center">SAP</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center"><b>Odoo 14 Essentials</b></td>
-<td align="center">Business & Enterprise Systems</td>
-<td align="center">Odoo</td>
-<td align="center">Jun 2025</td>
-</tr>
-<tr>
-<td align="center"><b>Foundations of Project Management</b></td>
-<td align="center">Business & Enterprise Systems</td>
-<td align="center">Google</td>
-<td align="center">Jul 2025</td>
-</tr>
-<tr>
-<td align="center"><b>Jira SCRUM Project</b></td>
-<td align="center">Business & Enterprise Systems</td>
-<td align="center">Coursera</td>
-<td align="center">Jul 2025</td>
-</tr>
-<tr>
-<td align="center"><b>Developing Interpersonal Skills</b></td>
-<td align="center">Professional Development</td>
-<td align="center">IBM</td>
-<td align="center">Jul 2025</td>
-</tr>
-</tbody>
-</table>
+| 🎓 Certification | 🏷️ Category | 🏢 Issuing Organization | 📅 Completed |
+|:-----------------|:-----------:|:-----------------------:|:-----------:|
+| **Microsoft Power BI**<br><sub>Data Analysis & Visualization</sub> | 📊 Data & Analytics | UniAthena / Cambridge International | **Apr 2025** |
+| **IT Automation with Python** | 📊 Data & Analytics | Google | **Jun 2025** |
+| **WordPress**<br><sub>Building Websites</sub> | 🎨 Design & Web Development | Coursera | **Apr 2025** |
+| **Canva**<br><sub>Graphic Design</sub> | 🎨 Design & Web Development | Simplilearn | **Apr 2025** |
+| **SAP**<br><sub>Managing Basic Business Scenarios</sub> | 🏢 Business & Enterprise Systems | SAP | **Jun 2025** |
+| **Odoo 14 Essentials** | 🏢 Business & Enterprise Systems | Odoo | **Jun 2025** |
+| **Foundations of Project Management** | 📋 Business & Enterprise Systems | Google | **Jul 2025** |
+| **Jira SCRUM Project** | 📋 Business & Enterprise Systems | Coursera | **Jul 2025** |
+| **Developing Interpersonal Skills** | 🤝 Professional Development | IBM | **Jul 2025** |
 
 </div>
-</div>
-<br>
-
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 GitHub Analytics
