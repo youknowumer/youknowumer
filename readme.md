@@ -204,17 +204,102 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-| 🎓 **Certification** | 🏷️ **Category** | 🏢 **Issuing Organization** | 📅 **Completed** |
-| :------------------- | :-------------- | :-------------------------- | :--------------- |
-| **Microsoft Power BI**<br><sub>Data Analysis & Visualization</sub> | Data & Analytics | UniAthena / Cambridge International | **Apr 2025** |
-| **IT Automation with Python** | Data & Analytics | Google | **Jun 2025** |
-| **WordPress**<br><sub>Building Websites</sub> | Design & Web Development | Coursera | **Apr 2025** |
-| **Canva**<br><sub>Graphic Design</sub> | Design & Web Development | Simplilearn | **Apr 2025** |
-| **SAP**<br><sub>Managing Basic Business Scenarios</sub> | Business & Enterprise Systems | SAP | **Jun 2025** |
-| **Odoo 14 Essentials** | Business & Enterprise Systems | Odoo | **Jun 2025** |
-| **Foundations of Project Management** | Business & Enterprise Systems | Google | **Jul 2025** |
-| **Jira SCRUM Project** | Business & Enterprise Systems | Coursera | **Jul 2025** |
-| **Developing Interpersonal Skills** | Professional Development | IBM | **Jul 2025** |
+<div align="center">
+
+<table width="95%">
+<tr>
+<td width="33%" align="center">
+
+### 📊 Data & Analytics
+
+**🟨 Microsoft Power BI**  
+<sub>Data Analysis & Visualization</sub>
+
+🏢 UniAthena / Cambridge International  
+📅 Apr 2025
+
+---
+
+**🐍 IT Automation with Python**
+
+🏢 Google  
+📅 Jun 2025
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎨 Design & Web Development
+
+**🌐 WordPress**  
+<sub>Building Websites</sub>
+
+🏢 Coursera  
+📅 Apr 2025
+
+---
+
+**🎨 Canva**  
+<sub>Graphic Design</sub>
+
+🏢 Simplilearn  
+📅 Apr 2025
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏢 Business & Enterprise Systems
+
+**🏭 SAP**  
+<sub>Managing Basic Business Scenarios</sub>
+
+🏢 SAP  
+📅 Jun 2025
+
+---
+
+**⚙️ Odoo 14 Essentials**
+
+🏢 Odoo  
+📅 Jun 2025
+
+---
+
+**📈 Foundations of Project Management**
+
+🏢 Google  
+📅 Jul 2025
+
+---
+
+**🗂️ Jira SCRUM Project**
+
+🏢 Coursera  
+📅 Jul 2025
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="95%">
+<tr>
+<td align="center">
+
+### 🤝 Professional Development
+
+**💬 Developing Interpersonal Skills**
+
+🏢 IBM  
+📅 Jul 2025
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="divider.svg" alt="" width="100%" />
 
