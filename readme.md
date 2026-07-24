@@ -324,22 +324,24 @@ Mapped relationships between students, advisors, instructors, and departments vi
 ## 🟣 Current Focus
 
 ```yaml
+
 Learning:
-  - Advanced JavaScript & modern frontend frameworks
-  - Deeper SQL & data modeling for BI
+  ➤ Advanced JavaScript & modern frontend frameworks
+  ➤ Deeper SQL & data modeling for BI
 
 Building:
-  - Artisan Aura Creations (Odoo ERP capstone)
-  - Personal portfolio & frontend projects
+  ➤ Artisan Aura Creations (Odoo ERP capstone)
+  ➤ Personal portfolio & frontend projects
 
 Exploring:
-  - Computer vision data pipelines (YOLO/COCO)
-  - ERP-driven business process automation
+  ➤ Computer vision data pipelines (YOLO/COCO)
+  ➤ ERP-driven business process automation
 
 Open To:
-  - Frontend Development roles
-  - Business Intelligence / Data Analyst roles
-  - Internships & entry-level engineering positions
+  ➤ Frontend Development roles
+  ➤ Business Intelligence / Data Analyst roles
+  ➤ Engineering Solutions, Projects & Freelance Opportunities
+
 ```
 
 <br>
