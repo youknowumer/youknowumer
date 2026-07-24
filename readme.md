@@ -325,21 +325,32 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ```yaml
 
-Learning:
+📚 Learning:
   ➤ Advanced JavaScript & modern frontend frameworks
   ➤ Deeper SQL & data modeling for BI
+  ➤ ERP functional workflows and business process optimization
+  ➤ Data visualization techniques and dashboard storytelling
+  ➤ Advanced reporting, analytics, and decision-support systems
 
-Building:
+🛠️ Building:
   ➤ Artisan Aura Creations (Odoo ERP capstone)
   ➤ Personal portfolio & frontend projects
+  ➤ Custom ERP modules and business workflow solutions
+  ➤ Interactive dashboards using data visualization tools
+  ➤ Data-driven applications integrating analytics and reporting
 
-Exploring:
+🔍 Exploring:
   ➤ Computer vision data pipelines (YOLO/COCO)
   ➤ ERP-driven business process automation
+  ➤ Business intelligence solutions and KPI dashboards
+  ➤ Data cleaning, transformation, and analytical pipelines
+  ➤ AI-assisted automation for enterprise workflows
 
-Open To:
+🚀 Open To:
   ➤ Frontend Development roles
   ➤ Business Intelligence / Data Analyst roles
+  ➤ ERP Development & Functional Consultant opportunities
+  ➤ Data Visualization & Dashboard Development projects
   ➤ Engineering Solutions, Projects & Freelance Opportunities
 
 ```
