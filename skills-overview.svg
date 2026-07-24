@@ -22,8 +22,6 @@
 <rect x="0.75" y="0.75" width="1078.5" height="538.5" rx="17.5" fill="none" stroke="#242c42" stroke-width="1.2"/>
 <circle cx="1020" cy="40" r="150" fill="#8b5cf6" opacity="0.06" filter="url(#softGlow)"/>
 <circle cx="60" cy="500" r="150" fill="#38bdf8" opacity="0.05" filter="url(#softGlow)"/>
-<text x="32" y="34" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="2.5" fill="#5b6478">TOOLKIT — BY DOMAIN</text>
-<text x="1048" y="34" text-anchor="end" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" letter-spacing="1.5" fill="#3d4459">20 TOOLS · 5 DOMAINS</text>
 <g>
 <rect x="32.00" y="66.00" width="497.00" height="158.00" rx="16" fill="#10141f" stroke="#20263a" stroke-width="1.1"/>
 <rect x="32.00" y="66.00" width="497.00" height="158.00" rx="16" fill="url(#cardTop)"/>
