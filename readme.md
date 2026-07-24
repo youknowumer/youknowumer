@@ -315,8 +315,6 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="480" alt="GitHub streak stats for youknowumer"/>
 
 </div>
