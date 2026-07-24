@@ -24,8 +24,6 @@
 
 </div>
 
-<br>
-
 ## 🟣 About Me
 
 I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at UMT, Lahore (Class of 2026), with a strong passion for **frontend engineering, business intelligence, and enterprise systems**. I bring hands-on experience across **IT support, database design, ERP implementation, and UI/UX**, blending technical execution with a **product and business-strategy mindset**.
