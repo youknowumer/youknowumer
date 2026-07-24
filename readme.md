@@ -96,7 +96,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <td valign="top">
   Engineered responsive, user-centric web interfaces for live client projects, translating high-fidelity designs from <b>Figma</b>, <b>Photoshop</b>, and <b>Illustrator</b> into production-ready <b>HTML</b> and <b>CSS</b>.
   <br><br>
-  Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows — participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
+  Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows  participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
 </td>
 </tr>
 
@@ -114,7 +114,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
   <img src="https://img.shields.io/badge/-Payroll-2E8B57?style=flat-square" />
 </td>
 <td valign="top">
-  Drove end-to-end talent acquisition for a manufacturing enterprise — including CV screening, candidate shortlisting, and interview coordination — resulting in streamlined hiring turnaround.
+  Drove end-to-end talent acquisition for a manufacturing enterprise  including CV screening, candidate shortlisting, and interview coordination  resulting in streamlined hiring turnaround.
   <br><br>
   Managed new-hire onboarding and maintained accurate, audit-ready employee records within the <b>Oracle HR</b> database, while processing payroll data and monitoring regulatory compliance to ensure data integrity across HR operations.
 </td>
@@ -136,7 +136,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <td valign="top">
   Built and curated high-quality video datasets to support computer vision model training, performing systematic video filtration and frame extraction at scale.
   <br><br>
-  Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, managed structured labeling workflows in <b>CVAT</b>, and conducted rigorous validation and QA checks — directly improving the reliability and performance of downstream ML models.
+  Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, managed structured labeling workflows in <b>CVAT</b>, and conducted rigorous validation and QA checks  directly improving the reliability and performance of downstream ML models.
 </td>
 </tr>
 </table>
