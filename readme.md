@@ -422,9 +422,11 @@ Jul 2025
 
 <h2 align="center">🔥 GitHub Streak Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youknowumer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🟣 Current Focus
 
