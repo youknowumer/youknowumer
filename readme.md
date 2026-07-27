@@ -204,206 +204,171 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse:separate; border-spacing:0 8px;">
-
-<thead>
-<tr>
-<th align="left" style="background:#0f172a;color:#ffffff;padding:14px;border-radius:10px 0 0 10px;">
-🎓 Certification
-</th>
-
-<th align="left" style="background:#0f172a;color:#ffffff;padding:14px;">
-🏷️ Category
-</th>
-
-<th align="left" style="background:#0f172a;color:#ffffff;padding:14px;">
-🏢 Issuing Organization
-</th>
-
-<th align="center" style="background:#0f172a;color:#ffffff;padding:14px;border-radius:0 10px 10px 0;">
-📅 Date
-</th>
-</tr>
-</thead>
-
-
-<tbody>
+<table width="95%" style="border-collapse:separate; border-spacing:15px;">
 
 <tr>
-<td style="background:#f8fafc;padding:14px;border-radius:10px 0 0 10px;">
-<b>Microsoft Power BI</b><br>
-<sub>Data Analysis & Visualization</sub>
+
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
+
+<h3>📊 Microsoft Power BI</h3>
+
+<b>Data Analysis & Visualization</b>
+
+<br><br>
+
+🏷️ Data & Analytics  
+<br>
+🏢 UniAthena / Cambridge International  
+<br>
+📅 Apr 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-📊 Data & Analytics
+
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
+
+<h3>🐍 IT Automation with Python</h3>
+
+<b>Automation & Programming</b>
+
+<br><br>
+
+🏷️ Data & Analytics  
+<br>
+🏢 Google  
+<br>
+📅 Jun 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-UniAthena / Cambridge International
+
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
+
+<h3>🌐 WordPress</h3>
+
+<b>Building Websites</b>
+
+<br><br>
+
+🏷️ Design & Web Development  
+<br>
+🏢 Coursera  
+<br>
+📅 Apr 2025
+
 </td>
 
-<td align="center" style="background:#f8fafc;padding:14px;border-radius:0 10px 10px 0;">
-Apr 2025
-</td>
-</tr>
-
-
-<tr>
-<td style="background:#ffffff;padding:14px;border-radius:10px 0 0 10px;">
-<b>IT Automation with Python</b>
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-📊 Data & Analytics
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-Google
-</td>
-
-<td align="center" style="background:#ffffff;padding:14px;border-radius:0 10px 10px 0;">
-Jun 2025
-</td>
 </tr>
 
 
 <tr>
-<td style="background:#f8fafc;padding:14px;border-radius:10px 0 0 10px;">
-<b>WordPress</b><br>
-<sub>Building Websites</sub>
+
+<td width="33%" valign="top" style="background:#ffffff; padding:20px; border-radius:15px;">
+
+<h3>🎨 Canva</h3>
+
+<b>Graphic Design</b>
+
+<br><br>
+
+🏷️ Design & Web Development  
+<br>
+🏢 Simplilearn  
+<br>
+📅 Apr 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-🎨 Design & Web Development
+
+<td width="33%" valign="top" style="background:#ffffff; padding:20px; border-radius:15px;">
+
+<h3>🏢 SAP</h3>
+
+<b>Managing Basic Business Scenarios</b>
+
+<br><br>
+
+🏷️ Business & Enterprise Systems  
+<br>
+🏢 SAP  
+<br>
+📅 Jun 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-Coursera
+
+<td width="33%" valign="top" style="background:#ffffff; padding:20px; border-radius:15px;">
+
+<h3>⚙️ Odoo 14 Essentials</h3>
+
+<b>Enterprise Management System</b>
+
+<br><br>
+
+🏷️ Business & Enterprise Systems  
+<br>
+🏢 Odoo  
+<br>
+📅 Jun 2025
+
 </td>
 
-<td align="center" style="background:#f8fafc;padding:14px;border-radius:0 10px 10px 0;">
-Apr 2025
-</td>
 </tr>
 
 
 <tr>
-<td style="background:#ffffff;padding:14px;border-radius:10px 0 0 10px;">
-<b>Canva</b><br>
-<sub>Graphic Design</sub>
-</td>
 
-<td style="background:#ffffff;padding:14px;">
-🎨 Design & Web Development
-</td>
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
 
-<td style="background:#ffffff;padding:14px;">
-Simplilearn
-</td>
+<h3>📌 Project Management</h3>
 
-<td align="center" style="background:#ffffff;padding:14px;border-radius:0 10px 10px 0;">
-Apr 2025
-</td>
-</tr>
-
-
-<tr>
-<td style="background:#f8fafc;padding:14px;border-radius:10px 0 0 10px;">
-<b>SAP</b><br>
-<sub>Managing Basic Business Scenarios</sub>
-</td>
-
-<td style="background:#f8fafc;padding:14px;">
-🏢 Business & Enterprise Systems
-</td>
-
-<td style="background:#f8fafc;padding:14px;">
-SAP
-</td>
-
-<td align="center" style="background:#f8fafc;padding:14px;border-radius:0 10px 10px 0;">
-Jun 2025
-</td>
-</tr>
-
-
-<tr>
-<td style="background:#ffffff;padding:14px;border-radius:10px 0 0 10px;">
-<b>Odoo 14 Essentials</b>
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-🏢 Business & Enterprise Systems
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-Odoo
-</td>
-
-<td align="center" style="background:#ffffff;padding:14px;border-radius:0 10px 10px 0;">
-Jun 2025
-</td>
-</tr>
-
-
-<tr>
-<td style="background:#f8fafc;padding:14px;border-radius:10px 0 0 10px;">
 <b>Foundations of Project Management</b>
+
+<br><br>
+
+🏷️ Business & Enterprise Systems  
+<br>
+🏢 Google  
+<br>
+📅 Jul 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-🏢 Business & Enterprise Systems
+
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
+
+<h3>🔄 Jira SCRUM Project</h3>
+
+<b>Agile Project Management</b>
+
+<br><br>
+
+🏷️ Business & Enterprise Systems  
+<br>
+🏢 Coursera  
+<br>
+📅 Jul 2025
+
 </td>
 
-<td style="background:#f8fafc;padding:14px;">
-Google
+
+<td width="33%" valign="top" style="background:#f8fafc; padding:20px; border-radius:15px;">
+
+<h3>🤝 Interpersonal Skills</h3>
+
+<b>Professional Development</b>
+
+<br><br>
+
+🏷️ Professional Development  
+<br>
+🏢 IBM  
+<br>
+📅 Jul 2025
+
 </td>
 
-<td align="center" style="background:#f8fafc;padding:14px;border-radius:0 10px 10px 0;">
-Jul 2025
-</td>
 </tr>
-
-
-<tr>
-<td style="background:#ffffff;padding:14px;border-radius:10px 0 0 10px;">
-<b>Jira SCRUM Project</b>
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-🏢 Business & Enterprise Systems
-</td>
-
-<td style="background:#ffffff;padding:14px;">
-Coursera
-</td>
-
-<td align="center" style="background:#ffffff;padding:14px;border-radius:0 10px 10px 0;">
-Jul 2025
-</td>
-</tr>
-
-
-<tr>
-<td style="background:#f8fafc;padding:14px;border-radius:10px 0 0 10px;">
-<b>Developing Interpersonal Skills</b>
-</td>
-
-<td style="background:#f8fafc;padding:14px;">
-🤝 Professional Development
-</td>
-
-<td style="background:#f8fafc;padding:14px;">
-IBM
-</td>
-
-<td align="center" style="background:#f8fafc;padding:14px;border-radius:0 10px 10px 0;">
-Jul 2025
-</td>
-</tr>
-
-</tbody>
 
 </table>
 
