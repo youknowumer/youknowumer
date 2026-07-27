@@ -204,95 +204,62 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="80%" style="border-collapse:separate; border-spacing:12px;">
+<table width="82%" style="border-collapse:separate; border-spacing:8px;">
 
 <tr>
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">📊 Microsoft Power BI</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">📊 Microsoft Power BI</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Data Analysis & Visualization</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr>
-<td style="padding:4px 0;">🏷️ <b>Category</b></td>
-<td align="right">Data & Analytics</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">🏢 <b>Organization</b></td>
-<td align="right">UniAthena / Cambridge</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">📅 <b>Date</b></td>
-<td align="right">Apr 2025</td>
-</tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Data & Analytics</td></tr>
+<tr><td>🏢 Organization</td><td align="right">UniAthena / Cambridge</td></tr>
+<tr><td>📅 Date</td><td align="right">Apr 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">🐍 IT Automation with Python</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🐍 IT Automation with Python</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Automation & Programming</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr>
-<td style="padding:4px 0;">🏷️ <b>Category</b></td>
-<td align="right">Data & Analytics</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">🏢 <b>Organization</b></td>
-<td align="right">Google</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">📅 <b>Date</b></td>
-<td align="right">Jun 2025</td>
-</tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Data & Analytics</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Google</td></tr>
+<tr><td>📅 Date</td><td align="right">Jun 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">🌐 WordPress</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🌐 WordPress</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Building Websites</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr>
-<td style="padding:4px 0;">🏷️ <b>Category</b></td>
-<td align="right">Web Development</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">🏢 <b>Organization</b></td>
-<td align="right">Coursera</td>
-</tr>
-
-<tr>
-<td style="padding:4px 0;">📅 <b>Date</b></td>
-<td align="right">Apr 2025</td>
-</tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Web Development</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Coursera</td></tr>
+<tr><td>📅 Date</td><td align="right">Apr 2025</td></tr>
 </table>
 
 </td>
@@ -302,58 +269,58 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="background:#ffffff; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:12px;border-radius:12px;">
 
-<h3 align="center">🎨 Canva</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🎨 Canva</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Graphic Design</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Design & Web</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">Simplilearn</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Apr 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Design & Web</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Simplilearn</td></tr>
+<tr><td>📅 Date</td><td align="right">Apr 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#ffffff; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:12px;border-radius:12px;">
 
-<h3 align="center">🏢 SAP</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🏢 SAP</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Business Scenario Management</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Enterprise Systems</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">SAP</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Jun 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Enterprise Systems</td></tr>
+<tr><td>🏢 Organization</td><td align="right">SAP</td></tr>
+<tr><td>📅 Date</td><td align="right">Jun 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#ffffff; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:12px;border-radius:12px;">
 
-<h3 align="center">⚙️ Odoo 14 Essentials</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">⚙️ Odoo 14 Essentials</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Business Management System</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Enterprise Systems</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">Odoo</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Jun 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Enterprise Systems</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Odoo</td></tr>
+<tr><td>📅 Date</td><td align="right">Jun 2025</td></tr>
 </table>
 
 </td>
@@ -363,58 +330,58 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">📌 Project Management</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">📌 Project Management</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Foundations of Project Management</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Business Systems</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">Google</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Jul 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Business Systems</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Google</td></tr>
+<tr><td>📅 Date</td><td align="right">Jul 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">🔄 Jira SCRUM Project</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🔄 Jira SCRUM Project</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Agile Project Management</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Business Systems</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">Coursera</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Jul 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Business Systems</td></tr>
+<tr><td>🏢 Organization</td><td align="right">Coursera</td></tr>
+<tr><td>📅 Date</td><td align="right">Jul 2025</td></tr>
 </table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:18px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:12px;border-radius:12px;">
 
-<h3 align="center">🤝 Interpersonal Skills</h3>
+<h3 align="center" style="font-size:15px;margin:5px 0;">🤝 Interpersonal Skills</h3>
 
-<p align="center" style="margin:6px 0;">
+<p align="center" style="font-size:13px;margin:5px 0;">
 <b>Professional Development</b>
 </p>
 
-<hr>
+<hr style="margin:8px 0;">
 
-<table width="100%">
-<tr><td style="padding:4px 0;">🏷️ <b>Category</b></td><td align="right">Professional Skills</td></tr>
-<tr><td style="padding:4px 0;">🏢 <b>Organization</b></td><td align="right">IBM</td></tr>
-<tr><td style="padding:4px 0;">📅 <b>Date</b></td><td align="right">Jul 2025</td></tr>
+<table width="100%" style="font-size:13px;">
+<tr><td>🏷️ Category</td><td align="right">Professional Skills</td></tr>
+<tr><td>🏢 Organization</td><td align="right">IBM</td></tr>
+<tr><td>📅 Date</td><td align="right">Jul 2025</td></tr>
 </table>
 
 </td>
