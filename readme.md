@@ -432,8 +432,6 @@ Jul 2025
   alt="GitHub Streak Stats"
 />
 
-<br><br>
-
 </div>
 
 <br>
