@@ -420,6 +420,20 @@ Jul 2025
 
 <img src="divider.svg" width="100%" />
 
+<h2 align="center">🔥 GitHub Streak Statistics</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youknowumer&theme=tokyonight&hide_border=true&border_radius=12&card_width=700" alt="GitHub Streak Stats" />
+</p>
+
+<div align="center">
+
+| 📊 **Total Contributions** | 🔥 **Current Streak** | 🏆 **Longest Streak** |
+|:--------------------------:|:---------------------:|:---------------------:|
+| Automatically Displayed in Card | Automatically Displayed in Card | Automatically Displayed in Card |
+
+</div>
+
 ## 🟣 Current Focus
 
 ```yaml
