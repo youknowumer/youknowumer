@@ -204,37 +204,49 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse:separate;border-spacing:14px;">
+<table width="95%" style="
+border-collapse:separate;
+border-spacing:14px;
+">
 
 <tr>
 
 <td width="50%" valign="top">
 
-<table width="100%">
+<table width="100%" style="
+border-collapse:collapse;
+">
+
 <tr>
-<td align="center">
+<td align="center" style="padding:18px;">
 
-<h3>📊 Microsoft Power BI</h3>
+<h3 style="height:35px;">
+📊 Data & Analytics
+</h3>
 
-<sub>Data Analysis & Visualization</sub>
+<hr>
 
-<br><br>
+<table width="100%" style="line-height:1.8;">
 
-<b>🏷 Category</b><br>
-Data & Analytics
+<tr>
+<td><b>Microsoft Power BI</b></td>
+<td align="right">Apr 2025</td>
+</tr>
 
-<br><br>
+<tr>
+<td><b>IT Automation with Python</b></td>
+<td align="right">Jun 2025</td>
+</tr>
 
-<b>🏢 Organization</b><br>
-UniAthena / Cambridge
+</table>
 
-<br><br>
+<br>
 
-<b>📅 Completed</b><br>
-Apr 2025
+<sub>🏢 Google | UniAthena / Cambridge</sub>
 
 </td>
 </tr>
+
 </table>
 
 </td>
@@ -242,99 +254,40 @@ Apr 2025
 
 <td width="50%" valign="top">
 
-<table width="100%">
+<table width="100%" style="
+border-collapse:collapse;
+">
+
 <tr>
-<td align="center">
+<td align="center" style="padding:18px;">
 
-<h3>🐍 IT Automation with Python</h3>
+<h3 style="height:35px;">
+🎨 Design & Web
+</h3>
 
-<sub>Automation & Programming</sub>
+<hr>
 
-<br><br>
+<table width="100%" style="line-height:1.8;">
 
-<b>🏷 Category</b><br>
-Data & Analytics
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-Google
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Jun 2025
-
-</td>
+<tr>
+<td><b>WordPress</b></td>
+<td align="right">Apr 2025</td>
 </tr>
+
+<tr>
+<td><b>Canva</b></td>
+<td align="right">Apr 2025</td>
+</tr>
+
 </table>
 
-</td>
+<br>
 
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<h3>🌐 WordPress</h3>
-
-<sub>Building Websites</sub>
-
-<br><br>
-
-<b>🏷 Category</b><br>
-Web Development
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-Coursera
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Apr 2025
+<sub>🏢 Coursera | Simplilearn</sub>
 
 </td>
 </tr>
-</table>
 
-</td>
-
-
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<h3>🎨 Canva</h3>
-
-<sub>Graphic Design</sub>
-
-<br><br>
-
-<b>🏷 Category</b><br>
-Design & Creative
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-Simplilearn
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Apr 2025
-
-</td>
-</tr>
 </table>
 
 </td>
@@ -347,30 +300,47 @@ Apr 2025
 <td width="50%" valign="top">
 
 <table width="100%">
+
 <tr>
-<td align="center">
+<td align="center" style="padding:18px;">
 
-<h3>🏢 SAP</h3>
+<h3 style="height:35px;">
+🏢 Business Systems
+</h3>
 
-<sub>Managing Basic Business Scenarios</sub>
+<hr>
 
-<br><br>
+<table width="100%" style="line-height:1.8;">
 
-<b>🏷 Category</b><br>
-Enterprise Systems
+<tr>
+<td><b>SAP</b></td>
+<td align="right">Jun 2025</td>
+</tr>
 
-<br><br>
+<tr>
+<td><b>Odoo 14 Essentials</b></td>
+<td align="right">Jun 2025</td>
+</tr>
 
-<b>🏢 Organization</b><br>
-SAP
+<tr>
+<td><b>Project Management</b></td>
+<td align="right">Jul 2025</td>
+</tr>
 
-<br><br>
+<tr>
+<td><b>Jira SCRUM Project</b></td>
+<td align="right">Jul 2025</td>
+</tr>
 
-<b>📅 Completed</b><br>
-Jun 2025
+</table>
+
+<br>
+
+<sub>🏢 SAP | Odoo | Google | Coursera</sub>
 
 </td>
 </tr>
+
 </table>
 
 </td>
@@ -379,147 +349,41 @@ Jun 2025
 <td width="50%" valign="top">
 
 <table width="100%">
+
 <tr>
-<td align="center">
+<td align="center" style="padding:18px;">
 
-<h3>⚙️ Odoo 14 Essentials</h3>
+<h3 style="height:35px;">
+🤝 Professional Skills
+</h3>
 
-<sub>Business Management System</sub>
+<hr>
 
-<br><br>
+<table width="100%" style="line-height:1.8;">
 
-<b>🏷 Category</b><br>
-Enterprise Systems
+<tr>
+<td><b>Interpersonal Skills</b></td>
+<td align="right">Jul 2025</td>
+</tr>
 
-<br><br>
+</table>
 
-<b>🏢 Organization</b><br>
-Odoo
+<br>
 
-<br><br>
-
-<b>📅 Completed</b><br>
-Jun 2025
+<sub>🏢 IBM</sub>
 
 </td>
 </tr>
+
 </table>
 
 </td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<h3>📌 Foundations of Project Management</h3>
-
-<sub>Project Management Skills</sub>
-
-<br><br>
-
-<b>🏷 Category</b><br>
-Business Systems
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-Google
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Jul 2025
-
-</td>
-</tr>
-</table>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<h3>🔄 Jira SCRUM Project</h3>
-
-<sub>Agile Project Management</sub>
-
-<br><br>
-
-<b>🏷 Category</b><br>
-Business Systems
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-Coursera
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Jul 2025
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%">
-<tr>
-<td align="center">
-
-<h3>🤝 Developing Interpersonal Skills</h3>
-
-<sub>Professional Development</sub>
-
-<br><br>
-
-<b>🏷 Category</b><br>
-Soft Skills
-
-<br><br>
-
-<b>🏢 Organization</b><br>
-IBM
-
-<br><br>
-
-<b>📅 Completed</b><br>
-Jul 2025
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%"></td>
 
 </tr>
 
 </table>
 
 </div>
-
-<img src="divider.svg" width="100%" />
 
 ## 🟣 Current Focus
 
