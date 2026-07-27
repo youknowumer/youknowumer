@@ -204,7 +204,70 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse: collapse;">
+<style>
+.cert-table {
+  width:95%;
+  border-collapse:separate;
+  border-spacing:0 10px;
+}
+
+.cert-table th {
+  padding:14px;
+  background:#1f2937;
+  color:white;
+}
+
+.cert-table td {
+  padding:14px;
+}
+
+.cert-table tbody tr {
+  background:#ffffff;
+  transition:all 0.35s ease;
+  animation:fadeIn 0.8s ease forwards;
+  box-shadow:0 2px 8px rgba(0,0,0,0.05);
+}
+
+.cert-table tbody tr:hover {
+  transform:translateY(-6px);
+  background:#eff6ff;
+  box-shadow:0 10px 25px rgba(0,0,0,0.12);
+}
+
+.cert-table tbody tr:nth-child(even) {
+  background:#f8fafc;
+}
+
+.cert-table th:first-child {
+  border-radius:12px 0 0 12px;
+}
+
+.cert-table th:last-child {
+  border-radius:0 12px 12px 0;
+}
+
+.cert-table td:first-child {
+  border-radius:12px 0 0 12px;
+}
+
+.cert-table td:last-child {
+  border-radius:0 12px 12px 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity:0;
+    transform:translateY(20px);
+  }
+  to {
+    opacity:1;
+    transform:translateY(0);
+  }
+}
+</style>
+
+
+<table class="cert-table">
 
 <thead>
 <tr>
@@ -214,6 +277,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <th align="center">📅 Date</th>
 </tr>
 </thead>
+
 
 <tbody>
 
@@ -227,6 +291,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td align="center">Apr 2025</td>
 </tr>
 
+
 <tr>
 <td>
 <b>IT Automation with Python</b>
@@ -235,6 +300,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td>Google</td>
 <td align="center">Jun 2025</td>
 </tr>
+
 
 <tr>
 <td>
@@ -246,6 +312,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td align="center">Apr 2025</td>
 </tr>
 
+
 <tr>
 <td>
 <b>Canva</b><br>
@@ -255,6 +322,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td>Simplilearn</td>
 <td align="center">Apr 2025</td>
 </tr>
+
 
 <tr>
 <td>
@@ -266,6 +334,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td align="center">Jun 2025</td>
 </tr>
 
+
 <tr>
 <td>
 <b>Odoo 14 Essentials</b>
@@ -274,6 +343,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td>Odoo</td>
 <td align="center">Jun 2025</td>
 </tr>
+
 
 <tr>
 <td>
@@ -284,6 +354,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td align="center">Jul 2025</td>
 </tr>
 
+
 <tr>
 <td>
 <b>Jira SCRUM Project</b>
@@ -292,6 +363,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td>Coursera</td>
 <td align="center">Jul 2025</td>
 </tr>
+
 
 <tr>
 <td>
@@ -302,14 +374,14 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <td align="center">Jul 2025</td>
 </tr>
 
+
 </tbody>
 
 </table>
 
 </div>
-</div><img src="divider.svg" alt="" width="100%" />
 
-## 🟣 GitHub Analytics
+<img src="divider.svg" alt="" width="100%" />## 🟣 GitHub Analytics
 
 <div align="center">
 
