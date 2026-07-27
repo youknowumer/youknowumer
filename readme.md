@@ -208,15 +208,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 📊 Microsoft Power BI
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Data Analysis & Visualization</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Data & Analytics</td></tr>
@@ -227,15 +227,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🐍 IT Automation with Python
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Automation & Programming</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Data & Analytics</td></tr>
@@ -246,15 +246,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🌐 WordPress
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Website Development</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Web Development</td></tr>
@@ -269,15 +269,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🎨 Canva
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Graphic Design</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Design & Web</td></tr>
@@ -288,15 +288,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🏢 SAP
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Business Scenarios</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Enterprise Systems</td></tr>
@@ -307,15 +307,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 ⚙️ Odoo 14 Essentials
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Business Management</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Enterprise Systems</td></tr>
@@ -330,15 +330,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 📌 Project Management
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Project Management Basics</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Business Systems</td></tr>
@@ -349,15 +349,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🔄 Jira SCRUM Project
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Agile Management</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Business Systems</td></tr>
@@ -368,15 +368,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;height:220px;">
+<td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
 <h3 align="center" style="height:45px;margin:0;display:flex;align-items:center;justify-content:center;">
 🤝 Interpersonal Skills
 </h3>
 
-<p align="center" style="height:40px;margin:0;display:flex;align-items:center;justify-content:center;">
+<div style="height:45px;display:flex;align-items:center;justify-content:center;text-align:center;">
 <b>Professional Development</b>
-</p>
+</div>
 
 <table width="100%" style="font-size:13px;line-height:1.8;margin-top:10px;">
 <tr><td width="45%">🏷️ Category</td><td align="right">Professional Skills</td></tr>
