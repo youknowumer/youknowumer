@@ -204,200 +204,244 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse:collapse;">
+<img src="https://img.shields.io/badge/🏆%20Certifications-Professional%20Growth-6C63FF?style=for-the-badge&logo=certificate&logoColor=white">
+
+<br><br>
+
+<table width="95%" style="
+border-collapse:separate;
+border-spacing:0 10px;
+font-size:14px;
+">
 
 <thead>
 
 <tr>
-<th align="left">🎓 Certification</th>
-<th align="left">🏷️ Category</th>
-<th align="left">🏢 Issuing Organization</th>
-<th align="center">📅 Date</th>
+<th align="left" width="35%" style="padding:14px;">
+🎓 Certification
+</th>
+
+<th align="left" width="25%" style="padding:14px;">
+🏷️ Category
+</th>
+
+<th align="left" width="25%" style="padding:14px;">
+🏢 Organization
+</th>
+
+<th align="center" width="15%" style="padding:14px;">
+📅 Date
+</th>
+
 </tr>
 
 </thead>
 
+
 <tbody>
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #6C63FF;
+">
 <b>📊 Microsoft Power BI</b><br>
 <sub>Data Analysis & Visualization</sub>
 </td>
 
-<td>
+<td style="padding:16px;">
 📊 Data & Analytics
 </td>
 
-<td>
+<td style="padding:16px;">
 UniAthena / Cambridge
 </td>
 
-<td align="center">
-Apr 2025
+<td align="center" style="padding:16px;">
+<kbd>Apr 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #00C9A7;
+">
 <b>🐍 IT Automation with Python</b><br>
 <sub>Automation & Programming</sub>
 </td>
 
-<td>
+<td style="padding:16px;">
 📊 Data & Analytics
 </td>
 
-<td>
+<td style="padding:16px;">
 Google
 </td>
 
-<td align="center">
-Jun 2025
+<td align="center" style="padding:16px;">
+<kbd>Jun 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #FFB703;
+">
 <b>🌐 WordPress</b><br>
 <sub>Building Websites</sub>
 </td>
 
-<td>
+<td style="padding:16px;">
 🎨 Web Development
 </td>
 
-<td>
+<td style="padding:16px;">
 Coursera
 </td>
 
-<td align="center">
-Apr 2025
+<td align="center" style="padding:16px;">
+<kbd>Apr 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #FF006E;
+">
 <b>🎨 Canva</b><br>
 <sub>Graphic Design</sub>
 </td>
 
-<td>
-🎨 Design & Creative
+<td style="padding:16px;">
+🎨 Design
 </td>
 
-<td>
+<td style="padding:16px;">
 Simplilearn
 </td>
 
-<td align="center">
-Apr 2025
+<td align="center" style="padding:16px;">
+<kbd>Apr 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #8338EC;
+">
 <b>🏢 SAP</b><br>
-<sub>Managing Basic Business Scenarios</sub>
+<sub>Business Scenarios</sub>
 </td>
 
-<td>
+<td style="padding:16px;">
 🏢 Enterprise Systems
 </td>
 
-<td>
+<td style="padding:16px;">
 SAP
 </td>
 
-<td align="center">
-Jun 2025
+<td align="center" style="padding:16px;">
+<kbd>Jun 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>⚙️ Odoo 14 Essentials</b><br>
-<sub>Business Management System</sub>
+<td style="
+padding:16px;
+border-left:4px solid #3A86FF;
+">
+<b>⚙️ Odoo 14 Essentials</b>
 </td>
 
-<td>
+<td style="padding:16px;">
 🏢 Enterprise Systems
 </td>
 
-<td>
+<td style="padding:16px;">
 Odoo
 </td>
 
-<td align="center">
-Jun 2025
+<td align="center" style="padding:16px;">
+<kbd>Jun 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>📌 Foundations of Project Management</b><br>
-<sub>Project Management Skills</sub>
+<td style="
+padding:16px;
+border-left:4px solid #06D6A0;
+">
+<b>📌 Foundations of Project Management</b>
 </td>
 
-<td>
+<td style="padding:16px;">
 🏢 Business Systems
 </td>
 
-<td>
+<td style="padding:16px;">
 Google
 </td>
 
-<td align="center">
-Jul 2025
+<td align="center" style="padding:16px;">
+<kbd>Jul 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>🔄 Jira SCRUM Project</b><br>
-<sub>Agile Project Management</sub>
+<td style="
+padding:16px;
+border-left:4px solid #FB5607;
+">
+<b>🔄 Jira SCRUM Project</b>
 </td>
 
-<td>
+<td style="padding:16px;">
 🏢 Business Systems
 </td>
 
-<td>
+<td style="padding:16px;">
 Coursera
 </td>
 
-<td align="center">
-Jul 2025
+<td align="center" style="padding:16px;">
+<kbd>Jul 2025</kbd>
 </td>
 </tr>
 
 
 <tr>
-<td>
+<td style="
+padding:16px;
+border-left:4px solid #8338EC;
+">
 <b>🤝 Developing Interpersonal Skills</b><br>
 <sub>Professional Development</sub>
 </td>
 
-<td>
+<td style="padding:16px;">
 🤝 Soft Skills
 </td>
 
-<td>
+<td style="padding:16px;">
 IBM
 </td>
 
-<td align="center">
-Jul 2025
+<td align="center" style="padding:16px;">
+<kbd>Jul 2025</kbd>
 </td>
 </tr>
-
 
 </tbody>
 
@@ -406,6 +450,7 @@ Jul 2025
 </div>
 
 <img src="divider.svg" width="100%" />
+
 
 ## 🟣 Current Focus
 
