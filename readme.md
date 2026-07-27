@@ -200,6 +200,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <br>
 
+<img src="divider.svg" alt="" width="100%" />
+
 ## 📜 Certifications & Professional Development
 
 <div align="center">
@@ -416,6 +418,9 @@ Jul 2025
 
 </table>
 
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
 
@@ -430,6 +435,10 @@ Jul 2025
 <br><br>
 
 </div>
+
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
 
 ## 🟣 Current Focus
 
@@ -465,6 +474,8 @@ Jul 2025
 
 ```
 <br>
+
+<img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
 
