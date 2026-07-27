@@ -204,174 +204,209 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<style>
-.cert-table {
-  width:95%;
-  border-collapse:separate;
-  border-spacing:0 10px;
-}
-
-.cert-table th {
-  padding:14px;
-  background:#1f2937;
-  color:white;
-}
-
-.cert-table td {
-  padding:14px;
-}
-
-.cert-table tbody tr {
-  background:#ffffff;
-  transition:all 0.35s ease;
-  animation:fadeIn 0.8s ease forwards;
-  box-shadow:0 2px 8px rgba(0,0,0,0.05);
-}
-
-.cert-table tbody tr:hover {
-  transform:translateY(-6px);
-  background:#eff6ff;
-  box-shadow:0 10px 25px rgba(0,0,0,0.12);
-}
-
-.cert-table tbody tr:nth-child(even) {
-  background:#f8fafc;
-}
-
-.cert-table th:first-child {
-  border-radius:12px 0 0 12px;
-}
-
-.cert-table th:last-child {
-  border-radius:0 12px 12px 0;
-}
-
-.cert-table td:first-child {
-  border-radius:12px 0 0 12px;
-}
-
-.cert-table td:last-child {
-  border-radius:0 12px 12px 0;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity:0;
-    transform:translateY(20px);
-  }
-  to {
-    opacity:1;
-    transform:translateY(0);
-  }
-}
-</style>
-
-
-<table class="cert-table">
+<table width="95%" style="border-collapse:separate; border-spacing:0 12px;">
 
 <thead>
 <tr>
-<th align="left">🎓 Certification</th>
-<th align="left">🏷️ Category</th>
-<th align="left">🏢 Issuing Organization</th>
-<th align="center">📅 Date</th>
+<th style="background:#2563eb;color:white;padding:14px;border-radius:12px 0 0 12px;">
+🎓 Certification
+</th>
+<th style="background:#2563eb;color:white;padding:14px;">
+🏷️ Category
+</th>
+<th style="background:#2563eb;color:white;padding:14px;">
+🏢 Issuing Organization
+</th>
+<th style="background:#2563eb;color:white;padding:14px;border-radius:0 12px 12px 0;">
+📅 Date
+</th>
 </tr>
 </thead>
 
 
 <tbody>
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#f8fafc;border-radius:12px 0 0 12px;">
 <b>Microsoft Power BI</b><br>
-<sub>Data Analysis & Visualization</sub>
+<small>Data Analysis & Visualization</small>
 </td>
-<td>📊 Data & Analytics</td>
-<td>UniAthena / Cambridge International</td>
-<td align="center">Apr 2025</td>
+
+<td style="padding:15px;background:#f8fafc;">
+📊 Data & Analytics
+</td>
+
+<td style="padding:15px;background:#f8fafc;">
+UniAthena / Cambridge International
+</td>
+
+<td style="padding:15px;background:#f8fafc;border-radius:0 12px 12px 0;" align="center">
+Apr 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#ffffff;border-radius:12px 0 0 12px;">
 <b>IT Automation with Python</b>
 </td>
-<td>📊 Data & Analytics</td>
-<td>Google</td>
-<td align="center">Jun 2025</td>
+
+<td style="padding:15px;background:#ffffff;">
+📊 Data & Analytics
+</td>
+
+<td style="padding:15px;background:#ffffff;">
+Google
+</td>
+
+<td style="padding:15px;background:#ffffff;border-radius:0 12px 12px 0;" align="center">
+Jun 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#f8fafc;border-radius:12px 0 0 12px;">
 <b>WordPress</b><br>
-<sub>Building Websites</sub>
+<small>Building Websites</small>
 </td>
-<td>🎨 Design & Web Development</td>
-<td>Coursera</td>
-<td align="center">Apr 2025</td>
+
+<td style="padding:15px;background:#f8fafc;">
+🎨 Design & Web Development
+</td>
+
+<td style="padding:15px;background:#f8fafc;">
+Coursera
+</td>
+
+<td style="padding:15px;background:#f8fafc;border-radius:0 12px 12px 0;" align="center">
+Apr 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#ffffff;border-radius:12px 0 0 12px;">
 <b>Canva</b><br>
-<sub>Graphic Design</sub>
+<small>Graphic Design</small>
 </td>
-<td>🎨 Design & Web Development</td>
-<td>Simplilearn</td>
-<td align="center">Apr 2025</td>
+
+<td style="padding:15px;background:#ffffff;">
+🎨 Design & Web Development
+</td>
+
+<td style="padding:15px;background:#ffffff;">
+Simplilearn
+</td>
+
+<td style="padding:15px;background:#ffffff;border-radius:0 12px 12px 0;" align="center">
+Apr 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#f8fafc;border-radius:12px 0 0 12px;">
 <b>SAP</b><br>
-<sub>Managing Basic Business Scenarios</sub>
+<small>Managing Basic Business Scenarios</small>
 </td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>SAP</td>
-<td align="center">Jun 2025</td>
+
+<td style="padding:15px;background:#f8fafc;">
+🏢 Business & Enterprise Systems
+</td>
+
+<td style="padding:15px;background:#f8fafc;">
+SAP
+</td>
+
+<td style="padding:15px;background:#f8fafc;border-radius:0 12px 12px 0;" align="center">
+Jun 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#ffffff;border-radius:12px 0 0 12px;">
 <b>Odoo 14 Essentials</b>
 </td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Odoo</td>
-<td align="center">Jun 2025</td>
+
+<td style="padding:15px;background:#ffffff;">
+🏢 Business & Enterprise Systems
+</td>
+
+<td style="padding:15px;background:#ffffff;">
+Odoo
+</td>
+
+<td style="padding:15px;background:#ffffff;border-radius:0 12px 12px 0;" align="center">
+Jun 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#f8fafc;border-radius:12px 0 0 12px;">
 <b>Foundations of Project Management</b>
 </td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Google</td>
-<td align="center">Jul 2025</td>
+
+<td style="padding:15px;background:#f8fafc;">
+🏢 Business & Enterprise Systems
+</td>
+
+<td style="padding:15px;background:#f8fafc;">
+Google
+</td>
+
+<td style="padding:15px;background:#f8fafc;border-radius:0 12px 12px 0;" align="center">
+Jul 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#ffffff;border-radius:12px 0 0 12px;">
 <b>Jira SCRUM Project</b>
 </td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Coursera</td>
-<td align="center">Jul 2025</td>
+
+<td style="padding:15px;background:#ffffff;">
+🏢 Business & Enterprise Systems
+</td>
+
+<td style="padding:15px;background:#ffffff;">
+Coursera
+</td>
+
+<td style="padding:15px;background:#ffffff;border-radius:0 12px 12px 0;" align="center">
+Jul 2025
+</td>
 </tr>
 
 
+
 <tr>
-<td>
+<td style="padding:15px;background:#f8fafc;border-radius:12px 0 0 12px;">
 <b>Developing Interpersonal Skills</b>
 </td>
-<td>🤝 Professional Development</td>
-<td>IBM</td>
-<td align="center">Jul 2025</td>
+
+<td style="padding:15px;background:#f8fafc;">
+🤝 Professional Development
+</td>
+
+<td style="padding:15px;background:#f8fafc;">
+IBM
+</td>
+
+<td style="padding:15px;background:#f8fafc;border-radius:0 12px 12px 0;" align="center">
+Jul 2025
+</td>
 </tr>
 
 
@@ -381,19 +416,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </div>
 
-<img src="divider.svg" alt="" width="100%" />## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b8ba7" width="480" alt="GitHub streak stats for youknowumer"/>
-
-</div>
-
-<br>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## 🟣 Current Focus
+<img src="divider.svg" width="100%" />## 🟣 Current Focus
 
 ```yaml
 
