@@ -204,11 +204,11 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse:separate; border-spacing:18px;">
+<table width="95%" style="border-collapse:separate; border-spacing:20px;">
 
 <tr>
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc; padding:24px; border-radius:18px;">
 
 <h3 align="center">📊 Microsoft Power BI</h3>
 
@@ -218,25 +218,27 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <hr>
 
-<p>
-🏷️ <b>Category:</b><br>
-Data & Analytics
-</p>
+<table width="100%">
+<tr>
+<td>🏷️ <b>Category</b></td>
+<td align="right">Data & Analytics</td>
+</tr>
 
-<p>
-🏢 <b>Organization:</b><br>
-UniAthena / Cambridge International
-</p>
+<tr>
+<td>🏢 <b>Organization</b></td>
+<td align="right">UniAthena</td>
+</tr>
 
-<p>
-📅 <b>Completed:</b><br>
-Apr 2025
-</p>
+<tr>
+<td>📅 <b>Date</b></td>
+<td align="right">Apr 2025</td>
+</tr>
+</table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc; padding:24px; border-radius:18px;">
 
 <h3 align="center">🐍 IT Automation with Python</h3>
 
@@ -246,25 +248,27 @@ Apr 2025
 
 <hr>
 
-<p>
-🏷️ <b>Category:</b><br>
-Data & Analytics
-</p>
+<table width="100%">
+<tr>
+<td>🏷️ <b>Category</b></td>
+<td align="right">Data & Analytics</td>
+</tr>
 
-<p>
-🏢 <b>Organization:</b><br>
-Google
-</p>
+<tr>
+<td>🏢 <b>Organization</b></td>
+<td align="right">Google</td>
+</tr>
 
-<p>
-📅 <b>Completed:</b><br>
-Jun 2025
-</p>
+<tr>
+<td>📅 <b>Date</b></td>
+<td align="right">Jun 2025</td>
+</tr>
+</table>
 
 </td>
 
 
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
+<td width="33%" valign="top" style="background:#f8fafc; padding:24px; border-radius:18px;">
 
 <h3 align="center">🌐 WordPress</h3>
 
@@ -274,198 +278,22 @@ Jun 2025
 
 <hr>
 
-<p>
-🏷️ <b>Category:</b><br>
-Design & Web Development
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-Coursera
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Apr 2025
-</p>
-
-</td>
-
+<table width="100%">
+<tr>
+<td>🏷️ <b>Category</b></td>
+<td align="right">Web Development</td>
 </tr>
 
-
-
 <tr>
-
-<td width="33%" valign="top" style="background:#ffffff; padding:22px; border-radius:16px;">
-
-<h3 align="center">🎨 Canva</h3>
-
-<p align="center">
-<b>Graphic Design</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Design & Web Development
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-Simplilearn
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Apr 2025
-</p>
-
-</td>
-
-
-<td width="33%" valign="top" style="background:#ffffff; padding:22px; border-radius:16px;">
-
-<h3 align="center">🏢 SAP</h3>
-
-<p align="center">
-<b>Business Scenarios Management</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Business & Enterprise Systems
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-SAP
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Jun 2025
-</p>
-
-</td>
-
-
-<td width="33%" valign="top" style="background:#ffffff; padding:22px; border-radius:16px;">
-
-<h3 align="center">⚙️ Odoo 14 Essentials</h3>
-
-<p align="center">
-<b>Enterprise Management System</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Business & Enterprise Systems
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-Odoo
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Jun 2025
-</p>
-
-</td>
-
+<td>🏢 <b>Organization</b></td>
+<td align="right">Coursera</td>
 </tr>
 
-
-
 <tr>
-
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
-
-<h3 align="center">📌 Project Management</h3>
-
-<p align="center">
-<b>Foundations of Project Management</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Business & Enterprise Systems
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-Google
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Jul 2025
-</p>
-
-</td>
-
-
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
-
-<h3 align="center">🔄 Jira SCRUM Project</h3>
-
-<p align="center">
-<b>Agile Project Management</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Business & Enterprise Systems
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-Coursera
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Jul 2025
-</p>
-
-</td>
-
-
-<td width="33%" valign="top" style="background:#f8fafc; padding:22px; border-radius:16px;">
-
-<h3 align="center">🤝 Interpersonal Skills</h3>
-
-<p align="center">
-<b>Professional Development</b>
-</p>
-
-<hr>
-
-<p>
-🏷️ <b>Category:</b><br>
-Professional Development
-</p>
-
-<p>
-🏢 <b>Organization:</b><br>
-IBM
-</p>
-
-<p>
-📅 <b>Completed:</b><br>
-Jul 2025
-</p>
+<td>📅 <b>Date</b></td>
+<td align="right">Apr 2025</td>
+</tr>
+</table>
 
 </td>
 
@@ -475,7 +303,6 @@ Jul 2025
 
 </div>
 
-<img src="divider.svg" alt="" width="100%" />
 ## 🟣 Current Focus
 
 ```yaml
