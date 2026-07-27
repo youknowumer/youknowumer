@@ -210,13 +210,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">📊 Microsoft Power BI</h3>
+<h3 align="center" style="height:45px;">
+📊 Microsoft Power BI
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Data Analysis & Visualization</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Data & Analytics<br>
 🏢 UniAthena / Cambridge<br>
 📅 Apr 2025
@@ -227,13 +229,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">🐍 IT Automation with Python</h3>
+<h3 align="center" style="height:45px;">
+🐍 IT Automation with Python
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Automation & Programming</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Data & Analytics<br>
 🏢 Google<br>
 📅 Jun 2025
@@ -244,13 +248,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">🌐 WordPress</h3>
+<h3 align="center" style="height:45px;">
+🌐 WordPress
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Website Development</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Design & Web Development<br>
 🏢 Coursera<br>
 📅 Apr 2025
@@ -265,13 +271,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
-<h3 align="center">🎨 Canva</h3>
+<h3 align="center" style="height:45px;">
+🎨 Canva
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Graphic Design</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Design & Web Development<br>
 🏢 Simplilearn<br>
 📅 Apr 2025
@@ -282,13 +290,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
-<h3 align="center">🏢 SAP</h3>
+<h3 align="center" style="height:45px;">
+🏢 SAP
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Business Scenarios</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Enterprise Systems<br>
 🏢 SAP<br>
 📅 Jun 2025
@@ -299,13 +309,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#ffffff;padding:14px;border-radius:14px;">
 
-<h3 align="center">⚙️ Odoo 14 Essentials</h3>
+<h3 align="center" style="height:45px;">
+⚙️ Odoo 14 Essentials
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Business Management</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Enterprise Systems<br>
 🏢 Odoo<br>
 📅 Jun 2025
@@ -320,13 +332,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">📌 Project Management</h3>
+<h3 align="center" style="height:45px;">
+📌 Project Management
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Project Management Basics</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Business Systems<br>
 🏢 Google<br>
 📅 Jul 2025
@@ -337,13 +351,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">🔄 Jira SCRUM Project</h3>
+<h3 align="center" style="height:45px;">
+🔄 Jira SCRUM Project
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Agile Management</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Business Systems<br>
 🏢 Coursera<br>
 📅 Jul 2025
@@ -354,13 +370,15 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <td width="33%" valign="top" style="background:#f8fafc;padding:14px;border-radius:14px;">
 
-<h3 align="center">🤝 Interpersonal Skills</h3>
+<h3 align="center" style="height:45px;">
+🤝 Interpersonal Skills
+</h3>
 
-<p align="center">
+<p align="center" style="height:40px;">
 <b>Professional Development</b>
 </p>
 
-<p>
+<p style="line-height:1.8;">
 🏷️ Professional Skills<br>
 🏢 IBM<br>
 📅 Jul 2025
