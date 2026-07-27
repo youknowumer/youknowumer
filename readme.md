@@ -204,7 +204,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="border-collapse:separate; border-spacing:12px;">
+<table width="80%" style="border-collapse:separate; border-spacing:12px;">
 
 <tr>
 
