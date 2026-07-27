@@ -422,8 +422,6 @@ Jul 2025
 
 <img src="divider.svg" alt="" width="100%" />
 
-<div align="center">
-
 <h2>🔥 GitHub Streak Statistics</h2>
 
 <img 
