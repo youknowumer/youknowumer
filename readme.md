@@ -440,58 +440,93 @@ Jul 2025
 <tr>
 <td width="50%" valign="top">
 
-<h3>📚 Learning</h3>
+<h3>📚 Learning & Growth</h3>
 
-➤ Advanced JavaScript & modern frontend frameworks  
-➤ Deeper SQL & data modeling for BI  
-➤ ERP functional workflows & business process optimization  
-➤ Data visualization & dashboard storytelling  
-➤ Advanced reporting & decision-support systems  
+<p align="left">
+
+🔸 Advanced JavaScript & Modern Frontend Architecture  
+<br>
+🔸 SQL Optimization & Data Modeling for BI  
+<br>
+🔸 ERP Functional Workflows & Process Optimization  
+<br>
+🔸 Data Visualization & Dashboard Storytelling  
+<br>
+🔸 Advanced Reporting & Decision Support Systems  
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🛠️ Building</h3>
+<h3>🛠️ Building & Engineering</h3>
 
-🟣 Artisan Aura Creations (Odoo ERP capstone)  
-🟣 Personal portfolio & frontend projects  
-🟣 Custom ERP modules & workflow solutions  
-🟣 Interactive dashboards & analytics tools  
-🟣 Data-driven applications with reporting  
+<p align="left">
+
+🔹 Artisan Aura Creations — Odoo ERP Capstone  
+<br>
+🔹 Personal Portfolio & Frontend Experiences  
+<br>
+🔹 Custom ERP Modules & Business Solutions  
+<br>
+🔹 Interactive Analytics Dashboards  
+<br>
+🔹 Data-Driven Applications & Reporting Systems  
+
+</p>
 
 </td>
 </tr>
 
+
 <tr>
-<td width="50%" valign="top">
-
-<h3>🔍 Exploring</h3>
-
-➤ Computer vision pipelines (YOLO/COCO)  
-➤ ERP business process automation  
-➤ BI solutions & KPI dashboards  
-➤ Data cleaning & analytical pipelines  
-➤ AI-assisted enterprise workflows  
-
-</td>
 
 <td width="50%" valign="top">
 
-<h3>🚀 Open To</h3>
+<h3>🔍 Exploring & Researching</h3>
 
-➤ Frontend Development roles  
-➤ Business Intelligence / Data Analyst roles  
-➤ ERP Development opportunities  
-➤ Data Visualization projects  
-➤ Engineering & Freelance solutions  
+<p align="left">
+
+🔸 Computer Vision Pipelines (YOLO / COCO)  
+<br>
+🔸 ERP-Based Business Automation  
+<br>
+🔸 Business Intelligence & KPI Frameworks  
+<br>
+🔸 Data Cleaning & Analytical Pipelines  
+<br>
+🔸 AI-Assisted Enterprise Workflows  
+
+</p>
 
 </td>
+
+
+<td width="50%" valign="top">
+
+<h3>🚀 Open To Opportunities</h3>
+
+<p align="left">
+
+🔹 Frontend Development Roles  
+<br>
+🔹 Business Intelligence & Data Analytics  
+<br>
+🔹 ERP Development & Functional Consulting  
+<br>
+🔹 Dashboard & Visualization Projects  
+<br>
+🔹 Engineering Solutions & Freelance Work  
+
+</p>
+
+</td>
+
 </tr>
 </table>
 
 <br>
-
 <img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
