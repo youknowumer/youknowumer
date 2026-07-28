@@ -206,68 +206,106 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-<div align="left">
+<div align="center">
 
-🏅 **April 2025**  
-🎓 **Microsoft Power BI**  
-&nbsp;&nbsp;📊 Data Analysis & Visualization  
-&nbsp;&nbsp;🏢 UniAthena / Cambridge International  
+<table width="100%">
 
-<br>
+<tr>
 
-🏅 **June 2025**  
-🎓 **IT Automation with Python**  
-&nbsp;&nbsp;⚙️ Data Analytics & Automation  
-&nbsp;&nbsp;🏢 Google  
+<td width="33%" valign="top">
 
-<br>
+🏅 <b>April 2025</b><br>
+🎓 <b>Microsoft Power BI</b><br>
+📊 Data Analysis & Visualization<br>
+🏢 UniAthena / Cambridge International
 
-🏅 **April 2025**  
-🎓 **WordPress**  
-&nbsp;&nbsp;🌐 Building Websites  
-&nbsp;&nbsp;🏢 Coursera  
+</td>
 
-<br>
+<td width="33%" valign="top">
 
-🏅 **April 2025**  
-🎓 **Canva**  
-&nbsp;&nbsp;🎨 Graphic Design  
-&nbsp;&nbsp;🏢 Simplilearn  
+🏅 <b>June 2025</b><br>
+🎓 <b>IT Automation with Python</b><br>
+⚙️ Data Analytics & Automation<br>
+🏢 Google
 
-<br>
+</td>
 
-🏅 **June 2025**  
-🎓 **SAP**  
-&nbsp;&nbsp;🏢 Managing Basic Business Scenarios  
-&nbsp;&nbsp;🏢 SAP  
+<td width="33%" valign="top">
 
-<br>
+🏅 <b>April 2025</b><br>
+🎓 <b>WordPress</b><br>
+🌐 Building Websites<br>
+🏢 Coursera
 
-🏅 **June 2025**  
-🎓 **Odoo 14 Essentials**  
-&nbsp;&nbsp;⚙️ ERP Fundamentals & Business Workflows  
-&nbsp;&nbsp;🏢 Odoo  
+</td>
 
-<br>
+</tr>
 
-🏅 **July 2025**  
-🎓 **Foundations of Project Management**  
-&nbsp;&nbsp;📋 Project Management Fundamentals  
-&nbsp;&nbsp;🏢 Google  
 
-<br>
+<tr>
 
-🏅 **July 2025**  
-🎓 **Jira SCRUM Project**  
-&nbsp;&nbsp;🔄 Agile Workflow & Project Tracking  
-&nbsp;&nbsp;🏢 Coursera  
+<td width="33%" valign="top">
 
-<br>
+🏅 <b>April 2025</b><br>
+🎓 <b>Canva</b><br>
+🎨 Graphic Design<br>
+🏢 Simplilearn
 
-🏅 **July 2025**  
-🎓 **Developing Interpersonal Skills**  
-&nbsp;&nbsp;🤝 Professional Communication & Collaboration  
-&nbsp;&nbsp;🏢 IBM  
+</td>
+
+<td width="33%" valign="top">
+
+🏅 <b>June 2025</b><br>
+🎓 <b>SAP</b><br>
+🏢 Managing Basic Business Scenarios<br>
+🏢 SAP
+
+</td>
+
+<td width="33%" valign="top">
+
+🏅 <b>June 2025</b><br>
+🎓 <b>Odoo 14 Essentials</b><br>
+⚙️ ERP Fundamentals & Workflows<br>
+🏢 Odoo
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="33%" valign="top">
+
+🏅 <b>July 2025</b><br>
+🎓 <b>Foundations of Project Management</b><br>
+📋 Project Management Fundamentals<br>
+🏢 Google
+
+</td>
+
+<td width="33%" valign="top">
+
+🏅 <b>July 2025</b><br>
+🎓 <b>Jira SCRUM Project</b><br>
+🔄 Agile Workflow & Tracking<br>
+🏢 Coursera
+
+</td>
+
+<td width="33%" valign="top">
+
+🏅 <b>July 2025</b><br>
+🎓 <b>Developing Interpersonal Skills</b><br>
+🤝 Professional Communication<br>
+🏢 IBM
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
