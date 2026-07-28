@@ -212,27 +212,42 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>April 2025</b><br><br>
+<div align="center">
+🏅 <b>April 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Microsoft Power BI</b><br>
 📊 Data Analysis & Visualization<br>
 🏢 UniAthena / Cambridge International
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>June 2025</b><br><br>
+<div align="center">
+🏅 <b>June 2025</b>
+</div>
+
+<br>
+
 🎓 <b>IT Automation with Python</b><br>
 ⚙️ Data Analytics & Automation<br>
 🏢 Google
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>April 2025</b><br><br>
+<div align="center">
+🏅 <b>April 2025</b>
+</div>
+
+<br>
+
 🎓 <b>WordPress</b><br>
 🌐 Building Websites<br>
 🏢 Coursera
@@ -244,27 +259,42 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>April 2025</b><br><br>
+<div align="center">
+🏅 <b>April 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Canva</b><br>
 🎨 Graphic Design<br>
 🏢 Simplilearn
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>June 2025</b><br><br>
+<div align="center">
+🏅 <b>June 2025</b>
+</div>
+
+<br>
+
 🎓 <b>SAP</b><br>
 🏢 Managing Basic Business Scenarios<br>
 🏢 SAP
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>June 2025</b><br><br>
+<div align="center">
+🏅 <b>June 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Odoo 14 Essentials</b><br>
 ⚙️ ERP Fundamentals & Business Workflows<br>
 🏢 Odoo
@@ -276,27 +306,42 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>July 2025</b><br><br>
+<div align="center">
+🏅 <b>July 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Foundations of Project Management</b><br>
 📋 Project Management Fundamentals<br>
 🏢 Google
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>July 2025</b><br><br>
+<div align="center">
+🏅 <b>July 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Jira SCRUM Project</b><br>
 🔄 Agile Workflow & Project Tracking<br>
 🏢 Coursera
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;" align="center">
+<td width="33%" valign="top" style="padding:22px;">
 
-🏅 <b>July 2025</b><br><br>
+<div align="center">
+🏅 <b>July 2025</b>
+</div>
+
+<br>
+
 🎓 <b>Developing Interpersonal Skills</b><br>
 🤝 Professional Communication & Collaboration<br>
 🏢 IBM
