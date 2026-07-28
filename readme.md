@@ -442,11 +442,11 @@ Jul 2025
 
 <h3>📚 Learning</h3>
 
-🟠 Advanced JavaScript & modern frontend frameworks  
-🟠 Deeper SQL & data modeling for BI  
-🟠 ERP functional workflows & business process optimization  
-🟠 Data visualization & dashboard storytelling  
-🟠 Advanced reporting & decision-support systems  
+➤ Advanced JavaScript & modern frontend frameworks  
+➤ Deeper SQL & data modeling for BI  
+➤ ERP functional workflows & business process optimization  
+➤ Data visualization & dashboard storytelling  
+➤ Advanced reporting & decision-support systems  
 
 </td>
 
@@ -468,11 +468,11 @@ Jul 2025
 
 <h3>🔍 Exploring</h3>
 
-🟠 Computer vision pipelines (YOLO/COCO)  
-🟠 ERP business process automation  
-🟠 BI solutions & KPI dashboards  
-🟠 Data cleaning & analytical pipelines  
-🟠 AI-assisted enterprise workflows  
+➤ Computer vision pipelines (YOLO/COCO)  
+➤ ERP business process automation  
+➤ BI solutions & KPI dashboards  
+➤ Data cleaning & analytical pipelines  
+➤ AI-assisted enterprise workflows  
 
 </td>
 
@@ -480,11 +480,11 @@ Jul 2025
 
 <h3>🚀 Open To</h3>
 
-🟣 Frontend Development roles  
-🟣 Business Intelligence / Data Analyst roles  
-🟣 ERP Development opportunities  
-🟣 Data Visualization projects  
-🟣 Engineering & Freelance solutions  
+➤ Frontend Development roles  
+➤ Business Intelligence / Data Analyst roles  
+➤ ERP Development opportunities  
+➤ Data Visualization projects  
+➤ Engineering & Freelance solutions  
 
 </td>
 </tr>
