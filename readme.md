@@ -209,14 +209,14 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <table width="100%">
 
 <tr>
-<th align="left">🎓 Certification</th>
-<th align="left">🏷️ Category</th>
-<th align="left">🏢 Organization</th>
-<th align="center">📅 Date</th>
+<th align="left" width="45%">🎓 Certification</th>
+<th align="left" width="25%">🏷️ Category</th>
+<th align="left" width="20%">🏢 Organization</th>
+<th align="center" width="10%">📅 Date</th>
 </tr>
 
 <tr>
-<td><b>Microsoft Power BI</b> — Data Analysis & Visualization</td>
+<td><b>Microsoft Power BI</b><br><sub>Data Analysis & Visualization</sub></td>
 <td>📊 Data & Analytics</td>
 <td>UniAthena / Cambridge International</td>
 <td align="center">Apr 2025</td>
@@ -230,21 +230,21 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </tr>
 
 <tr>
-<td><b>WordPress</b> — Building Websites</td>
+<td><b>WordPress</b><br><sub>Building Websites</sub></td>
 <td>🎨 Design & Web Development</td>
 <td>Coursera</td>
 <td align="center">Apr 2025</td>
 </tr>
 
 <tr>
-<td><b>Canva</b> — Graphic Design</td>
+<td><b>Canva</b><br><sub>Graphic Design</sub></td>
 <td>🎨 Design & Web Development</td>
 <td>Simplilearn</td>
 <td align="center">Apr 2025</td>
 </tr>
 
 <tr>
-<td><b>SAP</b> — Managing Basic Business Scenarios</td>
+<td><b>SAP</b><br><sub>Managing Basic Business Scenarios</sub></td>
 <td>🏢 Business & Enterprise Systems</td>
 <td>SAP</td>
 <td align="center">Jun 2025</td>
@@ -281,6 +281,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </table>
 
 </div>
+
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
