@@ -204,84 +204,19 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-<div align="center">
+<div align="left">
 
-<table width="100%">
-
-<tr>
-<th align="left" width="45%">🎓 Certification</th>
-<th align="left" width="25%">🏷️ Category</th>
-<th align="left" width="20%">🏢 Organization</th>
-<th align="center" width="10%">📅 Date</th>
-</tr>
-
-<tr>
-<td><b>Microsoft Power BI</b><br><sub>Data Analysis & Visualization</sub></td>
-<td>📊 Data & Analytics</td>
-<td>UniAthena / Cambridge International</td>
-<td align="center">Apr 2025</td>
-</tr>
-
-<tr>
-<td><b>IT Automation with Python</b></td>
-<td>📊 Data & Analytics</td>
-<td>Google</td>
-<td align="center">Jun 2025</td>
-</tr>
-
-<tr>
-<td><b>WordPress</b><br><sub>Building Websites</sub></td>
-<td>🎨 Design & Web Development</td>
-<td>Coursera</td>
-<td align="center">Apr 2025</td>
-</tr>
-
-<tr>
-<td><b>Canva</b><br><sub>Graphic Design</sub></td>
-<td>🎨 Design & Web Development</td>
-<td>Simplilearn</td>
-<td align="center">Apr 2025</td>
-</tr>
-
-<tr>
-<td><b>SAP</b><br><sub>Managing Basic Business Scenarios</sub></td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>SAP</td>
-<td align="center">Jun 2025</td>
-</tr>
-
-<tr>
-<td><b>Odoo 14 Essentials</b></td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Odoo</td>
-<td align="center">Jun 2025</td>
-</tr>
-
-<tr>
-<td><b>Foundations of Project Management</b></td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Google</td>
-<td align="center">Jul 2025</td>
-</tr>
-
-<tr>
-<td><b>Jira SCRUM Project</b></td>
-<td>🏢 Business & Enterprise Systems</td>
-<td>Coursera</td>
-<td align="center">Jul 2025</td>
-</tr>
-
-<tr>
-<td><b>Developing Interpersonal Skills</b></td>
-<td>🤝 Professional Development</td>
-<td>IBM</td>
-<td align="center">Jul 2025</td>
-</tr>
-
-</table>
+🏆 **Microsoft Power BI** — Data Analysis & Visualization | 🏢 UniAthena / Cambridge International | 📅 Apr 2025  
+⚙️ **IT Automation with Python** | 🏢 Google | 📅 Jun 2025 
+🌐 **WordPress** — Building Websites | 🏢 Coursera | 📅 Apr 2025  
+🎨 **Canva** — Graphic Design | 🏢 Simplilearn | 📅 Apr 2025  
+🏢 **SAP** — Managing Basic Business Scenarios | 🏢 SAP | 📅 Jun 2025  
+⚙️ **Odoo 14 Essentials** | 🏢 Odoo | 📅 Jun 2025  
+📋 **Foundations of Project Management** | 🏢 Google | 📅 Jul 2025 
+🔄 **Jira SCRUM Project** | 🏢 Coursera | 📅 Jul 2025 
+🤝 **Developing Interpersonal Skills** | 🏢 IBM | 📅 Jul 2025  
 
 </div>
-
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
