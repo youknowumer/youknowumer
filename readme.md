@@ -201,6 +201,9 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <br>
 
 <img src="divider.svg" alt="" width="100%" />
+
+## 📜 Certifications & Professional Development
+
 ## 📜 Certifications & Professional Development
 
 <div align="center">
@@ -209,7 +212,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>April 2025</b><br><br>
 🎓 <b>Microsoft Power BI</b><br>
@@ -218,7 +221,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>June 2025</b><br><br>
 🎓 <b>IT Automation with Python</b><br>
@@ -227,7 +230,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>April 2025</b><br><br>
 🎓 <b>WordPress</b><br>
@@ -241,7 +244,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>April 2025</b><br><br>
 🎓 <b>Canva</b><br>
@@ -250,7 +253,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>June 2025</b><br><br>
 🎓 <b>SAP</b><br>
@@ -259,7 +262,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>June 2025</b><br><br>
 🎓 <b>Odoo 14 Essentials</b><br>
@@ -273,7 +276,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>July 2025</b><br><br>
 🎓 <b>Foundations of Project Management</b><br>
@@ -282,7 +285,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>July 2025</b><br><br>
 🎓 <b>Jira SCRUM Project</b><br>
@@ -291,7 +294,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top" style="padding:22px;">
+<td width="33%" valign="top" style="padding:22px;" align="center">
 
 🏅 <b>July 2025</b><br><br>
 🎓 <b>Developing Interpersonal Skills</b><br>
@@ -305,6 +308,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 </table>
 
 </div>
+
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
