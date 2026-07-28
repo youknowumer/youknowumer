@@ -207,174 +207,199 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <div align="center">
 
 <table width="100%">
-<thead>
 
 <tr>
-<th align="left" width="35%">🎓 Certification</th>
-<th align="left" width="25%">🏷️ Category</th>
-<th align="left" width="25%">🏢 Issuing Organization</th>
-<th align="center" width="15%">📅 Date</th>
+<td width="70%" align="left">
+
+<h3>🟠 Microsoft Power BI</h3>
+
+📊 <b>Data Analysis & Visualization</b><br>
+🏢 UniAthena / Cambridge International<br>
+📅 April 2025
+
+</td>
+
+<td width="30%" align="center">
+
+<h3>📈</h3>
+<b>DATA</b><br>
+Analytics
+
+</td>
 </tr>
 
-</thead>
-
-<tbody>
 
 <tr>
 <td align="left">
-<b>Microsoft Power BI</b><br>
-<sub>Data Analysis & Visualization</sub>
+
+<h3>🟣 IT Automation with Python</h3>
+
+⚙️ <b>Automation & Data Analytics</b><br>
+🏢 Google<br>
+📅 June 2025
+
 </td>
-<td>
-📊 Data & Analytics
-</td>
-<td>
-UniAthena / Cambridge International
-</td>
+
 <td align="center">
-Apr 2025
+
+<h3>🐍</h3>
+<b>AUTOMATION</b><br>
+Python
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>IT Automation with Python</b>
+<td align="left">
+
+<h3>🟠 WordPress</h3>
+
+🌐 <b>Website Development</b><br>
+🏢 Coursera<br>
+📅 April 2025
+
 </td>
-<td>
-📊 Data & Analytics
-</td>
-<td>
-Google
-</td>
+
 <td align="center">
-Jun 2025
+
+<h3>💻</h3>
+<b>WEB</b><br>
+Development
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>WordPress</b><br>
-<sub>Building Websites</sub>
+<td align="left">
+
+<h3>🟣 Canva</h3>
+
+🎨 <b>Graphic Design</b><br>
+🏢 Simplilearn<br>
+📅 April 2025
+
 </td>
-<td>
-🎨 Design & Web Development
-</td>
-<td>
-Coursera
-</td>
+
 <td align="center">
-Apr 2025
+
+<h3>✨</h3>
+<b>DESIGN</b><br>
+Creative
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>Canva</b><br>
-<sub>Graphic Design</sub>
+<td align="left">
+
+<h3>🟠 SAP</h3>
+
+🏢 <b>Managing Basic Business Scenarios</b><br>
+🏢 SAP<br>
+📅 June 2025
+
 </td>
-<td>
-🎨 Design & Web Development
-</td>
-<td>
-Simplilearn
-</td>
+
 <td align="center">
-Apr 2025
+
+<h3>🏭</h3>
+<b>ERP</b><br>
+Enterprise
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>SAP</b><br>
-<sub>Managing Basic Business Scenarios</sub>
+<td align="left">
+
+<h3>🟣 Odoo 14 Essentials</h3>
+
+⚙️ <b>ERP Fundamentals & Workflows</b><br>
+🏢 Odoo<br>
+📅 June 2025
+
 </td>
-<td>
-🏢 Business & Enterprise Systems
-</td>
-<td>
-SAP
-</td>
+
 <td align="center">
-Jun 2025
+
+<h3>🔧</h3>
+<b>ERP</b><br>
+Systems
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>Odoo 14 Essentials</b>
+<td align="left">
+
+<h3>🟠 Foundations of Project Management</h3>
+
+📋 <b>Project Planning & Management</b><br>
+🏢 Google<br>
+📅 July 2025
+
 </td>
-<td>
-🏢 Business & Enterprise Systems
-</td>
-<td>
-Odoo
-</td>
+
 <td align="center">
-Jun 2025
+
+<h3>🚀</h3>
+<b>PROJECT</b><br>
+Management
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>Foundations of Project Management</b>
+<td align="left">
+
+<h3>🟣 Jira SCRUM Project</h3>
+
+🔄 <b>Agile Workflow & Project Tracking</b><br>
+🏢 Coursera<br>
+📅 July 2025
+
 </td>
-<td>
-🏢 Business & Enterprise Systems
-</td>
-<td>
-Google
-</td>
+
 <td align="center">
-Jul 2025
+
+<h3>🔄</h3>
+<b>AGILE</b><br>
+SCRUM
+
 </td>
 </tr>
 
 
 <tr>
-<td>
-<b>Jira SCRUM Project</b>
+<td align="left">
+
+<h3>🟠 Developing Interpersonal Skills</h3>
+
+🤝 <b>Professional Communication & Collaboration</b><br>
+🏢 IBM<br>
+📅 July 2025
+
 </td>
-<td>
-🏢 Business & Enterprise Systems
-</td>
-<td>
-Coursera
-</td>
+
 <td align="center">
-Jul 2025
+
+<h3>💡</h3>
+<b>SOFT</b><br>
+Skills
+
 </td>
 </tr>
 
-
-<tr>
-<td>
-<b>Developing Interpersonal Skills</b>
-</td>
-<td>
-🤝 Professional Development
-</td>
-<td>
-IBM
-</td>
-<td align="center">
-Jul 2025
-</td>
-</tr>
-
-</tbody>
 
 </table>
 
 </div>
-
-<br>
-
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
