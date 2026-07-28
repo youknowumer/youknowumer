@@ -424,7 +424,11 @@ Jul 2025
 
 ## 🔥 GitHub Streak Statistics
 
+<div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=youknowumer&theme=github-dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
+
+</div>
 
 <br>
 
@@ -432,37 +436,45 @@ Jul 2025
 
 ## 🟣 Current Focus
 
-```yaml
+<div align="left">
 
-📚 Learning:
-  ➤ Advanced JavaScript & modern frontend frameworks
-  ➤ Deeper SQL & data modeling for BI
-  ➤ ERP functional workflows and business process optimization
-  ➤ Data visualization techniques and dashboard storytelling
-  ➤ Advanced reporting, analytics, and decision-support systems
+<h3 style="color:#FF9900;">📚 Learning</h3>
 
-🛠️ Building:
-  ➤ Artisan Aura Creations (Odoo ERP capstone)
-  ➤ Personal portfolio & frontend projects
-  ➤ Custom ERP modules and business workflow solutions
-  ➤ Interactive dashboards using data visualization tools
-  ➤ Data-driven applications integrating analytics and reporting
+- <span style="color:#C9D1D9;">Advanced JavaScript & modern frontend frameworks</span>
+- <span style="color:#C9D1D9;">Deeper SQL & data modeling for BI</span>
+- <span style="color:#C9D1D9;">ERP functional workflows and business process optimization</span>
+- <span style="color:#C9D1D9;">Data visualization techniques and dashboard storytelling</span>
+- <span style="color:#C9D1D9;">Advanced reporting, analytics, and decision-support systems</span>
 
-🔍 Exploring:
-  ➤ Computer vision data pipelines (YOLO/COCO)
-  ➤ ERP-driven business process automation
-  ➤ Business intelligence solutions and KPI dashboards
-  ➤ Data cleaning, transformation, and analytical pipelines
-  ➤ AI-assisted automation for enterprise workflows
 
-🚀 Open To:
-  ➤ Frontend Development roles
-  ➤ Business Intelligence / Data Analyst roles
-  ➤ ERP Development & Functional Consultant opportunities
-  ➤ Data Visualization & Dashboard Development projects
-  ➤ Engineering Solutions, Projects & Freelance Opportunities
+<h3 style="color:#FF9900;">🛠️ Building</h3>
 
-```
+- <span style="color:#C9D1D9;">Artisan Aura Creations (Odoo ERP capstone)</span>
+- <span style="color:#C9D1D9;">Personal portfolio & frontend projects</span>
+- <span style="color:#C9D1D9;">Custom ERP modules and business workflow solutions</span>
+- <span style="color:#C9D1D9;">Interactive dashboards using data visualization tools</span>
+- <span style="color:#C9D1D9;">Data-driven applications integrating analytics and reporting</span>
+
+
+<h3 style="color:#FF9900;">🔍 Exploring</h3>
+
+- <span style="color:#C9D1D9;">Computer vision data pipelines (YOLO/COCO)</span>
+- <span style="color:#C9D1D9;">ERP-driven business process automation</span>
+- <span style="color:#C9D1D9;">Business intelligence solutions and KPI dashboards</span>
+- <span style="color:#C9D1D9;">Data cleaning, transformation, and analytical pipelines</span>
+- <span style="color:#C9D1D9;">AI-assisted automation for enterprise workflows</span>
+
+
+<h3 style="color:#FF9900;">🚀 Open To</h3>
+
+- <span style="color:#C9D1D9;">Frontend Development roles</span>
+- <span style="color:#C9D1D9;">Business Intelligence / Data Analyst roles</span>
+- <span style="color:#C9D1D9;">ERP Development & Functional Consultant opportunities</span>
+- <span style="color:#C9D1D9;">Data Visualization & Dashboard Development projects</span>
+- <span style="color:#C9D1D9;">Engineering Solutions, Projects & Freelance Opportunities</span>
+
+</div>
+
 <br>
 
 <img src="divider.svg" alt="" width="100%" />
