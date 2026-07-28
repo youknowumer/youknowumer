@@ -209,127 +209,78 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <table width="100%">
 
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>🟠 Microsoft Power BI</h3>
-
-📊 <b>Data Analysis & Visualization</b><br>
-🏢 UniAthena / Cambridge International<br>
-📅 April 2025
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🟣 IT Automation with Python</h3>
-
-⚙️ <b>Automation & Data Analytics</b><br>
-🏢 Google<br>
-📅 June 2025
-
-</td>
-
+<th align="left">🎓 Certification</th>
+<th align="left">🏷️ Category</th>
+<th align="left">🏢 Organization</th>
+<th align="center">📅 Date</th>
 </tr>
 
-
 <tr>
-
-<td valign="top">
-
-<h3>🟠 WordPress</h3>
-
-🌐 <b>Website Development</b><br>
-🏢 Coursera<br>
-📅 April 2025
-
-</td>
-
-<td valign="top">
-
-<h3>🟣 Canva</h3>
-
-🎨 <b>Graphic Design</b><br>
-🏢 Simplilearn<br>
-📅 April 2025
-
-</td>
-
+<td><b>Microsoft Power BI</b> — Data Analysis & Visualization</td>
+<td>📊 Data & Analytics</td>
+<td>UniAthena / Cambridge International</td>
+<td align="center">Apr 2025</td>
 </tr>
 
-
 <tr>
-
-<td valign="top">
-
-<h3>🟠 SAP</h3>
-
-🏢 <b>Managing Basic Business Scenarios</b><br>
-🏢 SAP<br>
-📅 June 2025
-
-</td>
-
-<td valign="top">
-
-<h3>🟣 Odoo 14 Essentials</h3>
-
-⚙️ <b>ERP Fundamentals & Workflows</b><br>
-🏢 Odoo<br>
-📅 June 2025
-
-</td>
-
+<td><b>IT Automation with Python</b></td>
+<td>📊 Data & Analytics</td>
+<td>Google</td>
+<td align="center">Jun 2025</td>
 </tr>
 
-
 <tr>
-
-<td valign="top">
-
-<h3>🟠 Foundations of Project Management</h3>
-
-📋 <b>Project Planning & Management</b><br>
-🏢 Google<br>
-📅 July 2025
-
-</td>
-
-<td valign="top">
-
-<h3>🟣 Jira SCRUM Project</h3>
-
-🔄 <b>Agile Workflow & Project Tracking</b><br>
-🏢 Coursera<br>
-📅 July 2025
-
-</td>
-
+<td><b>WordPress</b> — Building Websites</td>
+<td>🎨 Design & Web Development</td>
+<td>Coursera</td>
+<td align="center">Apr 2025</td>
 </tr>
 
+<tr>
+<td><b>Canva</b> — Graphic Design</td>
+<td>🎨 Design & Web Development</td>
+<td>Simplilearn</td>
+<td align="center">Apr 2025</td>
+</tr>
 
 <tr>
+<td><b>SAP</b> — Managing Basic Business Scenarios</td>
+<td>🏢 Business & Enterprise Systems</td>
+<td>SAP</td>
+<td align="center">Jun 2025</td>
+</tr>
 
-<td valign="top">
+<tr>
+<td><b>Odoo 14 Essentials</b></td>
+<td>🏢 Business & Enterprise Systems</td>
+<td>Odoo</td>
+<td align="center">Jun 2025</td>
+</tr>
 
-<h3>🟠 Developing Interpersonal Skills</h3>
+<tr>
+<td><b>Foundations of Project Management</b></td>
+<td>🏢 Business & Enterprise Systems</td>
+<td>Google</td>
+<td align="center">Jul 2025</td>
+</tr>
 
-🤝 <b>Professional Communication & Collaboration</b><br>
-🏢 IBM<br>
-📅 July 2025
+<tr>
+<td><b>Jira SCRUM Project</b></td>
+<td>🏢 Business & Enterprise Systems</td>
+<td>Coursera</td>
+<td align="center">Jul 2025</td>
+</tr>
 
-</td>
-
-<td valign="top">
-
-</td>
-
+<tr>
+<td><b>Developing Interpersonal Skills</b></td>
+<td>🤝 Professional Development</td>
+<td>IBM</td>
+<td align="center">Jul 2025</td>
 </tr>
 
 </table>
 
 </div>
-
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
