@@ -208,63 +208,66 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="left">
 
-<table width="100%">
+🏅 **April 2025**  
+🎓 **Microsoft Power BI**  
+&nbsp;&nbsp;📊 Data Analysis & Visualization  
+&nbsp;&nbsp;🏢 UniAthena / Cambridge International  
 
-<tr>
-<td width="33%">🎓 <b>Microsoft Power BI</b></td>
-<td width="34%" align="center">📊 Data Analysis & Visualization | 🏢 UniAthena / Cambridge International</td>
-<td width="33%" align="right">📅 April 2025</td>
-</tr>
+<br>
 
-<tr>
-<td>🎓 <b>IT Automation with Python</b></td>
-<td align="center">⚙️ Data Analytics & Automation | 🏢 Google</td>
-<td align="right">📅 June 2025</td>
-</tr>
+🏅 **June 2025**  
+🎓 **IT Automation with Python**  
+&nbsp;&nbsp;⚙️ Data Analytics & Automation  
+&nbsp;&nbsp;🏢 Google  
 
-<tr>
-<td>🎓 <b>WordPress</b></td>
-<td align="center">🌐 Building Websites | 🏢 Coursera</td>
-<td align="right">📅 April 2025</td>
-</tr>
+<br>
 
-<tr>
-<td>🎓 <b>Canva</b></td>
-<td align="center">🎨 Graphic Design | 🏢 Simplilearn</td>
-<td align="right">📅 April 2025</td>
-</tr>
+🏅 **April 2025**  
+🎓 **WordPress**  
+&nbsp;&nbsp;🌐 Building Websites  
+&nbsp;&nbsp;🏢 Coursera  
 
-<tr>
-<td>🎓 <b>SAP</b></td>
-<td align="center">🏢 Managing Basic Business Scenarios | 🏢 SAP</td>
-<td align="right">📅 June 2025</td>
-</tr>
+<br>
 
-<tr>
-<td>🎓 <b>Odoo 14 Essentials</b></td>
-<td align="center">⚙️ ERP Fundamentals & Business Workflows | 🏢 Odoo</td>
-<td align="right">📅 June 2025</td>
-</tr>
+🏅 **April 2025**  
+🎓 **Canva**  
+&nbsp;&nbsp;🎨 Graphic Design  
+&nbsp;&nbsp;🏢 Simplilearn  
 
-<tr>
-<td>🎓 <b>Foundations of Project Management</b></td>
-<td align="center">📋 Project Management Fundamentals | 🏢 Google</td>
-<td align="right">📅 July 2025</td>
-</tr>
+<br>
 
-<tr>
-<td>🎓 <b>Jira SCRUM Project</b></td>
-<td align="center">🔄 Agile Workflow & Project Tracking | 🏢 Coursera</td>
-<td align="right">📅 July 2025</td>
-</tr>
+🏅 **June 2025**  
+🎓 **SAP**  
+&nbsp;&nbsp;🏢 Managing Basic Business Scenarios  
+&nbsp;&nbsp;🏢 SAP  
 
-<tr>
-<td>🎓 <b>Developing Interpersonal Skills</b></td>
-<td align="center">🤝 Professional Communication & Collaboration | 🏢 IBM</td>
-<td align="right">📅 July 2025</td>
-</tr>
+<br>
 
-</table>
+🏅 **June 2025**  
+🎓 **Odoo 14 Essentials**  
+&nbsp;&nbsp;⚙️ ERP Fundamentals & Business Workflows  
+&nbsp;&nbsp;🏢 Odoo  
+
+<br>
+
+🏅 **July 2025**  
+🎓 **Foundations of Project Management**  
+&nbsp;&nbsp;📋 Project Management Fundamentals  
+&nbsp;&nbsp;🏢 Google  
+
+<br>
+
+🏅 **July 2025**  
+🎓 **Jira SCRUM Project**  
+&nbsp;&nbsp;🔄 Agile Workflow & Project Tracking  
+&nbsp;&nbsp;🏢 Coursera  
+
+<br>
+
+🏅 **July 2025**  
+🎓 **Developing Interpersonal Skills**  
+&nbsp;&nbsp;🤝 Professional Communication & Collaboration  
+&nbsp;&nbsp;🏢 IBM  
 
 </div>
 
