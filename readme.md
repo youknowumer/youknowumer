@@ -206,12 +206,11 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="100%">
-
+<table width="105%">
 <tr>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>April 2025</b><br>
 🎓 <b>Microsoft Power BI</b><br>
 📊 Data Analysis & Visualization<br>
@@ -219,8 +218,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
 🏅 <b>June 2025</b><br>
 🎓 <b>IT Automation with Python</b><br>
 ⚙️ Data Analytics & Automation<br>
@@ -228,8 +226,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>April 2025</b><br>
 🎓 <b>WordPress</b><br>
 🌐 Building Websites<br>
@@ -242,8 +240,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>April 2025</b><br>
 🎓 <b>Canva</b><br>
 🎨 Graphic Design<br>
@@ -251,8 +249,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>June 2025</b><br>
 🎓 <b>SAP</b><br>
 🏢 Managing Basic Business Scenarios<br>
@@ -260,8 +258,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>June 2025</b><br>
 🎓 <b>Odoo 14 Essentials</b><br>
 ⚙️ ERP Fundamentals & Workflows<br>
@@ -274,8 +272,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <tr>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>July 2025</b><br>
 🎓 <b>Foundations of Project Management</b><br>
 📋 Project Management Fundamentals<br>
@@ -283,8 +281,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>July 2025</b><br>
 🎓 <b>Jira SCRUM Project</b><br>
 🔄 Agile Workflow & Tracking<br>
@@ -292,8 +290,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="33%" valign="top">
-
+<td width="33%" valign="top" style="padding:18px;">
+  
 🏅 <b>July 2025</b><br>
 🎓 <b>Developing Interpersonal Skills</b><br>
 🤝 Professional Communication<br>
