@@ -204,70 +204,34 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-## 📜 Certifications & Professional Development
-
 <div align="left">
 
 🎓 <b>Microsoft Power BI</b>  
-&nbsp;&nbsp;&nbsp;Data Analysis & Visualization  
-&nbsp;&nbsp;&nbsp;🏢 UniAthena / Cambridge International  
-&nbsp;&nbsp;&nbsp;📅 April 2025  
-
-<br>
+&nbsp;&nbsp;📊 Data Analysis & Visualization | 🏢 UniAthena / Cambridge International | 📅 April 2025  
 
 🎓 <b>IT Automation with Python</b>  
-&nbsp;&nbsp;&nbsp;Data Analytics & Automation  
-&nbsp;&nbsp;&nbsp;🏢 Google  
-&nbsp;&nbsp;&nbsp;📅 June 2025  
-
-<br>
+&nbsp;&nbsp;⚙️ Data Analytics & Automation | 🏢 Google | 📅 June 2025  
 
 🎓 <b>WordPress</b>  
-&nbsp;&nbsp;&nbsp;Building Websites  
-&nbsp;&nbsp;&nbsp;🏢 Coursera  
-&nbsp;&nbsp;&nbsp;📅 April 2025  
-
-<br>
+&nbsp;&nbsp;🌐 Building Websites | 🏢 Coursera | 📅 April 2025  
 
 🎓 <b>Canva</b>  
-&nbsp;&nbsp;&nbsp;Graphic Design  
-&nbsp;&nbsp;&nbsp;🏢 Simplilearn  
-&nbsp;&nbsp;&nbsp;📅 April 2025  
-
-<br>
+&nbsp;&nbsp;🎨 Graphic Design | 🏢 Simplilearn | 📅 April 2025  
 
 🎓 <b>SAP</b>  
-&nbsp;&nbsp;&nbsp;Managing Basic Business Scenarios  
-&nbsp;&nbsp;&nbsp;🏢 SAP  
-&nbsp;&nbsp;&nbsp;📅 June 2025  
-
-<br>
+&nbsp;&nbsp;🏢 Managing Basic Business Scenarios | 🏢 SAP | 📅 June 2025  
 
 🎓 <b>Odoo 14 Essentials</b>  
-&nbsp;&nbsp;&nbsp;ERP Fundamentals & Business Workflows  
-&nbsp;&nbsp;&nbsp;🏢 Odoo  
-&nbsp;&nbsp;&nbsp;📅 June 2025  
-
-<br>
+&nbsp;&nbsp;⚙️ ERP Fundamentals & Business Workflows | 🏢 Odoo | 📅 June 2025  
 
 🎓 <b>Foundations of Project Management</b>  
-&nbsp;&nbsp;&nbsp;Project Management Fundamentals  
-&nbsp;&nbsp;&nbsp;🏢 Google  
-&nbsp;&nbsp;&nbsp;📅 July 2025  
-
-<br>
+&nbsp;&nbsp;📋 Project Management Fundamentals | 🏢 Google | 📅 July 2025  
 
 🎓 <b>Jira SCRUM Project</b>  
-&nbsp;&nbsp;&nbsp;Agile Workflow & Project Tracking  
-&nbsp;&nbsp;&nbsp;🏢 Coursera  
-&nbsp;&nbsp;&nbsp;📅 July 2025  
-
-<br>
+&nbsp;&nbsp;🔄 Agile Workflow & Project Tracking | 🏢 Coursera | 📅 July 2025  
 
 🎓 <b>Developing Interpersonal Skills</b>  
-&nbsp;&nbsp;&nbsp;Professional Communication & Collaboration  
-&nbsp;&nbsp;&nbsp;🏢 IBM  
-&nbsp;&nbsp;&nbsp;📅 July 2025  
+&nbsp;&nbsp;🤝 Professional Communication & Collaboration | 🏢 IBM | 📅 July 2025  
 
 </div>
 
