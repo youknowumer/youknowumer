@@ -425,7 +425,9 @@ Jul 2025
 ## 🔥 GitHub Streak Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=youknowumer&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=youknowumer" alt="GitHub Streak" />
+  </a>
 </p>
 
 </div>
