@@ -425,9 +425,11 @@ Jul 2025
 ## 🔥 GitHub Streak Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=youknowumer" alt="GitHub Streak" />
-  </a>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=youknowumer&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideLabels=FFFFFF&dates=AAAAAA&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+
+</div>
 </p>
 
 </div>
