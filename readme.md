@@ -209,7 +209,8 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <table width="100%">
 
 <tr>
-<td width="70%" align="left">
+
+<td width="50%" valign="top">
 
 <h3>🟠 Microsoft Power BI</h3>
 
@@ -219,18 +220,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 </td>
 
-<td width="30%" align="center">
-
-<h3>📈</h3>
-<b>DATA</b><br>
-Analytics
-
-</td>
-</tr>
-
-
-<tr>
-<td align="left">
+<td width="50%" valign="top">
 
 <h3>🟣 IT Automation with Python</h3>
 
@@ -240,18 +230,12 @@ Analytics
 
 </td>
 
-<td align="center">
-
-<h3>🐍</h3>
-<b>AUTOMATION</b><br>
-Python
-
-</td>
 </tr>
 
 
 <tr>
-<td align="left">
+
+<td valign="top">
 
 <h3>🟠 WordPress</h3>
 
@@ -261,18 +245,7 @@ Python
 
 </td>
 
-<td align="center">
-
-<h3>💻</h3>
-<b>WEB</b><br>
-Development
-
-</td>
-</tr>
-
-
-<tr>
-<td align="left">
+<td valign="top">
 
 <h3>🟣 Canva</h3>
 
@@ -282,18 +255,12 @@ Development
 
 </td>
 
-<td align="center">
-
-<h3>✨</h3>
-<b>DESIGN</b><br>
-Creative
-
-</td>
 </tr>
 
 
 <tr>
-<td align="left">
+
+<td valign="top">
 
 <h3>🟠 SAP</h3>
 
@@ -303,18 +270,7 @@ Creative
 
 </td>
 
-<td align="center">
-
-<h3>🏭</h3>
-<b>ERP</b><br>
-Enterprise
-
-</td>
-</tr>
-
-
-<tr>
-<td align="left">
+<td valign="top">
 
 <h3>🟣 Odoo 14 Essentials</h3>
 
@@ -324,18 +280,12 @@ Enterprise
 
 </td>
 
-<td align="center">
-
-<h3>🔧</h3>
-<b>ERP</b><br>
-Systems
-
-</td>
 </tr>
 
 
 <tr>
-<td align="left">
+
+<td valign="top">
 
 <h3>🟠 Foundations of Project Management</h3>
 
@@ -345,18 +295,7 @@ Systems
 
 </td>
 
-<td align="center">
-
-<h3>🚀</h3>
-<b>PROJECT</b><br>
-Management
-
-</td>
-</tr>
-
-
-<tr>
-<td align="left">
+<td valign="top">
 
 <h3>🟣 Jira SCRUM Project</h3>
 
@@ -366,18 +305,12 @@ Management
 
 </td>
 
-<td align="center">
-
-<h3>🔄</h3>
-<b>AGILE</b><br>
-SCRUM
-
-</td>
 </tr>
 
 
 <tr>
-<td align="left">
+
+<td valign="top">
 
 <h3>🟠 Developing Interpersonal Skills</h3>
 
@@ -387,19 +320,16 @@ SCRUM
 
 </td>
 
-<td align="center">
-
-<h3>💡</h3>
-<b>SOFT</b><br>
-Skills
+<td valign="top">
 
 </td>
-</tr>
 
+</tr>
 
 </table>
 
 </div>
+
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
