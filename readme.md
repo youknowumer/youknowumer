@@ -423,7 +423,12 @@ Jul 2025
 <img src="divider.svg" alt="" width="100%" />
 
 <h2>🔥 GitHub Streak Statistics</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=youknowumer&theme=tokyonight)](https://git.io/streak-stats)
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=youknowumer&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
