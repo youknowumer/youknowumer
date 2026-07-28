@@ -436,98 +436,44 @@ Jul 2025
 
 ## 🟣 Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="left">
 
-<h3>📚 Learning & Growth</h3>
+<h3 style="color:#FF9900;">📚 Learning</h3>
 
-<p align="left">
-
-🔸 Advanced JavaScript & Modern Frontend Architecture  
-<br>
-🔸 SQL Optimization & Data Modeling for BI  
-<br>
-🔸 ERP Functional Workflows & Process Optimization  
-<br>
-🔸 Data Visualization & Dashboard Storytelling  
-<br>
-🔸 Advanced Reporting & Decision Support Systems  
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛠️ Building & Engineering</h3>
-
-<p align="left">
-
-🔹 Artisan Aura Creations — Odoo ERP Capstone  
-<br>
-🔹 Personal Portfolio & Frontend Experiences  
-<br>
-🔹 Custom ERP Modules & Business Solutions  
-<br>
-🔹 Interactive Analytics Dashboards  
-<br>
-🔹 Data-Driven Applications & Reporting Systems  
-
-</p>
-
-</td>
-</tr>
+- <span style="color:#C9D1D9;">Advanced JavaScript & modern frontend frameworks</span>
+- <span style="color:#C9D1D9;">Deeper SQL & data modeling for BI</span>
+- <span style="color:#C9D1D9;">ERP functional workflows and business process optimization</span>
+- <span style="color:#C9D1D9;">Data visualization techniques and dashboard storytelling</span>
+- <span style="color:#C9D1D9;">Advanced reporting, analytics, and decision-support systems</span>
 
 
-<tr>
+<h3 style="color:#FF9900;">🛠️ Building</h3>
 
-<td width="50%" valign="top">
-
-<h3>🔍 Exploring & Researching</h3>
-
-<p align="left">
-
-🔸 Computer Vision Pipelines (YOLO / COCO)  
-<br>
-🔸 ERP-Based Business Automation  
-<br>
-🔸 Business Intelligence & KPI Frameworks  
-<br>
-🔸 Data Cleaning & Analytical Pipelines  
-<br>
-🔸 AI-Assisted Enterprise Workflows  
-
-</p>
-
-</td>
+- <span style="color:#C9D1D9;">Artisan Aura Creations (Odoo ERP capstone)</span>
+- <span style="color:#C9D1D9;">Personal portfolio & frontend projects</span>
+- <span style="color:#C9D1D9;">Custom ERP modules and business workflow solutions</span>
+- <span style="color:#C9D1D9;">Interactive dashboards using data visualization tools</span>
+- <span style="color:#C9D1D9;">Data-driven applications integrating analytics and reporting</span>
 
 
-<td width="50%" valign="top">
+<h3 style="color:#FF9900;">🔍 Exploring</h3>
 
-<h3>🚀 Open To Opportunities</h3>
+- <span style="color:#C9D1D9;">Computer vision data pipelines (YOLO/COCO)</span>
+- <span style="color:#C9D1D9;">ERP-driven business process automation</span>
+- <span style="color:#C9D1D9;">Business intelligence solutions and KPI dashboards</span>
+- <span style="color:#C9D1D9;">Data cleaning, transformation, and analytical pipelines</span>
+- <span style="color:#C9D1D9;">AI-assisted automation for enterprise workflows</span>
 
-<p align="left">
 
-🔹 Frontend Development Roles  
-<br>
-🔹 Business Intelligence & Data Analytics  
-<br>
-🔹 ERP Development & Functional Consulting  
-<br>
-🔹 Dashboard & Visualization Projects  
-<br>
-🔹 Engineering Solutions & Freelance Work  
+<h3 style="color:#FF9900;">🚀 Open To</h3>
 
-</p>
+- <span style="color:#C9D1D9;">Frontend Development roles</span>
+- <span style="color:#C9D1D9;">Business Intelligence / Data Analyst roles</span>
+- <span style="color:#C9D1D9;">ERP Development & Functional Consultant opportunities</span>
+- <span style="color:#C9D1D9;">Data Visualization & Dashboard Development projects</span>
+- <span style="color:#C9D1D9;">Engineering Solutions, Projects & Freelance Opportunities</span>
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
+</div>
 <img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
