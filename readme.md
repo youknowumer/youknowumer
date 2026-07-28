@@ -527,6 +527,7 @@ Jul 2025
 </table>
 
 <br>
+
 <img src="divider.svg" alt="" width="100%" />
 
 <div align="center">
