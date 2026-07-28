@@ -204,8 +204,6 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
-## 📜 Certifications & Professional Development
-
 <div align="center">
 
 <table width="100%">
