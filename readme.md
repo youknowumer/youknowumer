@@ -206,217 +206,172 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 <div align="center">
 
-<table width="95%" style="
-border-collapse: separate;
-border-spacing: 0 8px;
-font-size: 14px;
-">
-
+<table width="100%">
 <thead>
 
 <tr>
-<th align="left" width="35%" style="padding:14px;">
-🎓 Certification
-</th>
-
-<th align="left" width="25%" style="padding:14px;">
-🏷️ Category
-</th>
-
-<th align="left" width="25%" style="padding:14px;">
-🏢 Issuing Organization
-</th>
-
-<th align="center" width="15%" style="padding:14px;">
-📅 Date
-</th>
-
+<th align="left" width="35%">🎓 Certification</th>
+<th align="left" width="25%">🏷️ Category</th>
+<th align="left" width="25%">🏢 Issuing Organization</th>
+<th align="center" width="15%">📅 Date</th>
 </tr>
 
 </thead>
 
-
 <tbody>
 
-
 <tr>
-<td style="padding:14px;" valign="middle">
+<td align="left">
 <b>Microsoft Power BI</b><br>
 <sub>Data Analysis & Visualization</sub>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 📊 Data & Analytics
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 UniAthena / Cambridge International
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Apr 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>IT Automation with Python</b>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 📊 Data & Analytics
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Google
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jun 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>WordPress</b><br>
 <sub>Building Websites</sub>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🎨 Design & Web Development
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Coursera
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Apr 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>Canva</b><br>
 <sub>Graphic Design</sub>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🎨 Design & Web Development
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Simplilearn
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Apr 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>SAP</b><br>
 <sub>Managing Basic Business Scenarios</sub>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🏢 Business & Enterprise Systems
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 SAP
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jun 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>Odoo 14 Essentials</b>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🏢 Business & Enterprise Systems
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Odoo
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jun 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>Foundations of Project Management</b>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🏢 Business & Enterprise Systems
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Google
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jul 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>Jira SCRUM Project</b>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🏢 Business & Enterprise Systems
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 Coursera
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jul 2025
 </td>
 </tr>
 
 
 <tr>
-<td style="padding:14px;" valign="middle">
+<td>
 <b>Developing Interpersonal Skills</b>
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 🤝 Professional Development
 </td>
-
-<td style="padding:14px;" valign="middle">
+<td>
 IBM
 </td>
-
-<td align="center" style="padding:14px;">
+<td align="center">
 Jul 2025
 </td>
 </tr>
-
 
 </tbody>
 
 </table>
+
+</div>
 
 <br>
 
