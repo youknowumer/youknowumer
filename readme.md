@@ -425,7 +425,7 @@ Jul 2025
 ## 🔥 GitHub Streak Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youknowumer&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=youknowumer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
