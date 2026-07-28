@@ -204,19 +204,73 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 📜 Certifications & Professional Development
 
+## 📜 Certifications & Professional Development
+
 <div align="left">
 
-🏆 **Microsoft Power BI** — Data Analysis & Visualization | 🏢 UniAthena / Cambridge International | 📅 Apr 2025  
-⚙️ **IT Automation with Python** | 🏢 Google | 📅 Jun 2025 
-🌐 **WordPress** — Building Websites | 🏢 Coursera | 📅 Apr 2025  
-🎨 **Canva** — Graphic Design | 🏢 Simplilearn | 📅 Apr 2025  
-🏢 **SAP** — Managing Basic Business Scenarios | 🏢 SAP | 📅 Jun 2025  
-⚙️ **Odoo 14 Essentials** | 🏢 Odoo | 📅 Jun 2025  
-📋 **Foundations of Project Management** | 🏢 Google | 📅 Jul 2025 
-🔄 **Jira SCRUM Project** | 🏢 Coursera | 📅 Jul 2025 
-🤝 **Developing Interpersonal Skills** | 🏢 IBM | 📅 Jul 2025  
+🎓 <b>Microsoft Power BI</b>  
+&nbsp;&nbsp;&nbsp;Data Analysis & Visualization  
+&nbsp;&nbsp;&nbsp;🏢 UniAthena / Cambridge International  
+&nbsp;&nbsp;&nbsp;📅 April 2025  
+
+<br>
+
+🎓 <b>IT Automation with Python</b>  
+&nbsp;&nbsp;&nbsp;Data Analytics & Automation  
+&nbsp;&nbsp;&nbsp;🏢 Google  
+&nbsp;&nbsp;&nbsp;📅 June 2025  
+
+<br>
+
+🎓 <b>WordPress</b>  
+&nbsp;&nbsp;&nbsp;Building Websites  
+&nbsp;&nbsp;&nbsp;🏢 Coursera  
+&nbsp;&nbsp;&nbsp;📅 April 2025  
+
+<br>
+
+🎓 <b>Canva</b>  
+&nbsp;&nbsp;&nbsp;Graphic Design  
+&nbsp;&nbsp;&nbsp;🏢 Simplilearn  
+&nbsp;&nbsp;&nbsp;📅 April 2025  
+
+<br>
+
+🎓 <b>SAP</b>  
+&nbsp;&nbsp;&nbsp;Managing Basic Business Scenarios  
+&nbsp;&nbsp;&nbsp;🏢 SAP  
+&nbsp;&nbsp;&nbsp;📅 June 2025  
+
+<br>
+
+🎓 <b>Odoo 14 Essentials</b>  
+&nbsp;&nbsp;&nbsp;ERP Fundamentals & Business Workflows  
+&nbsp;&nbsp;&nbsp;🏢 Odoo  
+&nbsp;&nbsp;&nbsp;📅 June 2025  
+
+<br>
+
+🎓 <b>Foundations of Project Management</b>  
+&nbsp;&nbsp;&nbsp;Project Management Fundamentals  
+&nbsp;&nbsp;&nbsp;🏢 Google  
+&nbsp;&nbsp;&nbsp;📅 July 2025  
+
+<br>
+
+🎓 <b>Jira SCRUM Project</b>  
+&nbsp;&nbsp;&nbsp;Agile Workflow & Project Tracking  
+&nbsp;&nbsp;&nbsp;🏢 Coursera  
+&nbsp;&nbsp;&nbsp;📅 July 2025  
+
+<br>
+
+🎓 <b>Developing Interpersonal Skills</b>  
+&nbsp;&nbsp;&nbsp;Professional Communication & Collaboration  
+&nbsp;&nbsp;&nbsp;🏢 IBM  
+&nbsp;&nbsp;&nbsp;📅 July 2025  
 
 </div>
+
 <img src="divider.svg" alt="" width="100%" />
 
 ## 🔥 GitHub Streak Statistics
