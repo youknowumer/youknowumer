@@ -415,16 +415,16 @@ Mapped relationships between students, advisors, instructors, and departments vi
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/youknowumer" target="_blank"><img src="icon-github.svg" width="140" alt="GitHub" /></a>
+<a href="https://github.com/youknowumer" target="_blank"><img src="icon-github.svg" width="150" alt="GitHub" /></a>
 </td>
 <td align="center">
-<a href="https://www.linkedin.com/in/youknowumer/" target="_blank"><img src="icon-linkedin.svg" width="140" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/youknowumer/" target="_blank"><img src="icon-linkedin.svg" width="150" alt="LinkedIn" /></a>
 </td>
 <td align="center">
-<a href="mailto:umerfaheem632@gmail.com"><img src="icon-email.svg" width="140" alt="Email" /></a>
+<a href="mailto:umerfaheem632@gmail.com"><img src="icon-email.svg" width="150" alt="Email" /></a>
 </td>
 <td align="center">
-<a href="Muhammad_Umer_Faheem_CV.pdf" target="_blank"><img src="icon-resume.svg" width="140" alt="Resume" /></a>
+<a href="Muhammad_Umer_Faheem_CV.pdf" target="_blank"><img src="icon-resume.svg" width="150" alt="Resume" /></a>
 </td>
 </tr>
 </table>
