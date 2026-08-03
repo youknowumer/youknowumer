@@ -44,12 +44,20 @@
       <stop offset="0%" stop-color="var(--accent2)" stop-opacity="0.24"/>
       <stop offset="100%" stop-color="var(--accent2)" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="sweepBanner" x1="-40%" y1="0%" x2="-10%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-40%;140%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-10%;170%" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
     <clipPath id="cardClip"><rect width="1180" height="400" rx="24"/></clipPath>
     <clipPath id="avatarClip"><circle cx="0" cy="0" r="88"/></clipPath>
   </defs>
 
   <g clip-path="url(#cardClip)">
     <rect width="1180" height="400" fill="var(--bg)"/>
+    <rect width="1180" height="400" fill="url(#sweepBanner)"/>
 
     <!-- ambient glows -->
     <circle cx="120" cy="60" r="180" fill="url(#glow1)">
@@ -64,7 +72,7 @@
 
     <!-- ===== LEFT: content ===== -->
     <g>
-      <text x="56" y="108" font-size="32" font-weight="700" fill="var(--text)">Muhammad Umer Faheem</text>
+      <text x="56" y="108" font-size="32" font-weight="700" fill="var(--text)" opacity="0">Muhammad Umer Faheem<animate attributeName="opacity" begin="0.05s" dur="0.7s" fill="freeze" values="0;1"/></text>
 
       <g class="mono" font-size="16" fill="url(#accent)">
         <text x="56" y="140" opacity="0">
@@ -81,37 +89,37 @@
         </text>
       </g>
 
-      <text x="56" y="172" font-size="13.5" fill="var(--muted)">Turning digital strategy into user-centric, data-informed experiences.</text>
+      <text x="56" y="172" font-size="13.5" fill="var(--muted)" opacity="0">Turning digital strategy into user-centric, data-informed experiences.<animate attributeName="opacity" begin="0.55s" dur="0.7s" fill="freeze" values="0;1"/></text>
 
-      <text x="56" y="206" font-size="13" fill="var(--muted)">📍 Lahore, Pakistan &#160;&#160;&#160; 🎓 BBIS, University of Management &amp; Technology</text>
+      <text x="56" y="206" font-size="13" fill="var(--muted)" opacity="0">📍 Lahore, Pakistan &#160;&#160;&#160; 🎓 BBIS, University of Management &amp; Technology<animate attributeName="opacity" begin="0.7s" dur="0.7s" fill="freeze" values="0;1"/></text>
 
       <!-- skill pills -->
       <g class="mono" font-size="12.5" fill="var(--text)">
-        <g transform="translate(56,232)"><rect width="56" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="28" y="18" text-anchor="middle">HTML</text></g>
-        <g transform="translate(122,232)"><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">CSS</text></g>
-        <g transform="translate(181,232)"><rect width="42" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="21" y="18" text-anchor="middle">JS</text></g>
-        <g transform="translate(233,232)"><rect width="70" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="35" y="18" text-anchor="middle">Python</text></g>
-        <g transform="translate(313,232)"><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">SQL</text></g>
-        <g transform="translate(372,232)"><rect width="84" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="42" y="18" text-anchor="middle">Power BI</text></g>
-        <g transform="translate(466,232)"><rect width="63" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="31.5" y="18" text-anchor="middle">Figma</text></g>
-        <g transform="translate(539,232)"><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">Git</text></g>
-        <g transform="translate(598,232)"><rect width="91" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="45.5" y="18" text-anchor="middle">WordPress</text></g>
+        <g transform="translate(56,232)" opacity="0"><animate attributeName="opacity" begin="0.90s" dur="0.5s" fill="freeze" values="0;1"/><rect width="56" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="28" y="18" text-anchor="middle">HTML</text></g>
+        <g transform="translate(122,232)" opacity="0"><animate attributeName="opacity" begin="0.97s" dur="0.5s" fill="freeze" values="0;1"/><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">CSS</text></g>
+        <g transform="translate(181,232)" opacity="0"><animate attributeName="opacity" begin="1.04s" dur="0.5s" fill="freeze" values="0;1"/><rect width="42" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="21" y="18" text-anchor="middle">JS</text></g>
+        <g transform="translate(233,232)" opacity="0"><animate attributeName="opacity" begin="1.11s" dur="0.5s" fill="freeze" values="0;1"/><rect width="70" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="35" y="18" text-anchor="middle">Python</text></g>
+        <g transform="translate(313,232)" opacity="0"><animate attributeName="opacity" begin="1.18s" dur="0.5s" fill="freeze" values="0;1"/><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">SQL</text></g>
+        <g transform="translate(372,232)" opacity="0"><animate attributeName="opacity" begin="1.25s" dur="0.5s" fill="freeze" values="0;1"/><rect width="84" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="42" y="18" text-anchor="middle">Power BI</text></g>
+        <g transform="translate(466,232)" opacity="0"><animate attributeName="opacity" begin="1.32s" dur="0.5s" fill="freeze" values="0;1"/><rect width="63" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="31.5" y="18" text-anchor="middle">Figma</text></g>
+        <g transform="translate(539,232)" opacity="0"><animate attributeName="opacity" begin="1.39s" dur="0.5s" fill="freeze" values="0;1"/><rect width="49" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="24.5" y="18" text-anchor="middle">Git</text></g>
+        <g transform="translate(598,232)" opacity="0"><animate attributeName="opacity" begin="1.46s" dur="0.5s" fill="freeze" values="0;1"/><rect width="91" height="28" rx="14" fill="var(--pillBg)" stroke="var(--pillBorder)"/><text x="45.5" y="18" text-anchor="middle">WordPress</text></g>
       </g>
 
       <!-- socials -->
       <g transform="translate(56,290)">
         <g>
-          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"/>
+          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
           <path d="M15 6c-5 0-9 4-9 9 0 4 2.6 7.4 6.2 8.6.5.1.6-.2.6-.5v-1.7c-2.5.5-3-1.2-3-1.2-.4-1-1-1.3-1-1.3-.8-.6.1-.6.1-.6.9.1 1.4.9 1.4.9.8 1.4 2.2 1 2.7.8.1-.6.3-1 .6-1.2-2-.2-4.1-1-4.1-4.4 0-1 .3-1.7.9-2.4-.1-.2-.4-1.2.1-2.5 0 0 .7-.2 2.4.9.7-.2 1.4-.3 2.1-.3.7 0 1.4.1 2.1.3 1.7-1.1 2.4-.9 2.4-.9.5 1.3.2 2.3.1 2.5.6.7.9 1.4.9 2.4 0 3.4-2.1 4.2-4.1 4.4.3.3.6.8.6 1.6v2.4c0 .3.1.6.6.5C22.4 22.4 25 19 25 15c0-5-4.5-9-10-9z" transform="translate(1,1) scale(0.83)" fill="var(--text)"/>
           <text x="15" y="46" text-anchor="middle" font-size="10.5" fill="var(--muted)">GitHub</text>
         </g>
         <g transform="translate(88,0)">
-          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"/>
+          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" begin="0.40s" repeatCount="indefinite"/></circle>
           <text x="15" y="20" text-anchor="middle" font-size="13" font-weight="700" fill="var(--text)">in</text>
           <text x="15" y="46" text-anchor="middle" font-size="10.5" fill="var(--muted)">LinkedIn</text>
         </g>
         <g transform="translate(176,0)">
-          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"/>
+          <circle cx="15" cy="15" r="17" fill="var(--pillBg)" stroke="var(--pillBorder)"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" begin="0.80s" repeatCount="indefinite"/></circle>
           <path d="M7 11.5 15 17 23 11.5 M7 11 h16 v9 h-16 z" stroke="var(--text)" stroke-width="1.4" fill="none"/>
           <text x="15" y="46" text-anchor="middle" font-size="10.5" fill="var(--muted)">Email</text>
         </g>

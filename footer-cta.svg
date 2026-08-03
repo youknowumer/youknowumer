@@ -51,10 +51,11 @@
     </circle>
     <rect x="1.25" y="1.25" width="1177.5" height="137.5" rx="22.75" fill="none" stroke="url(#accentCTA)" stroke-opacity="0.55" stroke-width="1.5"/>
 
-    <g class="mono" font-size="12.5" fill="url(#accentCTA)" text-anchor="middle">
+    <g class="mono" font-size="12.5" fill="url(#accentCTA)" text-anchor="middle" opacity="0">
+      <animate attributeName="opacity" begin="0.1s" dur="0.7s" fill="freeze" values="0;1"/>
       <text x="590" y="52">&lt; LET'S BUILD SOMETHING GREAT /&gt;</text>
     </g>
-    <text x="590" y="90" font-size="26" font-weight="700" fill="var(--text)" text-anchor="middle">Open to Frontend, BI &amp; ERP Opportunities</text>
-    <text x="590" y="116" font-size="13.5" fill="var(--muted)" text-anchor="middle">Always glad to connect on new roles, internships, or collaborative projects tap an icon below.</text>
+    <text x="590" y="90" font-size="26" font-weight="700" fill="var(--text)" text-anchor="middle" opacity="0">Open to Frontend, BI &amp; ERP Opportunities<animate attributeName="opacity" begin="0.3s" dur="0.7s" fill="freeze" values="0;1"/></text>
+    <text x="590" y="116" font-size="13.5" fill="var(--muted)" text-anchor="middle" opacity="0">Always glad to connect on new roles, internships, or collaborative projects tap an icon below.<animate attributeName="opacity" begin="0.5s" dur="0.7s" fill="freeze" values="0;1"/></text>
   </g>
 </svg>
