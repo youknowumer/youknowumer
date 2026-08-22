@@ -1,0 +1,106 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --surface: #0b1120;
+      --surface2: #10141f;
+      --border: rgba(255,255,255,0.09);
+      --border2: #20263a;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+      --muted2: #64748B;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+      --accent4: #F59E0B;
+      --accent5: #FB7185;
+      --pillBg: rgba(255,255,255,0.05);
+      --pillBorder: rgba(255,255,255,0.14);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --surface: #F8FAFC;
+        --surface2: #F1F5F9;
+        --border: rgba(15,23,42,0.09);
+        --border2: #E2E8F0;
+        --text: #0F172A;
+        --muted: #64748B;
+        --muted2: #94A3B8;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #059669;
+        --accent4: #D97706;
+        --accent5: #E11D48;
+        --pillBg: rgba(15,23,42,0.035);
+        --pillBorder: rgba(15,23,42,0.14);
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+</style>
+  <defs>
+    <linearGradient id="accentG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="50%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="cardTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridP" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+<linearGradient id="metalBody" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#2b3350"/>
+  <stop offset="45%" stop-color="#1a2036"/>
+  <stop offset="100%" stop-color="#10131f"/>
+</linearGradient>
+<linearGradient id="metalHead" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#343d5c"/>
+  <stop offset="50%" stop-color="#1e2438"/>
+  <stop offset="100%" stop-color="#12151f"/>
+</linearGradient>
+<linearGradient id="visor" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#7C3AED"/>
+  <stop offset="50%" stop-color="#22D3EE"/>
+  <stop offset="100%" stop-color="#10B981"/>
+</linearGradient>
+<radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowGrad" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.55"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="limbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#2b3350"/>
+  <stop offset="100%" stop-color="#151a29"/>
+</linearGradient>
+<filter id="robotGlow" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+
+  </defs>
+  <rect x="0" y="0" width="1280" height="420" rx="20" fill="var(--bg)"/>
+  <rect x="0" y="0" width="1280" height="420" rx="20" fill="url(#gridP)"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="418.5" rx="19.5" fill="none" stroke="var(--border2)" stroke-width="1.2"/>
+<text x="40" y="42" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="var(--muted)">SYSTEM STATUS</text>
+<text x="1240" y="42" text-anchor="end" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="11.5" fill="var(--muted)">ONLINE · READY TO COLLABORATE</text>
+<circle cx="200" cy="120" r="180" fill="#7C3AED" opacity="0.07" filter="url(#softGlow)"/><circle cx="1080" cy="320" r="200" fill="#22D3EE" opacity="0.06" filter="url(#softGlow)"/><g><animateTransform attributeName="transform" type="rotate" from="0 220 240" to="360 220 240" dur="9s" repeatCount="indefinite"/><circle cx="340" cy="240" r="3.4" fill="#7C3AED" opacity="0.85"><animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.4s" repeatCount="indefinite"/></circle></g><g><animateTransform attributeName="transform" type="rotate" from="0 220 240" to="-360 220 240" dur="13s" repeatCount="indefinite"/><circle cx="370" cy="240" r="2.6" fill="#22D3EE" opacity="0.85"><animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.4s" repeatCount="indefinite"/></circle></g><g><animateTransform attributeName="transform" type="rotate" from="0 220 240" to="360 220 240" dur="7s" repeatCount="indefinite"/><circle cx="315" cy="240" r="2.2" fill="#10B981" opacity="0.85"><animate attributeName="opacity" values="0.85;0.25;0.85" dur="2.4s" repeatCount="indefinite"/></circle></g><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="3.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/><ellipse cx="220" cy="352" rx="72" ry="14" fill="url(#shadowGrad)"><animate attributeName="rx" values="72;58;72" dur="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0.5;0.9" dur="3.6s" repeatCount="indefinite"/></ellipse><line x1="220" y1="144" x2="220" y2="116" stroke="#3a4468" stroke-width="4" stroke-linecap="round"/><circle cx="220" cy="112" r="6" fill="url(#visor)" filter="url(#robotGlow)"><animate attributeName="opacity" values="1;0.35;1" dur="1.4s" repeatCount="indefinite"/></circle><clipPath id="headClip"><rect x="161.0" y="144" width="118" height="92" rx="26"/></clipPath><rect x="161.0" y="144" width="118" height="92" rx="26" fill="url(#metalHead)" stroke="#3a4468" stroke-width="2"/><g clip-path="url(#headClip)"><rect x="167.0" y="149" width="106" height="18" rx="9" fill="#ffffff" opacity="0.06"/></g><rect x="175.0" y="170" width="90" height="40" rx="14" fill="#060a14" stroke="url(#visor)" stroke-width="2"/><clipPath id="visorClip"><rect x="175.0" y="170" width="90" height="40" rx="14"/></clipPath><g clip-path="url(#visorClip)"><rect x="155.0" y="170" width="18" height="40" fill="url(#visor)" opacity="0.5"><animate attributeName="x" values="155.0;267.0" dur="2.4s" repeatCount="indefinite"/></rect></g><circle cx="202.0" cy="190.0" r="10" fill="url(#eyeGlow)"/><circle cx="202.0" cy="190.0" r="5.5" fill="#22D3EE"><animate attributeName="ry" values="5.5;5.5;0.6;5.5;5.5" keyTimes="0;0.9;0.95;1;1" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="238.0" cy="190.0" r="10" fill="url(#eyeGlow)"/><circle cx="238.0" cy="190.0" r="5.5" fill="#22D3EE"><animate attributeName="ry" values="5.5;5.5;0.6;5.5;5.5" keyTimes="0;0.9;0.95;1;1" dur="4s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="159.0" cy="190.0" r="6" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><circle cx="281.0" cy="190.0" r="6" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><rect x="210" y="232" width="20" height="14" fill="url(#limbGrad)"/><clipPath id="torsoClip"><rect x="146.0" y="244" width="148" height="110" rx="22"/></clipPath><rect x="146.0" y="244" width="148" height="110" rx="22" fill="url(#metalBody)" stroke="#3a4468" stroke-width="2"/><g clip-path="url(#torsoClip)"><rect x="154.0" y="250" width="132" height="14" rx="7" fill="#ffffff" opacity="0.05"/><rect x="146.0" y="244" width="16" height="110" fill="#000000" opacity="0.18"/><rect x="278.0" y="244" width="16" height="110" fill="#000000" opacity="0.18"/></g><circle cx="220" cy="295.0" r="34" fill="none" stroke="url(#visor)" stroke-width="2" opacity="0.5"><animate attributeName="r" values="34;40;34" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0.1;0.55" dur="2.6s" repeatCount="indefinite"/></circle><circle cx="220" cy="295.0" r="26" fill="#060a14" stroke="url(#visor)" stroke-width="2.5"/><circle cx="220" cy="295.0" r="10" fill="url(#visor)" filter="url(#robotGlow)"><animate attributeName="opacity" values="1;0.5;1" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="170.0" cy="340" r="4" fill="#7C3AED"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="186.0" cy="340" r="4" fill="#22D3EE"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="0.3s" repeatCount="indefinite"/></circle><circle cx="202.0" cy="340" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" begin="0.6s" repeatCount="indefinite"/></circle><g transform="translate(140.0,260)"><animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" dur="2.8s" repeatCount="indefinite" additive="sum"/><rect x="-16" y="0" width="16" height="62" rx="8" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><circle cx="-8.0" cy="68" r="9" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/></g><g transform="translate(300.0,254)"><animateTransform attributeName="transform" type="rotate" values="10 0 0;-25 0 0;10 0 0" dur="1.8s" repeatCount="indefinite" additive="sum"/><rect x="0" y="0" width="16" height="62" rx="8" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><circle cx="8.0" cy="68" r="9" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/></g><rect x="186" y="350" width="20" height="34" rx="8" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><rect x="234" y="350" width="20" height="34" rx="8" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><rect x="180" y="382" width="32" height="10" rx="5" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/><rect x="228" y="382" width="32" height="10" rx="5" fill="url(#limbGrad)" stroke="#3a4468" stroke-width="1.5"/></g><g opacity="0" transform="translate(0,14)"><animate attributeName="opacity" begin="0.10s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.10s" dur="0.6s" fill="freeze" values="0 14;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="460" y="76" width="780" height="300" rx="18" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="460" y="76" width="780" height="300" rx="18" fill="url(#cardTop)"/><rect x="460" y="76" width="5" height="300" rx="2.5" fill="var(--accent2)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.10s" repeatCount="indefinite"/></rect>
+<text x="490" y="116" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="var(--text)">Hey, I’m building the future — one workflow at a time.</text><text x="490" y="142" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12.5" fill="var(--muted)">Frontend interfaces, BI dashboards, and ERP systems,</text><text x="490" y="162" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12.5" fill="var(--muted)">engineered with precision and a product mindset.</text><rect x="490.00" y="184" width="73.80" height="52" rx="12" fill="var(--surface)" stroke="var(--accent3)" stroke-opacity="0.4" stroke-width="1"/><text x="507.00" y="204" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="var(--muted)">UPTIME</text><text x="507.00" y="226" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="var(--accent3)">99.9%</text><rect x="575.80" y="184" width="87.41" height="52" rx="12" fill="var(--surface)" stroke="var(--accent1)" stroke-opacity="0.4" stroke-width="1"/><text x="592.80" y="204" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="var(--muted)">MODE</text><text x="592.80" y="226" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="var(--accent1)">COLLAB</text><rect x="675.22" y="184" width="95.76" height="52" rx="12" fill="var(--surface)" stroke="var(--accent4)" stroke-opacity="0.4" stroke-width="1"/><text x="692.22" y="204" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="var(--muted)">FOCUS</text><text x="692.22" y="226" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="14" font-weight="700" fill="var(--accent4)">SHIPPING</text><text x="490" y="272" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="var(--muted)">CORE MODULES</text><circle cx="494.0" cy="294" r="3" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="506.00" y="298.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" fill="var(--text)">Frontend Engineering</text><circle cx="854.0" cy="294" r="3" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.15s" repeatCount="indefinite"/></circle>
+<text x="866.00" y="298.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" fill="var(--text)">Business Intelligence</text><circle cx="494.0" cy="328" r="3" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.30s" repeatCount="indefinite"/></circle>
+<text x="506.00" y="332.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" fill="var(--text)">ERP Implementation</text><circle cx="854.0" cy="328" r="3" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.6s" begin="0.45s" repeatCount="indefinite"/></circle>
+<text x="866.00" y="332.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" fill="var(--text)">UI / UX Design</text></g>
+</svg>

@@ -46,6 +46,16 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 <img src="divider.svg" alt="" width="100%" />
 
+## 🤖 System Status
+
+<div align="center">
+<img src="robot.svg" alt="Animated robotic status mascot — online and ready to collaborate" width="100%" />
+</div>
+
+<br>
+
+<img src="divider.svg" alt="" width="100%" />
+
 ## 🟣 Skills
 
 <div align="center">
