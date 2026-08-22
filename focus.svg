@@ -1,0 +1,96 @@
+<svg width="1280" height="480" viewBox="0 0 1280 480" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --surface: #0b1120;
+      --surface2: #10141f;
+      --border: rgba(255,255,255,0.09);
+      --border2: #20263a;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+      --muted2: #64748B;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+      --accent4: #F59E0B;
+      --accent5: #FB7185;
+      --pillBg: rgba(255,255,255,0.05);
+      --pillBorder: rgba(255,255,255,0.14);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --surface: #F8FAFC;
+        --surface2: #F1F5F9;
+        --border: rgba(15,23,42,0.09);
+        --border2: #E2E8F0;
+        --text: #0F172A;
+        --muted: #64748B;
+        --muted2: #94A3B8;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #059669;
+        --accent4: #D97706;
+        --accent5: #E11D48;
+        --pillBg: rgba(15,23,42,0.035);
+        --pillBorder: rgba(15,23,42,0.14);
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+</style>
+  <defs>
+    <linearGradient id="accentG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="50%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="cardTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridP" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+  </defs>
+  <rect x="0" y="0" width="1280" height="480" rx="20" fill="var(--bg)"/>
+  <rect x="0" y="0" width="1280" height="480" rx="20" fill="url(#gridP)"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="478.5" rx="19.5" fill="none" stroke="var(--border2)" stroke-width="1.2"/>
+<circle cx="1220" cy="40" r="170" fill="#F59E0B" opacity="0.05" filter="url(#softGlow)"/><circle cx="40" cy="440" r="160" fill="#10B981" opacity="0.05" filter="url(#softGlow)"/><text x="40" y="42" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="var(--muted)">CURRENT FOCUS</text>
+<text x="1240" y="42" text-anchor="end" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="11.5" fill="var(--muted)">LEARN · BUILD · EXPLORE · CONNECT</text>
+<g opacity="0" transform="translate(0,14)"><animate attributeName="opacity" begin="0.00s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.00s" dur="0.6s" fill="freeze" values="0 14;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40.00" y="76" width="288.00" height="364" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40.00" y="76" width="288.00" height="364" rx="16" fill="url(#cardTop)"/><rect x="40.0" y="76" width="5" height="364" rx="2.5" fill="var(--accent4)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="73.00" cy="109.00" r="17" fill="var(--pillBg)" stroke="var(--accent4)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(62.00,98.00) scale(0.78)" fill="none" stroke="var(--accent4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 4 2 10l10 6 10-6z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></g><text x="98.00" y="114" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="var(--text)">LEARNING</text><circle cx="67.0" cy="146" r="2.2" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="78.00" y="150.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Advanced JavaScript &amp; modern</text><text x="78.00" y="166.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">frontend frameworks</text><circle cx="67.0" cy="185.5" r="2.2" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.10s" repeatCount="indefinite"/></circle>
+<text x="78.00" y="189.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Deeper SQL &amp; data modeling for BI</text><circle cx="67.0" cy="208.5" r="2.2" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.20s" repeatCount="indefinite"/></circle>
+<text x="78.00" y="212.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">ERP functional workflows &amp;</text><text x="78.00" y="229.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">process optimization</text><circle cx="67.0" cy="248.0" r="2.2" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.30s" repeatCount="indefinite"/></circle>
+<text x="78.00" y="252.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Dashboard storytelling techniques</text><circle cx="67.0" cy="271.0" r="2.2" fill="var(--accent4)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.40s" repeatCount="indefinite"/></circle>
+<text x="78.00" y="275.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Advanced reporting &amp; decision</text><text x="78.00" y="291.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">support systems</text></g>
+<g opacity="0" transform="translate(0,14)"><animate attributeName="opacity" begin="0.08s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.08s" dur="0.6s" fill="freeze" values="0 14;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="344.00" y="76" width="288.00" height="364" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="344.00" y="76" width="288.00" height="364" rx="16" fill="url(#cardTop)"/><rect x="344.0" y="76" width="5" height="364" rx="2.5" fill="var(--accent1)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.08s" repeatCount="indefinite"/></rect>
+<circle cx="377.00" cy="109.00" r="17" fill="var(--pillBg)" stroke="var(--accent1)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(366.00,98.00) scale(0.78)" fill="none" stroke="var(--accent1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></g><text x="402.00" y="114" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="var(--text)">BUILDING</text><circle cx="371.0" cy="146" r="2.2" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="382.00" y="150.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Artisan Aura Creations</text><text x="382.00" y="166.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">(Odoo ERP capstone)</text><circle cx="371.0" cy="185.5" r="2.2" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.10s" repeatCount="indefinite"/></circle>
+<text x="382.00" y="189.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Personal portfolio &amp; frontend</text><text x="382.00" y="206.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">projects</text><circle cx="371.0" cy="225.0" r="2.2" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.20s" repeatCount="indefinite"/></circle>
+<text x="382.00" y="229.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Custom ERP modules &amp; business</text><text x="382.00" y="245.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">workflow solutions</text><circle cx="371.0" cy="264.5" r="2.2" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.30s" repeatCount="indefinite"/></circle>
+<text x="382.00" y="268.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Interactive BI dashboards</text><circle cx="371.0" cy="287.5" r="2.2" fill="var(--accent1)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.40s" repeatCount="indefinite"/></circle>
+<text x="382.00" y="291.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Data-driven analytics apps</text></g>
+<g opacity="0" transform="translate(0,14)"><animate attributeName="opacity" begin="0.16s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.16s" dur="0.6s" fill="freeze" values="0 14;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="648.00" y="76" width="288.00" height="364" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="648.00" y="76" width="288.00" height="364" rx="16" fill="url(#cardTop)"/><rect x="648.0" y="76" width="5" height="364" rx="2.5" fill="var(--accent2)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.16s" repeatCount="indefinite"/></rect>
+<circle cx="681.00" cy="109.00" r="17" fill="var(--pillBg)" stroke="var(--accent2)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(670.00,98.00) scale(0.78)" fill="none" stroke="var(--accent2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></g><text x="706.00" y="114" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="var(--text)">EXPLORING</text><circle cx="675.0" cy="146" r="2.2" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="686.00" y="150.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Computer vision data pipelines</text><text x="686.00" y="166.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">(YOLO / COCO)</text><circle cx="675.0" cy="185.5" r="2.2" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.10s" repeatCount="indefinite"/></circle>
+<text x="686.00" y="189.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">ERP-driven business process</text><text x="686.00" y="206.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">automation</text><circle cx="675.0" cy="225.0" r="2.2" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.20s" repeatCount="indefinite"/></circle>
+<text x="686.00" y="229.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">BI solutions &amp; KPI dashboards</text><circle cx="675.0" cy="248.0" r="2.2" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.30s" repeatCount="indefinite"/></circle>
+<text x="686.00" y="252.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Data cleaning &amp; transformation</text><text x="686.00" y="268.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">pipelines</text><circle cx="675.0" cy="287.5" r="2.2" fill="var(--accent2)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.40s" repeatCount="indefinite"/></circle>
+<text x="686.00" y="291.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">AI-assisted enterprise automation</text></g>
+<g opacity="0" transform="translate(0,14)"><animate attributeName="opacity" begin="0.24s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.24s" dur="0.6s" fill="freeze" values="0 14;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="952.00" y="76" width="288.00" height="364" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="952.00" y="76" width="288.00" height="364" rx="16" fill="url(#cardTop)"/><rect x="952.0" y="76" width="5" height="364" rx="2.5" fill="var(--accent3)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.24s" repeatCount="indefinite"/></rect>
+<circle cx="985.00" cy="109.00" r="17" fill="var(--pillBg)" stroke="var(--accent3)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(974.00,98.00) scale(0.78)" fill="none" stroke="var(--accent3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></g><text x="1010.00" y="114" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="var(--text)">OPEN TO</text><circle cx="979.0" cy="146" r="2.2" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="990.00" y="150.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Frontend Development roles</text><circle cx="979.0" cy="169.0" r="2.2" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.10s" repeatCount="indefinite"/></circle>
+<text x="990.00" y="173.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">BI / Data Analyst roles</text><circle cx="979.0" cy="192.0" r="2.2" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.20s" repeatCount="indefinite"/></circle>
+<text x="990.00" y="196.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">ERP Development &amp; Functional</text><text x="990.00" y="212.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Consultant roles</text><circle cx="979.0" cy="231.5" r="2.2" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.30s" repeatCount="indefinite"/></circle>
+<text x="990.00" y="235.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Data Viz &amp; Dashboard</text><text x="990.00" y="252.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Development projects</text><circle cx="979.0" cy="271.0" r="2.2" fill="var(--accent3)"><animate attributeName="opacity" values="1;0.35;1" dur="2.8s" begin="0.40s" repeatCount="indefinite"/></circle>
+<text x="990.00" y="275.00" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Freelance &amp; Engineering</text><text x="990.00" y="291.50" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Solutions projects</text></g>
+</svg>

@@ -31,7 +31,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 - 🎨 Frontend development with HTML, CSS, JavaScript (Basic), WordPress & Figma
 - 📊 Business Intelligence & data visualization using **Power BI**, **SQL**, and **Oracle DB**
 - 🏢 Enterprise systems experience with **Odoo ERP** and **SAP ERP** (Financial & Supply Chain)
-- 🎬 Creative & design toolkit  Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
+- 🎬 Creative & design toolkit — Canva, Photoshop, Illustrator, Premiere Pro, After Effects, Audition, Draw.io
 - 🧩 Detail-oriented, collaborative, and outcome-driven across academic and real-world projects
 
 **🟢 Open To:** Frontend Development Roles · Business Intelligence & Data Analyst Roles · ERP/CRM Implementation · Internships & Junior Engineering Positions
@@ -39,14 +39,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <br>
 
 <div align="center">
-
-| | |
-|:--|:--|
-| 🎓 **Education** | BBIS, University of Management and Technology  Nov 2022 – Aug 2026 |
-| 🚀 **Capstone** | *Artisan Aura Creations*  Odoo ERP powered sustainable leather goods brand, 1 of 3 projects selected for ICAISAI'26 exhibition |
-| 📍 **Location** | Lahore, Pakistan |
-| 💬 **Languages** | English (fluent) · Urdu (fluent) |
-
+<img src="quick-facts.svg" alt="At a glance — Location, Education, Capstone, Languages, Status" width="100%" />
 </div>
 
 <br>
@@ -79,6 +72,16 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 
 ## 💼 Professional Experience
 
+<div align="center">
+<img src="timeline.svg" alt="Professional experience timeline — Tara Technologies, MGA Industries, Nex Pred Solutions" width="100%" />
+</div>
+
+<br>
+
+<details>
+<summary><b>📄 Expand full role details</b></summary>
+<br/>
+
 <table width="100%">
 <tr>
 <td width="30%" valign="top">
@@ -94,7 +97,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <td valign="top">
   Engineered responsive, user-centric web interfaces for live client projects, translating high-fidelity designs from <b>Figma</b>, <b>Photoshop</b>, and <b>Illustrator</b> into production-ready <b>HTML</b> and <b>CSS</b>.
   <br><br>
-  Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows  participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
+  Collaborated cross-functionally with the engineering team through <b>Git/GitHub</b> version control workflows — participating in code reviews and iterative UI refinements to ensure pixel-perfect, cross-browser consistency.
 </td>
 </tr>
 
@@ -112,7 +115,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
   <img src="https://img.shields.io/badge/-Payroll-2E8B57?style=flat-square" />
 </td>
 <td valign="top">
-  Drove end-to-end talent acquisition for a manufacturing enterprise  including CV screening, candidate shortlisting, and interview coordination  resulting in streamlined hiring turnaround.
+  Drove end-to-end talent acquisition for a manufacturing enterprise — including CV screening, candidate shortlisting, and interview coordination — resulting in streamlined hiring turnaround.
   <br><br>
   Managed new-hire onboarding and maintained accurate, audit-ready employee records within the <b>Oracle HR</b> database, while processing payroll data and monitoring regulatory compliance to ensure data integrity across HR operations.
 </td>
@@ -134,10 +137,12 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 <td valign="top">
   Built and curated high-quality video datasets to support computer vision model training, performing systematic video filtration and frame extraction at scale.
   <br><br>
-  Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, managed structured labeling workflows in <b>CVAT</b>, and conducted rigorous validation and QA checks  directly improving the reliability and performance of downstream ML models.
+  Executed precise annotation conversions between <b>YOLO</b> and <b>COCO</b> formats, managed structured labeling workflows in <b>CVAT</b>, and conducted rigorous validation and QA checks — directly improving the reliability and performance of downstream ML models.
 </td>
 </tr>
 </table>
+
+</details>
 
 <br>
 
@@ -146,7 +151,7 @@ I'm an ambitious **BBIS (Bachelor of Business Information Systems)** student at 
 ## 🟣 Featured Projects
 
 <details open>
-<summary><b>🛍️ Artisan Aura Creations  Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
+<summary><b>🛍️ Artisan Aura Creations — Sustainable Leather Goods Brand (Odoo ERP)</b></summary>
 <br/>
 
 Capstone & exhibition project: a direct-to-consumer brand redefining sustainable, ethically sourced leather goods, selected as one of only 3 projects exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals.
@@ -161,7 +166,7 @@ Capstone & exhibition project: a direct-to-consumer brand redefining sustainable
 | **Vision** | Grow into a global leader in ethical luxury, setting new standards for responsible craftsmanship |
 | **Repository** | Available upon request |
 
-Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion  with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
+Designed end-to-end workflows across procurement, marketing, and production while championing eco-conscious, ethically sourced fashion — with a long-term vision of scaling into a global leader in ethical luxury craftsmanship.
 
 </details>
 
@@ -190,13 +195,9 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 🟣 Awards & Recognition
 
-| | |
-|:--|:--|
-| 🥇 **Project Exhibition Selectee** | ICAISAI'26, HSM UMT  1 of only 3 projects selected for exhibition; evaluated by a DevOps & Cloud industry expert from Nex Skill |
-| 🧩 **Capstone Project Lead** | Artisan Aura Creations, UMT  built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales, and Inventory |
-| ⭐ **Recognized Intern** | Tara Technologies Pvt. Ltd.  recognized for UI/UX design and front-end contributions on live client projects |
-| 📜 **Multi-Platform Certified** | Google, Microsoft, IBM, SAP, Coursera, Simplilearn  certifications in IT Automation, Power BI, SAP, ERP, and Project Management |
-| 👥 **Team Leader** | Academic Design & Tech Projects  led university teams through interface design, user journey mapping, and cross-functional delivery |
+<div align="center">
+<img src="awards.svg" alt="Awards and recognition" width="100%" />
+</div>
 
 <br>
 
@@ -205,151 +206,7 @@ Mapped relationships between students, advisors, instructors, and departments vi
 ## 📜 Certifications & Professional Development
 
 <div align="center">
-
-<table width="110%">
-
-<tr>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>April 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Microsoft Power BI</b><br>
-📊 Data Analysis & Visualization<br>
-🏢 UniAthena / Cambridge International
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>June 2025</b>
-</div>
-
-<br>
-
-🎓 <b>IT Automation with Python</b><br>
-⚙️ Data Analytics & Automation<br>
-🏢 Google
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>April 2025</b>
-</div>
-
-<br>
-
-🎓 <b>WordPress</b><br>
-🌐 Building Websites<br>
-🏢 Coursera
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>April 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Canva</b><br>
-🎨 Graphic Design<br>
-🏢 Simplilearn
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>June 2025</b>
-</div>
-
-<br>
-
-🎓 <b>SAP</b><br>
-🏢 Managing Basic Business Scenarios<br>
-🏢 SAP
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>June 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Odoo 14 Essentials</b><br>
-⚙️ ERP Fundamentals & Business Workflows<br>
-🏢 Odoo
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>July 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Foundations of Project Management</b><br>
-📋 Project Management Fundamentals<br>
-🏢 Google
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>July 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Jira SCRUM Project</b><br>
-🔄 Agile Workflow & Project Tracking<br>
-🏢 Coursera
-
-</td>
-
-<td width="33%" valign="top" style="padding:22px;">
-
-<div align="center">
-🏅 <b>July 2025</b>
-</div>
-
-<br>
-
-🎓 <b>Developing Interpersonal Skills</b><br>
-🤝 Professional Communication & Collaboration<br>
-🏢 IBM
-
-</td>
-
-</tr>
-
-</table>
-
+<img src="certifications.svg" alt="Certifications and professional development" width="100%" />
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
@@ -368,44 +225,10 @@ Mapped relationships between students, advisors, instructors, and departments vi
 
 ## 🟣 Current Focus
 
-<div align="left">
-
-<h3 style="color:#FF9900;">📚 Learning</h3>
-
-- <span style="color:#C9D1D9;">Advanced JavaScript & modern frontend frameworks</span>
-- <span style="color:#C9D1D9;">Deeper SQL & data modeling for BI</span>
-- <span style="color:#C9D1D9;">ERP functional workflows and business process optimization</span>
-- <span style="color:#C9D1D9;">Data visualization techniques and dashboard storytelling</span>
-- <span style="color:#C9D1D9;">Advanced reporting, analytics, and decision-support systems</span>
-
-
-<h3 style="color:#FF9900;">🛠️ Building</h3>
-
-- <span style="color:#C9D1D9;">Artisan Aura Creations (Odoo ERP capstone)</span>
-- <span style="color:#C9D1D9;">Personal portfolio & frontend projects</span>
-- <span style="color:#C9D1D9;">Custom ERP modules and business workflow solutions</span>
-- <span style="color:#C9D1D9;">Interactive dashboards using data visualization tools</span>
-- <span style="color:#C9D1D9;">Data-driven applications integrating analytics and reporting</span>
-
-
-<h3 style="color:#FF9900;">🔍 Exploring</h3>
-
-- <span style="color:#C9D1D9;">Computer vision data pipelines (YOLO/COCO)</span>
-- <span style="color:#C9D1D9;">ERP-driven business process automation</span>
-- <span style="color:#C9D1D9;">Business intelligence solutions and KPI dashboards</span>
-- <span style="color:#C9D1D9;">Data cleaning, transformation, and analytical pipelines</span>
-- <span style="color:#C9D1D9;">AI-assisted automation for enterprise workflows</span>
-
-
-<h3 style="color:#FF9900;">🚀 Open To</h3>
-
-- <span style="color:#C9D1D9;">Frontend Development roles</span>
-- <span style="color:#C9D1D9;">Business Intelligence / Data Analyst roles</span>
-- <span style="color:#C9D1D9;">ERP Development & Functional Consultant opportunities</span>
-- <span style="color:#C9D1D9;">Data Visualization & Dashboard Development projects</span>
-- <span style="color:#C9D1D9;">Engineering Solutions, Projects & Freelance Opportunities</span>
-
+<div align="center">
+<img src="focus.svg" alt="Current focus — learning, building, exploring, open to" width="100%" />
 </div>
+
 <img src="divider.svg" alt="" width="100%" />
 
 <div align="center">

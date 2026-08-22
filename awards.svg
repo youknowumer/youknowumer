@@ -1,0 +1,78 @@
+<svg width="1280" height="584" viewBox="0 0 1280 584" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      --bg: #030712;
+      --surface: #0b1120;
+      --surface2: #10141f;
+      --border: rgba(255,255,255,0.09);
+      --border2: #20263a;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+      --muted2: #64748B;
+      --accent1: #7C3AED;
+      --accent2: #22D3EE;
+      --accent3: #10B981;
+      --accent4: #F59E0B;
+      --accent5: #FB7185;
+      --pillBg: rgba(255,255,255,0.05);
+      --pillBorder: rgba(255,255,255,0.14);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF;
+        --surface: #F8FAFC;
+        --surface2: #F1F5F9;
+        --border: rgba(15,23,42,0.09);
+        --border2: #E2E8F0;
+        --text: #0F172A;
+        --muted: #64748B;
+        --muted2: #94A3B8;
+        --accent1: #2563EB;
+        --accent2: #06B6D4;
+        --accent3: #059669;
+        --accent4: #D97706;
+        --accent5: #E11D48;
+        --pillBg: rgba(15,23,42,0.035);
+        --pillBorder: rgba(15,23,42,0.14);
+      }
+    }
+    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+</style>
+  <defs>
+    <linearGradient id="accentG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--accent1)"/>
+      <stop offset="50%" stop-color="var(--accent2)"/>
+      <stop offset="100%" stop-color="var(--accent3)"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="cardTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="gridP" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+  </defs>
+  <rect x="0" y="0" width="1280" height="584" rx="20" fill="var(--bg)"/>
+  <rect x="0" y="0" width="1280" height="584" rx="20" fill="url(#gridP)"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="582.5" rx="19.5" fill="none" stroke="var(--border2)" stroke-width="1.2"/>
+<circle cx="60" cy="40" r="160" fill="#F59E0B" opacity="0.05" filter="url(#softGlow)"/><circle cx="1220" cy="544" r="160" fill="#7C3AED" opacity="0.05" filter="url(#softGlow)"/><text x="40" y="42" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="var(--muted)">AWARDS &amp; RECOGNITION</text>
+<text x="1240" y="42" text-anchor="end" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="11.5" fill="var(--muted)">5 HIGHLIGHTS</text>
+<g opacity="0" transform="translate(0,12)"><animate attributeName="opacity" begin="0.00s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.00s" dur="0.6s" fill="freeze" values="0 12;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40" y="76" width="1200" height="84" rx="14" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40" y="76" width="1200" height="84" rx="14" fill="url(#cardTop)"/><rect x="40" y="76" width="5" height="84" rx="2.5" fill="var(--accent4)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="75.00" cy="118.00" r="19" fill="var(--pillBg)" stroke="var(--accent4)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(64.00,107.00) scale(0.86)" fill="none" stroke="var(--accent4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15l-5.5 3 1.5-6L3 8l6-.5L12 2l3 5.5 6 .5-5 4 1.5 6z"/></g><text x="108" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Project Exhibition Selectee</text><rect x="108.00" y="114" width="153.29" height="19" rx="9.5" fill="var(--pillBg)" stroke="var(--accent4)" stroke-opacity="0.4" stroke-width="1"/><text x="184.65" y="127.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" fill="var(--accent4)">ICAISAI’26, HSM — UMT</text><text x="108" y="146" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">1 of only 3 projects selected for exhibition; evaluated by a DevOps &amp; Cloud industry expert from Nex Skill.</text></g>
+<g opacity="0" transform="translate(0,12)"><animate attributeName="opacity" begin="0.07s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.07s" dur="0.6s" fill="freeze" values="0 12;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40" y="172" width="1200" height="84" rx="14" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40" y="172" width="1200" height="84" rx="14" fill="url(#cardTop)"/><rect x="40" y="172" width="5" height="84" rx="2.5" fill="var(--accent1)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.07s" repeatCount="indefinite"/></rect>
+<circle cx="75.00" cy="214.00" r="19" fill="var(--pillBg)" stroke="var(--accent1)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(64.00,203.00) scale(0.86)" fill="none" stroke="var(--accent1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"/><path d="M16 8L2 22"/><path d="M17.5 15H9"/></g><text x="108" y="202" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Capstone Project Lead</text><rect x="108.00" y="210" width="170.59" height="19" rx="9.5" fill="var(--pillBg)" stroke="var(--accent1)" stroke-opacity="0.4" stroke-width="1"/><text x="193.30" y="223.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" fill="var(--accent1)">Artisan Aura Creations, UMT</text><text x="108" y="242" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Built a full-scale Odoo ERP system for a sustainable leather brand, integrating CRM, HR, Sales &amp; Inventory.</text></g>
+<g opacity="0" transform="translate(0,12)"><animate attributeName="opacity" begin="0.14s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.14s" dur="0.6s" fill="freeze" values="0 12;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40" y="268" width="1200" height="84" rx="14" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40" y="268" width="1200" height="84" rx="14" fill="url(#cardTop)"/><rect x="40" y="268" width="5" height="84" rx="2.5" fill="var(--accent2)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.14s" repeatCount="indefinite"/></rect>
+<circle cx="75.00" cy="310.00" r="19" fill="var(--pillBg)" stroke="var(--accent2)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(64.00,299.00) scale(0.86)" fill="none" stroke="var(--accent2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3 7h7l-5.5 4.5L18 21l-6-4-6 4 1.5-7.5L2 9h7z"/></g><text x="108" y="298" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Recognized Intern</text><rect x="108.00" y="306" width="162.73" height="19" rx="9.5" fill="var(--pillBg)" stroke="var(--accent2)" stroke-opacity="0.4" stroke-width="1"/><text x="189.36" y="319.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" fill="var(--accent2)">Tara Technologies Pvt. Ltd.</text><text x="108" y="338" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Recognized for UI/UX design and front-end contributions on live client projects.</text></g>
+<g opacity="0" transform="translate(0,12)"><animate attributeName="opacity" begin="0.21s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.21s" dur="0.6s" fill="freeze" values="0 12;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40" y="364" width="1200" height="84" rx="14" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40" y="364" width="1200" height="84" rx="14" fill="url(#cardTop)"/><rect x="40" y="364" width="5" height="84" rx="2.5" fill="var(--accent3)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.21s" repeatCount="indefinite"/></rect>
+<circle cx="75.00" cy="406.00" r="19" fill="var(--pillBg)" stroke="var(--accent3)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(64.00,395.00) scale(0.86)" fill="none" stroke="var(--accent3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"/><path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12"/></g><text x="108" y="394" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Multi-Platform Certified</text><rect x="108.00" y="402" width="312.04" height="19" rx="9.5" fill="var(--pillBg)" stroke="var(--accent3)" stroke-opacity="0.4" stroke-width="1"/><text x="264.02" y="415.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" fill="var(--accent3)">Google · Microsoft · IBM · SAP · Coursera · Simplilearn</text><text x="108" y="434" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Certifications spanning IT Automation, Power BI, SAP, ERP, and Project Management.</text></g>
+<g opacity="0" transform="translate(0,12)"><animate attributeName="opacity" begin="0.28s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.28s" dur="0.6s" fill="freeze" values="0 12;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40" y="460" width="1200" height="84" rx="14" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40" y="460" width="1200" height="84" rx="14" fill="url(#cardTop)"/><rect x="40" y="460" width="5" height="84" rx="2.5" fill="var(--accent5)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.28s" repeatCount="indefinite"/></rect>
+<circle cx="75.00" cy="502.00" r="19" fill="var(--pillBg)" stroke="var(--accent5)" stroke-opacity="0.45" stroke-width="1"/><g transform="translate(64.00,491.00) scale(0.86)" fill="none" stroke="var(--accent5)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></g><text x="108" y="490" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Team Leader</text><rect x="108.00" y="498" width="191.15" height="19" rx="9.5" fill="var(--pillBg)" stroke="var(--accent5)" stroke-opacity="0.4" stroke-width="1"/><text x="203.58" y="511.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="10" font-weight="700" fill="var(--accent5)">Academic Design &amp; Tech Projects</text><text x="108" y="530" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11.5" fill="var(--muted)">Led university teams through interface design, user journey mapping, and cross-functional delivery.</text></g>
+</svg>
