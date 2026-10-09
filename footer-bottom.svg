@@ -1,48 +1,37 @@
-<svg width="1280" height="100" viewBox="0 0 1280 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="96" viewBox="0 0 1280 96" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --bg: #030712;
-      --text: #F8FAFC;
-      --muted: #64748B;
-      --accent1: #7C3AED;
-      --accent2: #22D3EE;
-      --accent3: #10B981;
+      --bg: #04060d; --bg2: #0b1020; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
+      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #CBD5E1; --muted: #94A3B8; --muted2: #64748B;
+      --a1: #8B5CF6; --a2: #22D3EE; --a3: #10B981; --a4: #F59E0B; --a5: #FB7185;
+      --chip: rgba(255,255,255,0.05); --chipB: rgba(255,255,255,0.14); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
     }
     @media (prefers-color-scheme: light) {
       :root {
-        --bg: #FFFFFF;
-        --text: #0F172A;
-        --muted: #94A3B8;
-        --accent1: #2563EB;
-        --accent2: #06B6D4;
-        --accent3: #10B981;
+        --bg: #FFFFFF; --bg2: #F1F5F9; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
+        --border: rgba(15,23,42,0.12); --text: #0F172A; --text2: #334155; --muted: #475569; --muted2: #64748B;
+        --a1: #6D28D9; --a2: #0E7490; --a3: #047857; --a4: #B45309; --a5: #BE123C;
+        --chip: rgba(15,23,42,0.04); --chipB: rgba(15,23,42,0.16); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
       }
     }
-    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
-    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
-  </style>
-
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
+</style>
   <defs>
-    <linearGradient id="accentB" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--accent1)"/>
-      <stop offset="50%" stop-color="var(--accent2)"/>
-      <stop offset="100%" stop-color="var(--accent3)"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
-    <clipPath id="cardClipB"><rect width="1280" height="100" rx="18"/></clipPath>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/><animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/><animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite"/></linearGradient>
+    <linearGradient id="accH" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/></linearGradient>
+    <linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--bg)"/><stop offset="100%" stop-color="var(--bg2)"/></linearGradient>
+    <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--cardHi)"/><stop offset="100%" stop-color="var(--card)"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0"/><stop offset="30%" stop-color="var(--a1)"/><stop offset="70%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></linearGradient>
+    <radialGradient id="gl1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a1)" stop-opacity="0"/></radialGradient><radialGradient id="gl2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a2)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></radialGradient><radialGradient id="gl3" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a3)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a3)" stop-opacity="0"/></radialGradient><radialGradient id="gl4" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a4)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a4)" stop-opacity="0"/></radialGradient><radialGradient id="gl5" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a5)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a5)" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="96" rx="24"/></clipPath>
   </defs>
-
-  <g clip-path="url(#cardClipB)">
-    <rect width="1280" height="100" fill="var(--bg)"/>
-    <rect x="0" y="0" width="1280" height="3" fill="url(#accentB)"/>
-
-    <text x="640" y="45" text-anchor="middle" font-size="14" fill="var(--text)" font-weight="600">© 2026 Muhammad Umer Faheem</text>
-    <text x="640" y="69" text-anchor="middle" font-size="12" class="mono" fill="var(--muted)">Designed &amp; built with intention &#8212; Lahore, Pakistan</text>
-
-    <circle cx="80" cy="50" r="2.6" fill="var(--accent2)">
-      <animate attributeName="cx" values="60;1220;60" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;1;0" dur="14s" repeatCount="indefinite" keyTimes="0;0.1;0.9;1"/>
-    </circle>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="96" fill="url(#bgG)"/>
+    <rect width="1280" height="96" fill="url(#dots)"/>
+    <circle cx="640" cy="115" r="240" fill="url(#gl1)"><animate attributeName="cy" values="115;141;115" dur="12s" repeatCount="indefinite"/></circle>
+    <rect x="0.75" y="0.75" width="1278.5" height="94.5" rx="23.25" fill="none" stroke="url(#acc)" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="640" y="42" font-size="15" font-weight="700" text-anchor="middle" fill="var(--text)">© 2026 Muhammad Umer Faheem</text><text class="m" x="640" y="66" font-size="12" text-anchor="middle" fill="var(--muted)">Designed &amp; built with intention · Lahore, Pakistan</text><rect x="0" y="0" width="1280" height="3" fill="url(#accH)"/>
   </g>
 </svg>

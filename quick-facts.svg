@@ -1,78 +1,42 @@
-<svg width="1280" height="200" viewBox="0 0 1280 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="214" viewBox="0 0 1280 214" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --bg: #030712;
-      --surface: #0b1120;
-      --surface2: #10141f;
-      --border: rgba(255,255,255,0.09);
-      --border2: #20263a;
-      --text: #F8FAFC;
-      --muted: #94A3B8;
-      --muted2: #64748B;
-      --accent1: #7C3AED;
-      --accent2: #22D3EE;
-      --accent3: #10B981;
-      --accent4: #F59E0B;
-      --accent5: #FB7185;
-      --pillBg: rgba(255,255,255,0.05);
-      --pillBorder: rgba(255,255,255,0.14);
+      --bg: #04060d; --bg2: #0b1020; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
+      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #CBD5E1; --muted: #94A3B8; --muted2: #64748B;
+      --a1: #8B5CF6; --a2: #22D3EE; --a3: #10B981; --a4: #F59E0B; --a5: #FB7185;
+      --chip: rgba(255,255,255,0.05); --chipB: rgba(255,255,255,0.14); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
     }
     @media (prefers-color-scheme: light) {
       :root {
-        --bg: #FFFFFF;
-        --surface: #F8FAFC;
-        --surface2: #F1F5F9;
-        --border: rgba(15,23,42,0.09);
-        --border2: #E2E8F0;
-        --text: #0F172A;
-        --muted: #64748B;
-        --muted2: #94A3B8;
-        --accent1: #2563EB;
-        --accent2: #06B6D4;
-        --accent3: #059669;
-        --accent4: #D97706;
-        --accent5: #E11D48;
-        --pillBg: rgba(15,23,42,0.035);
-        --pillBorder: rgba(15,23,42,0.14);
+        --bg: #FFFFFF; --bg2: #F1F5F9; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
+        --border: rgba(15,23,42,0.12); --text: #0F172A; --text2: #334155; --muted: #475569; --muted2: #64748B;
+        --a1: #6D28D9; --a2: #0E7490; --a3: #047857; --a4: #B45309; --a5: #BE123C;
+        --chip: rgba(15,23,42,0.04); --chipB: rgba(15,23,42,0.16); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
       }
     }
-    text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
-    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
 </style>
   <defs>
-    <linearGradient id="accentG" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="var(--accent1)"/>
-      <stop offset="50%" stop-color="var(--accent2)"/>
-      <stop offset="100%" stop-color="var(--accent3)"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="cardTop" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <pattern id="gridP" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M38 0H0V38" fill="none" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
-    </pattern>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="9" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/><animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/><animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite"/></linearGradient>
+    <linearGradient id="accH" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/></linearGradient>
+    <linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--bg)"/><stop offset="100%" stop-color="var(--bg2)"/></linearGradient>
+    <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--cardHi)"/><stop offset="100%" stop-color="var(--card)"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0"/><stop offset="30%" stop-color="var(--a1)"/><stop offset="70%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></linearGradient>
+    <radialGradient id="gl1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a1)" stop-opacity="0"/></radialGradient><radialGradient id="gl2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a2)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></radialGradient><radialGradient id="gl3" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a3)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a3)" stop-opacity="0"/></radialGradient><radialGradient id="gl4" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a4)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a4)" stop-opacity="0"/></radialGradient><radialGradient id="gl5" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a5)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a5)" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="214" rx="28"/></clipPath>
   </defs>
-  <rect x="0" y="0" width="1280" height="200" rx="20" fill="var(--bg)"/>
-  <rect x="0" y="0" width="1280" height="200" rx="20" fill="url(#gridP)"/>
-  <rect x="0.75" y="0.75" width="1278.5" height="198.5" rx="19.5" fill="none" stroke="var(--border2)" stroke-width="1.2"/>
-<circle cx="60" cy="30" r="150" fill="#7C3AED" opacity="0.06" filter="url(#softGlow)"/><circle cx="1220" cy="180" r="150" fill="#22D3EE" opacity="0.05" filter="url(#softGlow)"/><text x="40" y="40" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="var(--muted)">AT A GLANCE</text>
-<text x="1240" y="40" text-anchor="end" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="11.5" fill="var(--muted)">BBIS · CLASS OF 2026</text>
-<g opacity="0" transform="translate(0,16)"><animate attributeName="opacity" begin="0.00s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.00s" dur="0.6s" fill="freeze" values="0 16;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="40.00" y="76" width="227.20" height="96" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="40.00" y="76" width="227.20" height="96" rx="16" fill="url(#cardTop)"/><rect x="40.0" y="76" width="5" height="96" rx="2.5" fill="var(--accent1)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.00s" repeatCount="indefinite"/></rect>
-<g transform="translate(62.00,94) scale(0.82)" fill="none" stroke="var(--accent1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.4"/></g><text x="92.00" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="var(--muted)">LOCATION</text><text x="62.00" y="134" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Lahore, Pakistan</text><text x="62.00" y="154" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" fill="var(--muted)">Available on-site &amp; remote</text></g>
-<g opacity="0" transform="translate(0,16)"><animate attributeName="opacity" begin="0.06s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.06s" dur="0.6s" fill="freeze" values="0 16;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="283.20" y="76" width="227.20" height="96" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="283.20" y="76" width="227.20" height="96" rx="16" fill="url(#cardTop)"/><rect x="283.2" y="76" width="5" height="96" rx="2.5" fill="var(--accent2)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.06s" repeatCount="indefinite"/></rect>
-<g transform="translate(305.20,94) scale(0.82)" fill="none" stroke="var(--accent2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 4 2 10l10 6 10-6z"/><path d="M6 12v5c0 1.66 2.69 3 6 3s6-1.34 6-3v-5"/></g><text x="335.20" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="var(--muted)">EDUCATION</text><text x="305.20" y="134" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">BBIS · UMT Lahore</text><text x="305.20" y="154" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" fill="var(--muted)">Nov 2022 – Aug 2026 · Sem 8</text></g>
-<g opacity="0" transform="translate(0,16)"><animate attributeName="opacity" begin="0.12s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.12s" dur="0.6s" fill="freeze" values="0 16;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="526.40" y="76" width="227.20" height="96" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="526.40" y="76" width="227.20" height="96" rx="16" fill="url(#cardTop)"/><rect x="526.4" y="76" width="5" height="96" rx="2.5" fill="var(--accent4)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.12s" repeatCount="indefinite"/></rect>
-<g transform="translate(548.40,94) scale(0.82)" fill="none" stroke="var(--accent4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15l-5.5 3 1.5-6L3 8l6-.5L12 2l3 5.5 6 .5-5 4 1.5 6z"/></g><text x="578.40" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="var(--muted)">CAPSTONE</text><text x="548.40" y="134" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Artisan Aura Creations</text><text x="548.40" y="154" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" fill="var(--muted)">1 of 3 selected · ICAISAI’26</text></g>
-<g opacity="0" transform="translate(0,16)"><animate attributeName="opacity" begin="0.18s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.18s" dur="0.6s" fill="freeze" values="0 16;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="769.60" y="76" width="227.20" height="96" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="769.60" y="76" width="227.20" height="96" rx="16" fill="url(#cardTop)"/><rect x="769.5999999999999" y="76" width="5" height="96" rx="2.5" fill="var(--accent3)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.18s" repeatCount="indefinite"/></rect>
-<g transform="translate(791.60,94) scale(0.82)" fill="none" stroke="var(--accent3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15 15 0 0 1 0 20a15 15 0 0 1 0-20z"/></g><text x="821.60" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="var(--muted)">LANGUAGES</text><text x="791.60" y="134" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">English · Urdu</text><text x="791.60" y="154" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" fill="var(--muted)">Fluent, professional working</text></g>
-<g opacity="0" transform="translate(0,16)"><animate attributeName="opacity" begin="0.24s" dur="0.6s" fill="freeze" values="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1"/><animateTransform attributeName="transform" type="translate" begin="0.24s" dur="0.6s" fill="freeze" values="0 16;0 0" calcMode="spline" keySplines="0.2 0.8 0.2 1" additive="replace"/><rect x="1012.80" y="76" width="227.20" height="96" rx="16" fill="var(--surface2)" stroke="var(--border2)" stroke-width="1.1"/><rect x="1012.80" y="76" width="227.20" height="96" rx="16" fill="url(#cardTop)"/><rect x="1012.8" y="76" width="5" height="96" rx="2.5" fill="var(--accent5)" opacity="0.85"><animate attributeName="opacity" values="0.85;0.4;0.85" dur="3s" begin="0.24s" repeatCount="indefinite"/></rect>
-<g transform="translate(1034.80,94) scale(0.82)" fill="none" stroke="var(--accent5)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></g><text x="1064.80" y="106" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="var(--muted)">STATUS</text><text x="1034.80" y="134" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="var(--text)">Open to Work</text><text x="1034.80" y="154" font-family="-apple-system, 'Segoe UI', ui-sans-serif, Helvetica, Arial, sans-serif" font-size="11" fill="var(--muted)">Freelance &amp; full-time roles</text></g>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="214" fill="url(#bgG)"/>
+    <rect width="1280" height="214" fill="url(#dots)"/>
+    <circle cx="102" cy="0" r="280" fill="url(#gl1)"><animate attributeName="cy" values="0;26;0" dur="12s" repeatCount="indefinite"/></circle><circle cx="1216" cy="214" r="300" fill="url(#gl2)"><animate attributeName="cy" values="214;240;214" dur="13s" repeatCount="indefinite"/></circle>
+    <rect x="0.75" y="0.75" width="1278.5" height="212.5" rx="27.25" fill="none" stroke="url(#acc)" stroke-opacity="0.55" stroke-width="1.5"/>
+    <rect x="40" y="39" width="8" height="8" rx="2" fill="url(#acc)"/><text class="m" x="58" y="48" font-size="12" font-weight="700" letter-spacing="2.4" fill="var(--muted)">AT A GLANCE</text><text class="m" x="1240" y="48" font-size="11.5" letter-spacing="1" text-anchor="end" fill="var(--muted2)">BBIS · CLASS OF 2026</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.10s" dur="0.7s" fill="freeze"/><rect x="40.0" y="76" width="227.2" height="108" rx="16" fill="url(#cardG)" stroke="var(--border)"/><rect x="60.0" y="75.5" width="46" height="3" rx="1.5" fill="var(--a1)"/><circle cx="77.0" cy="115.0" r="19.0" fill="var(--a1)" fill-opacity="0.12" stroke="var(--a1)" stroke-opacity="0.45"/><g transform="translate(68.3,106.3) scale(0.7283)" fill="none" stroke="var(--a1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0 1 18 0zM12 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></g><text class="m" x="108.0" y="120" font-size="10.5" letter-spacing="1.6" fill="var(--muted)">LOCATION</text><text x="58.0" y="156" font-size="16.5" font-weight="700" fill="var(--text)">Lahore, Pakistan</text><text x="58.0" y="175" font-size="12" fill="var(--muted)">Available on-site &amp; remote</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.18s" dur="0.7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.18s" dur="0.7s" fill="freeze"/><rect x="283.2" y="76" width="227.2" height="108" rx="16" fill="url(#cardG)" stroke="var(--border)"/><rect x="303.2" y="75.5" width="46" height="3" rx="1.5" fill="var(--a2)"/><circle cx="320.2" cy="115.0" r="19.0" fill="var(--a2)" fill-opacity="0.12" stroke="var(--a2)" stroke-opacity="0.45"/><g transform="translate(311.5,106.3) scale(0.7283)" fill="none" stroke="var(--a2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M22 10L12 5 2 10l10 5 10-5zM6 12v5c3 2 9 2 12 0v-5"/></g><text class="m" x="351.2" y="120" font-size="10.5" letter-spacing="1.6" fill="var(--muted)">EDUCATION</text><text x="301.2" y="156" font-size="16.5" font-weight="700" fill="var(--text)">BBIS · UMT Lahore</text><text x="301.2" y="175" font-size="12" fill="var(--muted)">Nov 2022 – Aug 2026 · Sem 8</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.26s" dur="0.7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.26s" dur="0.7s" fill="freeze"/><rect x="526.4" y="76" width="227.2" height="108" rx="16" fill="url(#cardG)" stroke="var(--border)"/><rect x="546.4" y="75.5" width="46" height="3" rx="1.5" fill="var(--a4)"/><circle cx="563.4" cy="115.0" r="19.0" fill="var(--a4)" fill-opacity="0.12" stroke="var(--a4)" stroke-opacity="0.45"/><g transform="translate(554.7,106.3) scale(0.7283)" fill="none" stroke="var(--a4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></g><text class="m" x="594.4" y="120" font-size="10.5" letter-spacing="1.6" fill="var(--muted)">CAPSTONE</text><text x="544.4" y="156" font-size="16.5" font-weight="700" fill="var(--text)">Artisan Aura Creations</text><text x="544.4" y="175" font-size="12" fill="var(--muted)">1 of 3 selected · ICAISAI'26</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.34s" dur="0.7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.34s" dur="0.7s" fill="freeze"/><rect x="769.5999999999999" y="76" width="227.2" height="108" rx="16" fill="url(#cardG)" stroke="var(--border)"/><rect x="789.5999999999999" y="75.5" width="46" height="3" rx="1.5" fill="var(--a3)"/><circle cx="806.5999999999999" cy="115.0" r="19.0" fill="var(--a3)" fill-opacity="0.12" stroke="var(--a3)" stroke-opacity="0.45"/><g transform="translate(797.9,106.3) scale(0.7283)" fill="none" stroke="var(--a3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18zM3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></g><text class="m" x="837.5999999999999" y="120" font-size="10.5" letter-spacing="1.6" fill="var(--muted)">LANGUAGES</text><text x="787.5999999999999" y="156" font-size="16.5" font-weight="700" fill="var(--text)">English · Urdu</text><text x="787.5999999999999" y="175" font-size="12" fill="var(--muted)">Fluent, professional working</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.42s" dur="0.7s" fill="freeze"/><rect x="1012.8" y="76" width="227.2" height="108" rx="16" fill="url(#cardG)" stroke="var(--border)"/><rect x="1032.8" y="75.5" width="46" height="3" rx="1.5" fill="var(--a5)"/><circle cx="1049.8" cy="115.0" r="19.0" fill="var(--a5)" fill-opacity="0.12" stroke="var(--a5)" stroke-opacity="0.45"/><g transform="translate(1041.1,106.3) scale(0.7283)" fill="none" stroke="var(--a5)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M12 15l-3-3a22 22 0 0 1 2-3.9A12.9 12.9 0 0 1 22 2c0 2.7-.8 7.5-6 11a22 22 0 0 1-4 2zM9 12H4s.6-3 2-4c1.6-1.1 5 0 5 0M12 15v5s3-.6 4-2c1.1-1.6 0-5 0-5M4.5 16.5c-1.5 1.3-2 5-2 5s3.7-.5 5-2"/></g><text class="m" x="1080.8" y="120" font-size="10.5" letter-spacing="1.6" fill="var(--muted)">STATUS</text><text x="1030.8" y="156" font-size="16.5" font-weight="700" fill="var(--text)">Open to Work</text><text x="1030.8" y="175" font-size="12" fill="var(--muted)">Freelance &amp; full-time roles</text></g>
+  </g>
 </svg>

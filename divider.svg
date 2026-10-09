@@ -1,46 +1,31 @@
-<svg width="1280" height="40" viewBox="0 0 1280 40" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="36" viewBox="0 0 1280 36" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --accent1: #7C3AED;
-      --accent2: #22D3EE;
-      --accent3: #10B981;
+      --bg: #04060d; --bg2: #0b1020; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
+      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #CBD5E1; --muted: #94A3B8; --muted2: #64748B;
+      --a1: #8B5CF6; --a2: #22D3EE; --a3: #10B981; --a4: #F59E0B; --a5: #FB7185;
+      --chip: rgba(255,255,255,0.05); --chipB: rgba(255,255,255,0.14); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
     }
     @media (prefers-color-scheme: light) {
       :root {
-        --accent1: #2563EB;
-        --accent2: #06B6D4;
-        --accent3: #10B981;
+        --bg: #FFFFFF; --bg2: #F1F5F9; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
+        --border: rgba(15,23,42,0.12); --text: #0F172A; --text2: #334155; --muted: #475569; --muted2: #64748B;
+        --a1: #6D28D9; --a2: #0E7490; --a3: #047857; --a4: #B45309; --a5: #BE123C;
+        --chip: rgba(15,23,42,0.04); --chipB: rgba(15,23,42,0.16); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
       }
     }
-  </style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
+</style>
   <defs>
-    <linearGradient id="accentD" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="var(--accent1)" stop-opacity="0"/>
-      <stop offset="15%" stop-color="var(--accent1)" stop-opacity="0.7"/>
-      <stop offset="50%" stop-color="var(--accent2)" stop-opacity="0.9"/>
-      <stop offset="85%" stop-color="var(--accent3)" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="var(--accent3)" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="sweepD" x1="-30%" y1="0%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-      <animate attributeName="x1" values="-30%;130%" dur="4.5s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;160%" dur="4.5s" repeatCount="indefinite"/>
-    </linearGradient>
-    <mask id="lineMaskD">
-      <rect x="0" y="0" width="1280" height="40" fill="url(#accentD)"/>
-    </mask>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/><animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite"/><animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite"/></linearGradient>
+    <linearGradient id="accH" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a3)"/></linearGradient>
+    <linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--bg)"/><stop offset="100%" stop-color="var(--bg2)"/></linearGradient>
+    <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--cardHi)"/><stop offset="100%" stop-color="var(--card)"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0"/><stop offset="30%" stop-color="var(--a1)"/><stop offset="70%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></linearGradient>
+    <radialGradient id="gl1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a1)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a1)" stop-opacity="0"/></radialGradient><radialGradient id="gl2" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a2)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a2)" stop-opacity="0"/></radialGradient><radialGradient id="gl3" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a3)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a3)" stop-opacity="0"/></radialGradient><radialGradient id="gl4" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a4)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a4)" stop-opacity="0"/></radialGradient><radialGradient id="gl5" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="var(--a5)" stop-opacity="0.30"/><stop offset="100%" stop-color="var(--a5)" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
+    <clipPath id="clip"><rect width="1280" height="36" rx="0"/></clipPath>
   </defs>
-  <line x1="0" y1="20" x2="1280" y2="20" stroke="url(#accentD)" stroke-width="1.5"/>
-  <g mask="url(#lineMaskD)">
-    <rect x="0" y="18.5" width="1280" height="3" fill="url(#sweepD)"/>
-  </g>
-  <rect x="632" y="15.5" width="17" height="9" rx="4.5" fill="none" stroke="url(#accentD)" stroke-width="1.5" transform="rotate(45 640 20)">
-    <animateTransform attributeName="transform" type="rotate" additive="sum" from="0 640 20" to="360 640 20" dur="18s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="640" cy="20" r="2.3" fill="var(--accent2)">
-    <animate attributeName="r" values="1.7;3.1;1.7" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
+  <rect x="40" y="17" width="1200" height="2" rx="1" fill="url(#fade)" opacity="0.8"/><g transform="translate(640,18)"><rect x="-6" y="-6" width="12" height="12" rx="2" transform="rotate(45)" fill="url(#acc)"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/></rect><circle cx="-26" r="2.5" fill="var(--a1)" opacity="0.8"/><circle cx="26" r="2.5" fill="var(--a2)" opacity="0.8"/></g>
 </svg>
