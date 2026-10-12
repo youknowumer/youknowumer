@@ -38,6 +38,7 @@ CARD  = re.compile(r'<rect x="([\d.]+)" y="([\d.]+)" width="([\d.]+)" height="([
 
 DEFS = '''
     <linearGradient id="pxShine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a4,#A78BFA)" stop-opacity="0"/><stop offset="50%" stop-color="var(--a4,#A78BFA)" stop-opacity="0.20"/><stop offset="100%" stop-color="var(--a4,#A78BFA)" stop-opacity="0"/></linearGradient>
+    <filter id="pxGoo" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="15"/><feColorMatrix values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7"/><feGaussianBlur stdDeviation="1.6"/></filter>
     <filter id="pxGrain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0.9 -0.28"/></filter>
 '''
 
@@ -70,9 +71,23 @@ def panel_fx(s):
     s = s.replace('</defs>', DEFS + '  </defs>', 1)
     # 1) soft light sweep + grain, just above the dot grid
     dots = re.search(r'<rect[^>]*fill="url\(#(?:dots|gridP|dotsF)\)"[^>]*/>', s)
-    sweep = (f'<rect x="-340" y="-20" width="300" height="{H+40:.0f}" fill="url(#pxShine)" transform="skewX(-16)" opacity="0.55" pointer-events="none">'
-             f'<animateTransform attributeName="transform" type="translate" values="0 0;{W+700:.0f} 0;{W+700:.0f} 0" keyTimes="0;0.34;1" calcMode="spline" keySplines="0.45 0 0.2 1;0 0 1 1" dur="16s" begin="1.2s" repeatCount="indefinite" additive="sum"/></rect>'
-             f'<rect width="{W:.0f}" height="{H:.0f}" filter="url(#pxGrain)" opacity="0.05" pointer-events="none"/>')
+    import random
+    rnd = random.Random(int(W*7 + H))
+    cols = ['--a1', '--a2', '--a3', '--a5', '--a4', '--a2']
+    blobs = ''
+    nb = 6 if W > 600 else 3
+    for i in range(nb):
+        cx = W*(0.08 + 0.84*(i+rnd.random()*0.5)/nb); cy = H*(0.15 + 0.7*rnd.random())
+        r = min(H*0.2, 62) + rnd.random()*26
+        dx = 90 + rnd.random()*120; dy = 30 + rnd.random()*40
+        d = 15 + rnd.random()*12
+        sp = ';'.join([EASE_IO]*2)
+        blobs += (f'<circle cx="{cx:.0f}" cy="{cy:.0f}" r="{r:.0f}" fill="var({cols[i]},#8B5CF6)">'
+                  f'<animate attributeName="cx" values="{cx:.0f};{cx+dx:.0f};{cx-dx*0.6:.0f};{cx:.0f}" keyTimes="0;0.35;0.7;1" calcMode="spline" keySplines="{EASE_IO};{EASE_IO};{EASE_IO}" dur="{d:.1f}s" repeatCount="indefinite"/>'
+                  f'<animate attributeName="cy" values="{cy:.0f};{cy-dy:.0f};{cy+dy:.0f};{cy:.0f}" keyTimes="0;0.4;0.75;1" calcMode="spline" keySplines="{EASE_IO};{EASE_IO};{EASE_IO}" dur="{d*0.8:.1f}s" repeatCount="indefinite"/>'
+                  f'<animate attributeName="r" values="{r:.0f};{r*1.28:.0f};{r*0.82:.0f};{r:.0f}" keyTimes="0;0.33;0.68;1" calcMode="spline" keySplines="{EASE_IO};{EASE_IO};{EASE_IO}" dur="{d*0.65:.1f}s" repeatCount="indefinite"/></circle>')
+    sweep = (f'<g filter="url(#pxGoo)" opacity="0.2" pointer-events="none">{blobs}</g>'
+             f'<rect width="{W:.0f}" height="{H:.0f}" filter="url(#pxGrain)" opacity="0.04" pointer-events="none"/>')
     if dots: s = s.replace(dots[0], dots[0] + sweep, 1)
     # 2) travelling border beams (two, opposite phase), pathLength-normalised so dash math is perimeter-independent
     def beam(col, begin):
