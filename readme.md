@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Muhammad Umer Faheem — Frontend Developer, BI & Data Enthusiast, ERP & CRM Implementation Specialist" width="100%" />
+<img src="banner.svg" alt="Muhammad Umer Faheem — SAP and Odoo ERP, implementation, reporting and business systems" width="100%" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm a **BBIS (Bachelor of Business Information Systems)** finalist at UMT, Lahore (Class of 2026) with hands-on experience across **frontend development, business intelligence, enterprise ERP, and data operations**. My work sits where technical delivery meets business impact: I don't just build things, I build things that *work for the business*.
+I'm a **BBIS (Bachelor of Business Information Systems)** graduate from UMT, Lahore (Class of 2026), working across **SAP functional processes, Odoo ERP implementation, business reporting, and data operations**. In my current role as an **ERP Management Trainee Officer at Maryum N Maria**, I support SAP business processes as a core responsibility and contribute to Odoo implementation, customization, reporting, issue investigation, bug fixing, and go-live activities. I focus on translating business requirements into dependable workflows, accurate data, and practical system improvements.
 
 My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects** exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals. That's the bar I hold myself to.
 
@@ -38,10 +38,10 @@ My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects*
 |:--:|:--|:--|
 | 🎨 | **Frontend** | Responsive interfaces in HTML5, CSS3, JavaScript, WordPress & Figma |
 | 📊 | **Business Intelligence** | Reporting & dashboards in Power BI, SQL & Oracle DB |
-| 🏢 | **Enterprise Systems** | ERP implementation in Odoo and SAP (Financial & Supply Chain) |
+| 🏢 | **Enterprise Systems** | SAP functional processes; Odoo implementation, customization, reporting, troubleshooting and go-live support |
 | 🎬 | **Creative Suite** | Photoshop, Illustrator, Premiere Pro & After Effects |
 
-> **Open to:** Frontend Engineering · BI & Data Analysis · ERP/CRM Implementation · Internships · Junior Roles · Freelance
+> **Open to:** ERP / SAP Functional Roles · Odoo Implementation & Support · BI & Reporting · Business Systems · Freelance
 
 <br/>
 
@@ -92,7 +92,7 @@ My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects*
 ## Professional Experience
 
 <div align="center">
-<img src="timeline.svg" alt="Experience timeline: Nex Pred Solutions, MGA Industries, Tara Technologies" width="100%" />
+<img src="timeline.svg" alt="Experience timeline: Maryum N Maria, Nex Pred Solutions, MGA Industries, Tara Technologies" width="100%" />
 </div>
 
 <br/>
@@ -100,6 +100,12 @@ My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects*
 <details>
 <summary><b>📄 Read the full role details (text version)</b></summary>
 <br/>
+
+**🧩 Management Trainee Officer — ERP** · *Maryum N Maria* · Current
+- **SAP (core responsibility):** support day-to-day functional processes across business operations, help investigate process/system issues, and coordinate with stakeholders to keep workflows aligned with operational requirements.
+- **Odoo implementation:** support configuration and implementation activities, validate workflows against business needs, and assist users through rollout and live operations.
+- **Customization & reporting:** contribute to Odoo customizations and operational reports so teams can access relevant, usable business information.
+- **Issue resolution & go-live:** investigate errors and bugs, reproduce issues, coordinate fixes, test changes, and support deployment/go-live activities with a focus on stable business operations.
 
 **🤖 Data Annotation Specialist** · *Nex Pred Solutions* · Remote, Lahore · Feb 2026 – Mar 2026
 Built and curated production-grade video datasets for computer vision model training, extracting and filtering frames at scale to meet strict quality thresholds. Converted annotations between **YOLO** and **COCO** schemas, ran labeling pipelines in **CVAT**, and applied rigorous QA validation to improve model accuracy and training stability across iteration cycles.
@@ -130,10 +136,10 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 | Aspect | Details |
 |:--|:--|
-| **Stack** | Odoo ERP: CRM, HR, Sales, Inventory and more |
+| **Stack** | Odoo ERP: CRM, HR, Sales, Inventory and related business workflows |
 | **Scale** | Full-cycle simulated business operations |
-| **Workflows** | Procurement · Marketing · Production · HR |
-| **Governance** | Role-based access control · Data-integrity policies |
+| **Workflows** | Lead-to-customer · Procurement · Marketing · Production · HR · Inventory operations |
+| **Governance** | Role-based access control · Data-integrity policies · Cross-functional process coordination |
 | **Impact** | 1 of 3 projects at ICAISAI'26 · Industry-evaluated |
 | **Vision** | Scale into a global leader in ethical luxury craftsmanship |
 | **Repository** | Available upon request |
