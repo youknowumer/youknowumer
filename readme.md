@@ -17,11 +17,11 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=0d1117&color=a78bfa&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=0d1117&color=38bdf8&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
-  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=fbbf24&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
-  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-34d399?style=flat-square&labelColor=0d1117" alt="Status: open to roles and freelance"/>
+  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=9b6dff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=0d1117&color=c0a2ff&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=0d1117&color=4ac8ff&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
+  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=28e0f0&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
+  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-42e6b4?style=flat-square&labelColor=0d1117" alt="Status: open to roles and freelance"/>
 </p>
 
 </div>
@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm a **BBIS (Bachelor of Business Information Systems)** graduate from UMT, Lahore (Class of 2026), working across **SAP functional processes, Odoo ERP implementation, business reporting, and data operations**. In my current role as an **ERP Management Trainee Officer at Maryum N Maria**, I support SAP business processes as a core responsibility and contribute to Odoo implementation, customization, reporting, issue investigation, bug fixing, and go-live activities. I focus on translating business requirements into dependable workflows, accurate data, and practical system improvements.
+I'm a **BBIS (Bachelor of Business Information Systems)** graduate from UMT, Lahore (Class of 2026), working across **SAP functional processes, Odoo ERP implementation, business reporting, and data operations**. In my current role as an **ERP Management Trainee Officer at Maryum N Maria**, I support SAP business processes as a core responsibility and contribute to Odoo implementation, customization, reporting, issue investigation, bug fixing, and go-live activities. My work sits at the intersection of business operations and enterprise technology: understanding the process, tracing the issue, validating the data, and helping deliver a system change users can rely on. I focus on clear requirements, controlled testing, useful reporting, and stable handover into live operations.
 
 My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects** exhibited at **ICAISAI'26 (HSM–UMT)** and evaluated by industry professionals. That's the bar I hold myself to.
 
@@ -42,6 +42,18 @@ My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects*
 | 🎬 | **Creative Suite** | Photoshop, Illustrator, Premiere Pro & After Effects |
 
 > **Open to:** ERP / SAP Functional Roles · Odoo Implementation & Support · BI & Reporting · Business Systems · Freelance
+
+### How I approach ERP and business systems
+
+| Workstream | What I contribute | Practical objective |
+|:--|:--|:--|
+| **SAP functional operations** | Support core business processes, clarify user-reported issues, trace process steps, and coordinate with relevant stakeholders | Keep day-to-day workflows aligned with operational needs |
+| **Odoo implementation** | Assist with configuration, workflow validation, implementation activities, user support, and rollout preparation | Help translate business requirements into usable ERP workflows |
+| **Customization & reporting** | Support custom requirements and operational reports; review outputs for relevance and consistency | Make business information easier to access and act on |
+| **Troubleshooting & testing** | Reproduce errors, document expected versus actual behaviour, coordinate fixes, and retest changes | Reduce repeat issues and improve confidence before release |
+| **Go-live & support** | Help prepare changes for live use, assist users during rollout, and follow up on issues | Support a smoother transition from implementation to daily operations |
+
+I aim to connect the functional and technical sides: understand the business problem first, verify the system behaviour, test the proposed change, and communicate the result in language both users and technical teams can act on.
 
 <br/>
 
@@ -102,10 +114,10 @@ My capstone, **Artisan Aura Creations**, was selected as **1 of only 3 projects*
 <br/>
 
 **🧩 Management Trainee Officer — ERP** · *Maryum N Maria* · Current
-- **SAP (core responsibility):** support day-to-day functional processes across business operations, help investigate process/system issues, and coordinate with stakeholders to keep workflows aligned with operational requirements.
-- **Odoo implementation:** support configuration and implementation activities, validate workflows against business needs, and assist users through rollout and live operations.
-- **Customization & reporting:** contribute to Odoo customizations and operational reports so teams can access relevant, usable business information.
-- **Issue resolution & go-live:** investigate errors and bugs, reproduce issues, coordinate fixes, test changes, and support deployment/go-live activities with a focus on stable business operations.
+- **SAP (core responsibility):** support day-to-day functional business processes; clarify user requirements, investigate process and system issues, validate transaction outcomes, and coordinate with stakeholders to keep workflows aligned with operational requirements.
+- **Odoo implementation:** contribute to configuration and implementation tasks, map operational needs to system workflows, validate scenarios with business users, and assist through rollout and live operations.
+- **Customization & reporting:** support Odoo customization requests and operational report development; review fields, logic, and outputs for completeness and usefulness to business teams.
+- **Issue resolution & go-live:** document and reproduce bugs, compare expected and actual results, coordinate fixes, perform regression checks, and support deployment/go-live activities with a focus on stable business operations.
 
 **🤖 Data Annotation Specialist** · *Nex Pred Solutions* · Remote, Lahore · Feb 2026 – Mar 2026
 Built and curated production-grade video datasets for computer vision model training, extracting and filtering frames at scale to meet strict quality thresholds. Converted annotations between **YOLO** and **COCO** schemas, ran labeling pipelines in **CVAT**, and applied rigorous QA validation to improve model accuracy and training stability across iteration cycles.
