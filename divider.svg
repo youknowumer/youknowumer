@@ -1,16 +1,16 @@
 <svg width="1280" height="36" viewBox="0 0 1280 36" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --bg: #070B18; --bg2: #10182D; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
-      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #D6E2F3; --muted: #A6B6D0; --muted2: #7889A8;
-      --a1: #9B6DFF; --a2: #28E0F0; --a3: #6978FF; --a4: #C0A2FF; --a5: #4AC8FF; --ok: #42E6B4;
+      --bg: #080C12; --bg2: #111A22; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
+      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #DCE6EE; --muted: #AAB8C4; --muted2: #8093A3;
+      --a1: #F5B544; --a2: #2DD4BF; --a3: #5B9BFF; --a4: #FFD88C; --a5: #38BDF8; --ok: #5EE08A;
       --chip: rgba(255,255,255,0.05); --chipB: rgba(255,255,255,0.14); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
     }
     @media (prefers-color-scheme: light) {
       :root {
-        --bg: #FFFFFF; --bg2: #F3F6FF; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
-        --border: rgba(15,23,42,0.12); --text: #111A30; --text2: #344563; --muted: #475569; --muted2: #7889A8;
-        --a1: #7C3AED; --a2: #087F9C; --a3: #4F46E5; --a4: #7C3AED; --a5: #0878B5; --ok: #087F65;
+        --bg: #FFFFFF; --bg2: #F8F5EE; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
+        --border: rgba(15,23,42,0.12); --text: #111A30; --text2: #344563; --muted: #475569; --muted2: #7A8794;
+        --a1: #B45309; --a2: #0F766E; --a3: #1D4ED8; --a4: #B45309; --a5: #0369A1; --ok: #15803D;
         --chip: rgba(15,23,42,0.04); --chipB: rgba(15,23,42,0.16); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
       }
     }

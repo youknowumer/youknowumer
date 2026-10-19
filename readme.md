@@ -17,11 +17,11 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=9b6dff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=0d1117&color=c0a2ff&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=0d1117&color=4ac8ff&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
-  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=28e0f0&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
-  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-42e6b4?style=flat-square&labelColor=0d1117" alt="Status: open to roles and freelance"/>
+  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=f5b544&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=0d1117&color=ffd88c&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=0d1117&color=38bdf8&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
+  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=0d1117&color=2dd4bf&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
+  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-5ee08a?style=flat-square&labelColor=0d1117" alt="Status: open to roles and freelance"/>
 </p>
 
 </div>

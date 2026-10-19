@@ -1,55 +1,128 @@
-<svg width="1280" height="900" viewBox="0 0 1280 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional experience timeline">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#11152a"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
- <style>
- .h{font:800 27px Arial,sans-serif;fill:#f8fafc}.sub{font:600 17px Arial,sans-serif;fill:#a78bfa}
- .meta{font:14px Arial,sans-serif;fill:#94a3b8}.body{font:15px Arial,sans-serif;fill:#dbe4f0}
- .tag{font:12px Arial,sans-serif;fill:#c4b5fd}.label{font:700 12px Arial,sans-serif;fill:#67e8f9;letter-spacing:1.5px}
- </style>
-</defs>
-<rect width="1280" height="900" rx="24" fill="url(#bg)"/>
-<text x="42" y="48" class="label">CAREER TIMELINE · ERP / DATA / DIGITAL DELIVERY</text>
-<text x="42" y="82" class="h">Professional Experience</text>
-<g transform="translate(40,112)">
- <rect width="1200" height="218" rx="18" fill="#111827" stroke="#8b5cf6" stroke-opacity=".75"/>
- <rect width="6" height="218" rx="3" fill="url(#accent)"/>
- <text x="28" y="38" class="h">Management Trainee Officer — ERP</text>
- <text x="28" y="65" class="sub">Maryum N Maria</text>
- <text x="28" y="88" class="meta">ERP operations · SAP functional processes · Odoo implementation</text>
- <rect x="1000" y="22" width="165" height="28" rx="14" fill="#164e63" fill-opacity=".55" stroke="#22d3ee" stroke-opacity=".7"/>
- <text x="1082" y="40" text-anchor="middle" class="tag" fill="#a5f3fc">CURRENT ROLE</text>
- <circle cx="34" cy="117" r="3" fill="#22d3ee"/><text x="48" y="122" class="body">SAP functional processes are a core responsibility, supporting business workflows and issue follow-up.</text>
- <circle cx="34" cy="145" r="3" fill="#22d3ee"/><text x="48" y="150" class="body">Contribute to Odoo implementation, configuration/customization, workflow validation and operational reporting.</text>
- <circle cx="34" cy="173" r="3" fill="#22d3ee"/><text x="48" y="178" class="body">Investigate errors and bugs, coordinate fixes, test changes, and support deployment and go-live activities.</text>
- <text x="28" y="204" class="meta">SAP ERP · Odoo ERP · Reporting · Troubleshooting · Testing · Go-live support</text>
+<svg width="1280" height="1070" viewBox="0 0 1280 1070" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional experience timeline: Maryum N Maria, Nex Pred Solutions, MGA Industries, Tara Technologies">
+  <style>
+    :root {
+      --bg: #080C12; --bg2: #111A22; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
+      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #DCE6EE; --muted: #AAB8C4; --muted2: #8093A3;
+      --a1: #F5B544; --a2: #2DD4BF; --a3: #5B9BFF; --a4: #FFD88C; --a5: #38BDF8; --ok: #5EE08A;
+      --chip: rgba(255,255,255,0.05); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #FFFFFF; --bg2: #F8F5EE; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
+        --border: rgba(15,23,42,0.12); --text: #111A30; --text2: #344563; --muted: #475569; --muted2: #7A8794;
+        --a1: #B45309; --a2: #0F766E; --a3: #1D4ED8; --a4: #B45309; --a5: #0369A1; --ok: #15803D;
+        --chip: rgba(15,23,42,0.04); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
+      }
+    }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
+    .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
+    .h { font-size: 21px; font-weight: 800; fill: var(--text); letter-spacing: -.2px; }
+    .org { font-size: 15px; font-weight: 700; }
+    .meta { font-size: 12.5px; fill: var(--muted2); }
+    .body { font-size: 14px; fill: var(--text2); }
+    .chipt { font-size: 11px; fill: var(--text2); }
+    .date { font-size: 10.5px; font-weight: 700; letter-spacing: 1.4px; fill: var(--muted); }
+    .eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 3px; fill: var(--muted); }
+    .title { font-size: 27px; font-weight: 800; fill: var(--text); letter-spacing: -.4px; }
+  </style>
+  <defs>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a5)"/></linearGradient>
+    <linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="var(--bg)"/><stop offset="100%" stop-color="var(--bg2)"/></linearGradient>
+    <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--cardHi)"/><stop offset="100%" stop-color="var(--card)"/></linearGradient>
+    <linearGradient id="spine" gradientUnits="userSpaceOnUse" x1="0" y1="140" x2="0" y2="1000"><stop offset="0%" stop-color="var(--a1)"/><stop offset="50%" stop-color="var(--a3)"/><stop offset="100%" stop-color="var(--a5)" stop-opacity=".25"/></linearGradient>
+    <linearGradient id="pxGloss" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="22%" stop-color="var(--a4)" stop-opacity=".55"/><stop offset="62%" stop-color="var(--a2)" stop-opacity=".35"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="42"/></filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1278" height="1068" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+  <rect width="1280" height="1070" fill="url(#bgG)"/>
+  <rect width="1280" height="1070" fill="url(#dots)"/>
+  <g filter="url(#soft)" opacity=".26" class="aur">
+    <circle cx="150" cy="140" r="90" fill="var(--a1)"><animate attributeName="cx" values="150;260;150" dur="22s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle>
+    <circle cx="1120" cy="420" r="110" fill="var(--a5)"><animate attributeName="cy" values="420;520;420" dur="26s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle>
+    <circle cx="640" cy="860" r="100" fill="var(--a2)"><animate attributeName="cx" values="640;520;640" dur="30s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle>
+  </g>
+  <style>.aur{opacity:.26} @media (prefers-color-scheme: light){.aur{opacity:.10}}</style>
+  <rect x=".75" y=".75" width="1278.5" height="1068.5" rx="24" fill="none" stroke="url(#acc)" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="40" y="39" width="8" height="8" rx="2" fill="url(#acc)"/>
+  <circle cx="44" cy="43" r="5" fill="none" stroke="var(--a2)" stroke-width="1.2" opacity="0"><animate attributeName="r" values="5;14" dur="2.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/><animate attributeName="opacity" values="0.7;0" dur="2.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></circle>
+  <text x="62" y="48" class="m eyebrow">CAREER TIMELINE</text>
+  <text x="1240" y="48" text-anchor="end" class="m eyebrow">ERP · DATA · DIGITAL DELIVERY</text>
+  <text x="40" y="92" class="title">Professional Experience</text>
+  <line x1="40" y1="108" x2="1240" y2="108" stroke="var(--border)"/>
+  <rect x="40" y="107" width="72" height="2" rx="1" fill="url(#acc)"/>
+
+<line x1="44" y1="138" x2="44" y2="866" stroke="url(#spine)" stroke-width="2" stroke-linecap="round" stroke-dasharray="728" stroke-dashoffset="728"><animate attributeName="stroke-dashoffset" values="728;0" dur="1.6s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></line>
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.22 0.61 0.36 1" begin="0.15s" dur="0.9s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 18;0 0" keyTimes="0;1" calcMode="spline" keySplines="0.16 1 0.3 1" begin="0.15s" dur="1.1s" fill="freeze"/>
+<path d="M53 162H84" stroke="var(--a1)" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 4" stroke-linecap="round"/>
+<circle cx="44" cy="162" r="9" fill="var(--bg)" stroke="var(--a1)" stroke-width="2"/><circle cx="44" cy="162" r="3.6" fill="var(--a1)"/>
+<circle cx="44" cy="162" r="9" fill="none" stroke="var(--a1)" stroke-width="1.4" opacity="0"><animate attributeName="r" values="9;22" dur="2.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/><animate attributeName="opacity" values="0.8;0" dur="2.8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.6 0.3 1"/></circle>
+<rect x="84" y="128" width="1156" height="234" rx="18" fill="url(#cardG)" stroke="var(--border)"/>
+<path d="M106 128.6H1218" stroke="url(#pxGloss)" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="84" y="146" width="4" height="198" rx="2" fill="var(--a1)"/>
+<text x="114" y="168" class="h">Management Trainee Officer — ERP</text>
+<text x="114" y="192"><tspan class="org" fill="var(--a1)">Maryum N Maria</tspan><tspan class="meta" dx="9">·  ERP operations · SAP functional processes · Odoo implementation</tspan></text>
+<rect x="1066" y="150" width="150" height="28" rx="14" fill="var(--chip)" stroke="var(--ok)" stroke-opacity=".6"/><circle cx="1084" cy="164" r="3.4" fill="var(--ok)"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></circle><text x="1098" y="168" class="m date" fill="var(--ok)" style="fill:var(--ok)">CURRENT ROLE</text>
+<line x1="114" y1="208" x2="1216" y2="208" stroke="var(--border)"/>
+<path d="M117 232l3 3 5-6" fill="none" stroke="var(--a1)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="236" class="body">SAP functional processes are a core responsibility, supporting business workflows and issue follow-up.</text>
+<path d="M117 258l3 3 5-6" fill="none" stroke="var(--a1)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="262" class="body">Contribute to Odoo implementation, configuration/customization, workflow validation and operational reporting.</text>
+<path d="M117 284l3 3 5-6" fill="none" stroke="var(--a1)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="288" class="body">Investigate errors and bugs, coordinate fixes, test changes, and support deployment and go-live activities.</text>
+<g><rect x="114.0" y="324" width="68.9" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="125.0" cy="336" r="2.4" fill="var(--a1)"/><text x="133.0" y="340" class="m chipt">SAP ERP</text></g>
+<g><rect x="190.9" y="324" width="75.6" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="201.9" cy="336" r="2.4" fill="var(--a1)"/><text x="209.9" y="340" class="m chipt">Odoo ERP</text></g>
+<g><rect x="274.5" y="324" width="82.3" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="285.5" cy="336" r="2.4" fill="var(--a1)"/><text x="293.5" y="340" class="m chipt">Reporting</text></g>
+<g><rect x="364.8" y="324" width="122.5" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="375.8" cy="336" r="2.4" fill="var(--a1)"/><text x="383.8" y="340" class="m chipt">Troubleshooting</text></g>
+<g><rect x="495.3" y="324" width="68.9" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="506.3" cy="336" r="2.4" fill="var(--a1)"/><text x="514.3" y="340" class="m chipt">Testing</text></g>
+<g><rect x="572.2" y="324" width="122.5" height="24" rx="12" fill="var(--chip)" stroke="var(--a1)" stroke-opacity=".45"/><circle cx="583.2" cy="336" r="2.4" fill="var(--a1)"/><text x="591.2" y="340" class="m chipt">Go-live support</text></g>
 </g>
-<g transform="translate(40,348)">
- <rect width="1200" height="174" rx="18" fill="#111827" stroke="#a78bfa" stroke-opacity=".45"/>
- <rect width="6" height="174" rx="3" fill="#a78bfa"/>
- <text x="28" y="38" class="h">Data Annotation Specialist</text>
- <text x="28" y="64" class="sub">Nex Pred Solutions</text>
- <text x="28" y="86" class="meta">Remote · Lahore · February 2026 – March 2026</text>
- <circle cx="34" cy="112" r="3" fill="#a78bfa"/><text x="48" y="117" class="body">Prepared video datasets for computer-vision training through frame extraction, filtering and labeling workflows.</text>
- <circle cx="34" cy="140" r="3" fill="#a78bfa"/><text x="48" y="145" class="body">Converted annotations between YOLO and COCO formats; managed annotation tasks in CVAT.</text>
- <text x="28" y="163" class="meta">CVAT · YOLO · COCO · Dataset QA</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.22 0.61 0.36 1" begin="0.33s" dur="0.9s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 18;0 0" keyTimes="0;1" calcMode="spline" keySplines="0.16 1 0.3 1" begin="0.33s" dur="1.1s" fill="freeze"/>
+<path d="M53 414H84" stroke="var(--a2)" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 4" stroke-linecap="round"/>
+<circle cx="44" cy="414" r="9" fill="var(--bg)" stroke="var(--a2)" stroke-width="2"/><circle cx="44" cy="414" r="3.6" fill="var(--a2)"/>
+<rect x="84" y="380" width="1156" height="208" rx="18" fill="url(#cardG)" stroke="var(--border)"/>
+<path d="M106 380.6H1218" stroke="url(#pxGloss)" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="84" y="398" width="4" height="172" rx="2" fill="var(--a2)"/>
+<text x="114" y="420" class="h">Data Annotation Specialist</text>
+<text x="114" y="444"><tspan class="org" fill="var(--a2)">Nex Pred Solutions</tspan><tspan class="meta" dx="9">·  Remote · Lahore</tspan></text>
+<rect x="1049.4" y="402" width="166.6" height="28" rx="14" fill="var(--chip)" stroke="var(--border)"/><text x="1132.7" y="420" text-anchor="middle" class="m date">FEB 2026 – MAR 2026</text>
+<line x1="114" y1="460" x2="1216" y2="460" stroke="var(--border)"/>
+<path d="M117 484l3 3 5-6" fill="none" stroke="var(--a2)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="488" class="body">Prepared video datasets for computer-vision training through frame extraction, filtering and labeling workflows.</text>
+<path d="M117 510l3 3 5-6" fill="none" stroke="var(--a2)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="514" class="body">Converted annotations between YOLO and COCO formats; managed annotation tasks in CVAT.</text>
+<g><rect x="114.0" y="550" width="48.8" height="24" rx="12" fill="var(--chip)" stroke="var(--a2)" stroke-opacity=".45"/><circle cx="125.0" cy="562" r="2.4" fill="var(--a2)"/><text x="133.0" y="566" class="m chipt">CVAT</text></g>
+<g><rect x="170.8" y="550" width="48.8" height="24" rx="12" fill="var(--chip)" stroke="var(--a2)" stroke-opacity=".45"/><circle cx="181.8" cy="562" r="2.4" fill="var(--a2)"/><text x="189.8" y="566" class="m chipt">YOLO</text></g>
+<g><rect x="227.6" y="550" width="48.8" height="24" rx="12" fill="var(--chip)" stroke="var(--a2)" stroke-opacity=".45"/><circle cx="238.6" cy="562" r="2.4" fill="var(--a2)"/><text x="246.6" y="566" class="m chipt">COCO</text></g>
+<g><rect x="284.4" y="550" width="89.0" height="24" rx="12" fill="var(--chip)" stroke="var(--a2)" stroke-opacity=".45"/><circle cx="295.4" cy="562" r="2.4" fill="var(--a2)"/><text x="303.4" y="566" class="m chipt">Dataset QA</text></g>
 </g>
-<g transform="translate(40,540)">
- <rect width="1200" height="154" rx="18" fill="#111827" stroke="#22d3ee" stroke-opacity=".4"/>
- <rect width="6" height="154" rx="3" fill="#22d3ee"/>
- <text x="28" y="38" class="h">Human Resources Intern</text>
- <text x="28" y="64" class="sub">MGA Industries Pvt. Ltd.</text>
- <text x="28" y="86" class="meta">Manga Mandi, Lahore · August 2025 – September 2025</text>
- <circle cx="34" cy="112" r="3" fill="#22d3ee"/><text x="48" y="117" class="body">Supported recruitment, interview coordination, onboarding, employee records and payroll inputs.</text>
- <circle cx="34" cy="138" r="3" fill="#22d3ee"/><text x="48" y="143" class="body">Used Oracle HR records and supported workforce documentation and compliance tracking.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.22 0.61 0.36 1" begin="0.51s" dur="0.9s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 18;0 0" keyTimes="0;1" calcMode="spline" keySplines="0.16 1 0.3 1" begin="0.51s" dur="1.1s" fill="freeze"/>
+<path d="M53 640H84" stroke="var(--a3)" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 4" stroke-linecap="round"/>
+<circle cx="44" cy="640" r="9" fill="var(--bg)" stroke="var(--a3)" stroke-width="2"/><circle cx="44" cy="640" r="3.6" fill="var(--a3)"/>
+<rect x="84" y="606" width="1156" height="208" rx="18" fill="url(#cardG)" stroke="var(--border)"/>
+<path d="M106 606.6H1218" stroke="url(#pxGloss)" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="84" y="624" width="4" height="172" rx="2" fill="var(--a3)"/>
+<text x="114" y="646" class="h">Human Resources Intern</text>
+<text x="114" y="670"><tspan class="org" fill="var(--a3)">MGA Industries Pvt. Ltd.</tspan><tspan class="meta" dx="9">·  Manga Mandi, Lahore</tspan></text>
+<rect x="1049.4" y="628" width="166.6" height="28" rx="14" fill="var(--chip)" stroke="var(--border)"/><text x="1132.7" y="646" text-anchor="middle" class="m date">AUG 2025 – SEP 2025</text>
+<line x1="114" y1="686" x2="1216" y2="686" stroke="var(--border)"/>
+<path d="M117 710l3 3 5-6" fill="none" stroke="var(--a3)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="714" class="body">Supported recruitment, interview coordination, onboarding, employee records and payroll inputs.</text>
+<path d="M117 736l3 3 5-6" fill="none" stroke="var(--a3)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="740" class="body">Used Oracle HR records and supported workforce documentation and compliance tracking.</text>
+<g><rect x="114.0" y="776" width="82.3" height="24" rx="12" fill="var(--chip)" stroke="var(--a3)" stroke-opacity=".45"/><circle cx="125.0" cy="788" r="2.4" fill="var(--a3)"/><text x="133.0" y="792" class="m chipt">Oracle HR</text></g>
+<g><rect x="204.3" y="776" width="95.7" height="24" rx="12" fill="var(--chip)" stroke="var(--a3)" stroke-opacity=".45"/><circle cx="215.3" cy="788" r="2.4" fill="var(--a3)"/><text x="223.3" y="792" class="m chipt">Recruitment</text></g>
+<g><rect x="308.0" y="776" width="89.0" height="24" rx="12" fill="var(--chip)" stroke="var(--a3)" stroke-opacity=".45"/><circle cx="319.0" cy="788" r="2.4" fill="var(--a3)"/><text x="327.0" y="792" class="m chipt">Onboarding</text></g>
+<g><rect x="405.0" y="776" width="115.8" height="24" rx="12" fill="var(--chip)" stroke="var(--a3)" stroke-opacity=".45"/><circle cx="416.0" cy="788" r="2.4" fill="var(--a3)"/><text x="424.0" y="792" class="m chipt">Payroll inputs</text></g>
 </g>
-<g transform="translate(40,712)">
- <rect width="1200" height="154" rx="18" fill="#111827" stroke="#fbbf24" stroke-opacity=".4"/>
- <rect width="6" height="154" rx="3" fill="#fbbf24"/>
- <text x="28" y="38" class="h">Front-End Development Intern</text>
- <text x="28" y="64" class="sub">Tara Technologies Pvt. Ltd.</text>
- <text x="28" y="86" class="meta">Lahore · July 2023 – September 2023</text>
- <circle cx="34" cy="112" r="3" fill="#fbbf24"/><text x="48" y="117" class="body">Translated Figma and creative-tool designs into responsive HTML/CSS interfaces for live client projects.</text>
- <circle cx="34" cy="138" r="3" fill="#fbbf24"/><text x="48" y="143" class="body">Collaborated through Git/GitHub and iterated on UI feedback and cross-browser consistency.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;1" keyTimes="0;1" calcMode="spline" keySplines="0.22 0.61 0.36 1" begin="0.69s" dur="0.9s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 18;0 0" keyTimes="0;1" calcMode="spline" keySplines="0.16 1 0.3 1" begin="0.69s" dur="1.1s" fill="freeze"/>
+<path d="M53 866H84" stroke="var(--a5)" stroke-opacity=".45" stroke-width="1.2" stroke-dasharray="2 4" stroke-linecap="round"/>
+<circle cx="44" cy="866" r="9" fill="var(--bg)" stroke="var(--a5)" stroke-width="2"/><circle cx="44" cy="866" r="3.6" fill="var(--a5)"/>
+<rect x="84" y="832" width="1156" height="208" rx="18" fill="url(#cardG)" stroke="var(--border)"/>
+<path d="M106 832.6H1218" stroke="url(#pxGloss)" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="84" y="850" width="4" height="172" rx="2" fill="var(--a5)"/>
+<text x="114" y="872" class="h">Front-End Development Intern</text>
+<text x="114" y="896"><tspan class="org" fill="var(--a5)">Tara Technologies Pvt. Ltd.</tspan><tspan class="meta" dx="9">·  Lahore</tspan></text>
+<rect x="1049.4" y="854" width="166.6" height="28" rx="14" fill="var(--chip)" stroke="var(--border)"/><text x="1132.7" y="872" text-anchor="middle" class="m date">JUL 2023 – SEP 2023</text>
+<line x1="114" y1="912" x2="1216" y2="912" stroke="var(--border)"/>
+<path d="M117 936l3 3 5-6" fill="none" stroke="var(--a5)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="940" class="body">Translated Figma and creative-tool designs into responsive HTML/CSS interfaces for live client projects.</text>
+<path d="M117 962l3 3 5-6" fill="none" stroke="var(--a5)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><text x="136" y="966" class="body">Collaborated through Git/GitHub and iterated on UI feedback and cross-browser consistency.</text>
+<g><rect x="114.0" y="1002" width="55.5" height="24" rx="12" fill="var(--chip)" stroke="var(--a5)" stroke-opacity=".45"/><circle cx="125.0" cy="1014" r="2.4" fill="var(--a5)"/><text x="133.0" y="1018" class="m chipt">Figma</text></g>
+<g><rect x="177.5" y="1002" width="89.0" height="24" rx="12" fill="var(--chip)" stroke="var(--a5)" stroke-opacity=".45"/><circle cx="188.5" cy="1014" r="2.4" fill="var(--a5)"/><text x="196.5" y="1018" class="m chipt">HTML / CSS</text></g>
+<g><rect x="274.5" y="1002" width="102.4" height="24" rx="12" fill="var(--chip)" stroke="var(--a5)" stroke-opacity=".45"/><circle cx="285.5" cy="1014" r="2.4" fill="var(--a5)"/><text x="293.5" y="1018" class="m chipt">Git / GitHub</text></g>
 </g>
-</svg>
+</g></svg>
