@@ -1,24 +1,24 @@
 <svg width="1280" height="36" viewBox="0 0 1280 36" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --bg: #080C12; --bg2: #111A22; --card: rgba(255,255,255,0.04); --cardHi: rgba(255,255,255,0.085);
-      --border: rgba(255,255,255,0.10); --text: #F8FAFC; --text2: #DCE6EE; --muted: #AAB8C4; --muted2: #8093A3;
-      --a1: #F5B544; --a2: #2DD4BF; --a3: #5B9BFF; --a4: #FFD88C; --a5: #38BDF8; --ok: #5EE08A;
-      --chip: rgba(255,255,255,0.05); --chipB: rgba(255,255,255,0.14); --track: rgba(255,255,255,0.075); --grid: rgba(255,255,255,0.05);
-    }
+      --bg: #0A0A0F; --bg2: #1C1C1E; --card: rgba(255,255,255,0.045); --cardHi: rgba(255,255,255,0.095);
+      --border: rgba(255,255,255,0.11); --text: #FFFFFF; --text2: #E5E5EA; --muted: #AEAEB2; --muted2: #8E8E93;
+      --a1: #0A84FF; --a2: #7D7AFF; --a3: #66D4CF; --a4: #64D2FF; --a5: #BF5AF2; --ok: #30D158;
+      --chip: rgba(255,255,255,0.06); --chipB: rgba(255,255,255,0.16); --track: rgba(255,255,255,0.09); --grid: rgba(255,255,255,0.045); --spec: #FFFFFF;
+      }
     @media (prefers-color-scheme: light) {
       :root {
-        --bg: #FFFFFF; --bg2: #F8F5EE; --card: rgba(15,23,42,0.025); --cardHi: rgba(15,23,42,0.06);
-        --border: rgba(15,23,42,0.12); --text: #111A30; --text2: #344563; --muted: #475569; --muted2: #7A8794;
-        --a1: #B45309; --a2: #0F766E; --a3: #1D4ED8; --a4: #B45309; --a5: #0369A1; --ok: #15803D;
-        --chip: rgba(15,23,42,0.04); --chipB: rgba(15,23,42,0.16); --track: rgba(15,23,42,0.09); --grid: rgba(15,23,42,0.06);
+        --bg: #FFFFFF; --bg2: #F2F2F7; --card: rgba(60,60,67,0.03); --cardHi: rgba(60,60,67,0.07);
+        --border: rgba(60,60,67,0.16); --text: #1C1C1E; --text2: #3A3A3C; --muted: #545458; --muted2: #6E6E73;
+        --a1: #007AFF; --a2: #5856D6; --a3: #0F8F86; --a4: #0A84C1; --a5: #A23FD1; --ok: #248A3D;
+        --chip: rgba(60,60,67,0.05); --chipB: rgba(60,60,67,0.20); --track: rgba(60,60,67,0.11); --grid: rgba(60,60,67,0.07); --spec: #007AFF;
       }
     }
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
     .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
 </style>
   <defs>
-    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a5)"/><animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/><animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></linearGradient>
+    <linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a5)"/><animate attributeName="x1" values="0%;100%;0%" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/><animate attributeName="x2" values="100%;0%;100%" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></linearGradient>
     <linearGradient id="accH" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="var(--a1)"/><stop offset="55%" stop-color="var(--a2)"/><stop offset="100%" stop-color="var(--a5)"/></linearGradient>
     <linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--bg)"/><stop offset="100%" stop-color="var(--bg2)"/></linearGradient>
     <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="var(--cardHi)"/><stop offset="100%" stop-color="var(--card)"/></linearGradient>
@@ -29,5 +29,5 @@
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
     <clipPath id="clip"><rect width="1280" height="36" rx="0"/></clipPath>
   </defs>
-  <rect x="40" y="17" width="1200" height="2" rx="1" fill="url(#fade)" opacity="0.8"/><g transform="translate(640,18)"><rect x="-6" y="-6" width="12" height="12" rx="2" transform="rotate(45)" fill="url(#acc)"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/></rect><circle cx="-26" r="2.5" fill="var(--a1)" opacity="0.8"/><circle cx="26" r="2.5" fill="var(--a2)" opacity="0.8"/></g>
+  <rect x="40" y="17" width="1200" height="2" rx="1" fill="url(#fade)" opacity="0.8"/><g transform="translate(640,18)"><rect x="-6" y="-6" width="12" height="12" rx="2" transform="rotate(45)" fill="url(#acc)"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></rect><circle cx="-26" r="2.5" fill="var(--a1)" opacity="0.8"/><circle cx="26" r="2.5" fill="var(--a2)" opacity="0.8"/></g>
 </svg>

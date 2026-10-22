@@ -1,29 +1,29 @@
 <svg width="1280" height="290" viewBox="0 0 1280 290" xmlns="http://www.w3.org/2000/svg">
   <style>
     :root {
-      --bg: #05080C;
-      --border: rgba(255,255,255,0.09);
-      --text: #F8FAFC;
-      --muted: #AAB8C4;
-      --accent1: #F5B544;
-      --accent2: #2DD4BF;
-      --accent3: #34D399;
-      --pillBg: rgba(255,255,255,0.05);
-      --pillBorder: rgba(255,255,255,0.14);
-      --pillHover: rgba(255,255,255,0.09);
+      --bg: #0A0A0F;
+      --border: rgba(255,255,255,0.11);
+      --text: #FFFFFF;
+      --muted: #AEAEB2;
+      --accent1: #0A84FF;
+      --accent2: #7D7AFF;
+      --accent3: #BF5AF2;
+      --pillBg: rgba(255,255,255,0.06);
+      --pillBorder: rgba(255,255,255,0.16);
+      --pillHover: rgba(255,255,255,0.10);
     }
     @media (prefers-color-scheme: light) {
       :root {
         --bg: #FFFFFF;
-        --border: rgba(15,23,42,0.09);
-        --text: #111A30;
-        --muted: #7A8794;
-        --accent1: #3B82F6;
-        --accent2: #06B6D4;
-        --accent3: #34D399;
-        --pillBg: rgba(15,23,42,0.035);
-        --pillBorder: rgba(15,23,42,0.14);
-        --pillHover: rgba(15,23,42,0.06);
+        --border: rgba(60,60,67,0.16);
+        --text: #1C1C1E;
+        --muted: #545458;
+        --accent1: #007AFF;
+        --accent2: #5856D6;
+        --accent3: #A23FD1;
+        --pillBg: rgba(60,60,67,0.045);
+        --pillBorder: rgba(60,60,67,0.18);
+        --pillHover: rgba(60,60,67,0.08);
       }
     }
     text { font-family: -apple-system, "Segoe UI", ui-sans-serif, Helvetica, Arial, sans-serif; }
@@ -35,8 +35,8 @@
       <stop offset="0%" stop-color="var(--accent1)"/>
       <stop offset="50%" stop-color="var(--accent2)"/>
       <stop offset="100%" stop-color="var(--accent3)"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
     </linearGradient>
     <radialGradient id="glowF1" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="var(--accent1)" stop-opacity="0.22"/>
@@ -48,7 +48,7 @@
     </radialGradient>
     <clipPath id="cardClipF"><rect width="1280" height="290" rx="26"/></clipPath>
   
-    <linearGradient id="pxShine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a4,#FFD88C)" stop-opacity="0"/><stop offset="50%" stop-color="var(--a4,#FFD88C)" stop-opacity="0.20"/><stop offset="100%" stop-color="var(--a4,#FFD88C)" stop-opacity="0"/></linearGradient>
+    <linearGradient id="pxShine" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="var(--a4,#64D2FF)" stop-opacity="0"/><stop offset="50%" stop-color="var(--a4,#64D2FF)" stop-opacity="0.20"/><stop offset="100%" stop-color="var(--a4,#64D2FF)" stop-opacity="0"/></linearGradient>
     <filter id="pxGoo" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="42"/></filter>
     <filter id="pxGrain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7" result="n"/><feColorMatrix in="n" type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0.9 -0.28"/></filter>
   </defs>
@@ -57,13 +57,13 @@
     <rect width="1280" height="290" fill="var(--bg)"/>
 
     <circle cx="100" cy="246" r="216" fill="url(#glowF1)">
-      <animate attributeName="cy" values="230;200;230" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <animate attributeName="cy" values="230;200;230" dur="10s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
     </circle>
     <circle cx="1180" cy="44" r="240" fill="url(#glowF2)">
-      <animate attributeName="cy" values="40;70;40" dur="11s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <animate attributeName="cy" values="40;70;40" dur="11s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
     </circle>
 
-    <rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="url(#accentF)" stroke-opacity="0.55" stroke-width="1.5"/><g><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#2DD4BF)" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.16" pathLength="100" stroke-dasharray="22 78" stroke-dashoffset="0" pointer-events="none"><animate attributeName="stroke-dashoffset" values="0;-100" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#2DD4BF)" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.42" pathLength="100" stroke-dasharray="11 89" stroke-dashoffset="-11" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-11;-111" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#2DD4BF)" stroke-width="1.8" stroke-linecap="round" stroke-opacity="1.0" pathLength="100" stroke-dasharray="4 96" stroke-dashoffset="-18" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-18;-118" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#F5B544)" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.16" pathLength="100" stroke-dasharray="22 78" stroke-dashoffset="0" pointer-events="none"><animate attributeName="stroke-dashoffset" values="0;-100" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#F5B544)" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.42" pathLength="100" stroke-dasharray="11 89" stroke-dashoffset="-11" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-11;-111" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#F5B544)" stroke-width="1.8" stroke-linecap="round" stroke-opacity="1.0" pathLength="100" stroke-dasharray="4 96" stroke-dashoffset="-18" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-18;-118" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect></g>
+    <rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="url(#accentF)" stroke-opacity="0.55" stroke-width="1.5"/><g><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#7D7AFF)" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.16" pathLength="100" stroke-dasharray="22 78" stroke-dashoffset="0" pointer-events="none"><animate attributeName="stroke-dashoffset" values="0;-100" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#7D7AFF)" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.42" pathLength="100" stroke-dasharray="11 89" stroke-dashoffset="-11" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-11;-111" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a2,#7D7AFF)" stroke-width="1.8" stroke-linecap="round" stroke-opacity="1.0" pathLength="100" stroke-dasharray="4 96" stroke-dashoffset="-18" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-18;-118" dur="12s" begin="1.6s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#0A84FF)" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.16" pathLength="100" stroke-dasharray="22 78" stroke-dashoffset="0" pointer-events="none"><animate attributeName="stroke-dashoffset" values="0;-100" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#0A84FF)" stroke-width="2.2" stroke-linecap="round" stroke-opacity="0.42" pathLength="100" stroke-dasharray="11 89" stroke-dashoffset="-11" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-11;-111" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect><rect x="1.25" y="1.25" width="1277.5" height="287.5" rx="24.75" fill="none" stroke="var(--a1,#0A84FF)" stroke-width="1.8" stroke-linecap="round" stroke-opacity="1.0" pathLength="100" stroke-dasharray="4 96" stroke-dashoffset="-18" pointer-events="none"><animate attributeName="stroke-dashoffset" values="-18;-118" dur="12s" begin="-4.4s" repeatCount="indefinite"/></rect></g>
 
     <!-- eyebrow -->
     <g class="mono" font-size="12.5" fill="url(#accentF)" text-anchor="middle">
