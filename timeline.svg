@@ -1,16 +1,16 @@
 <svg width="1280" height="1070" viewBox="0 0 1280 1070" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional experience timeline: Maryum N Maria, Nex Pred Solutions, MGA Industries, Tara Technologies">
   <style>
     :root {
-      --bg: #0A0A0F; --bg2: #1C1C1E; --card: rgba(255,255,255,0.045); --cardHi: rgba(255,255,255,0.095);
+      --bg: #050506; --bg2: #121214; --card: rgba(255,255,255,0.03); --cardHi: rgba(255,255,255,0.07);
       --border: rgba(255,255,255,0.11); --text: #FFFFFF; --text2: #E5E5EA; --muted: #AEAEB2; --muted2: #8E8E93;
-      --a1: #0A84FF; --a2: #7D7AFF; --a3: #66D4CF; --a4: #64D2FF; --a5: #BF5AF2; --ok: #30D158;
+      --a1: #0A84FF; --a2: #3D9BFF; --a3: #64D2FF; --a4: #8EC5FF; --a5: #5AC8FA; --ok: #30D158;
       --chip: rgba(255,255,255,0.06); --track: rgba(255,255,255,0.09); --grid: rgba(255,255,255,0.045); --spec: #FFFFFF;
       }
     @media (prefers-color-scheme: light) {
       :root {
         --bg: #FFFFFF; --bg2: #F2F2F7; --card: rgba(60,60,67,0.03); --cardHi: rgba(60,60,67,0.07);
         --border: rgba(60,60,67,0.16); --text: #1C1C1E; --text2: #3A3A3C; --muted: #545458; --muted2: #6E6E73;
-        --a1: #007AFF; --a2: #5856D6; --a3: #0F8F86; --a4: #0A84C1; --a5: #A23FD1; --ok: #248A3D;
+        --a1: #007AFF; --a2: #1F6FE0; --a3: #0A84C1; --a4: #3A8BEA; --a5: #0A8FBF; --ok: #248A3D;
         --chip: rgba(60,60,67,0.05); --track: rgba(60,60,67,0.11); --grid: rgba(60,60,67,0.07); --spec: #007AFF;
       }
     }

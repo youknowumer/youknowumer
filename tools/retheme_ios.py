@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """iOS system-colour theme ("Apple Glass") for the profile SVGs.
 
-Amber / teal / champagne  ->  iOS Blue / Indigo / Purple / Cyan / Mint
+Amber / teal / champagne  ->  single iOS Blue family (blue, azure, sky) + neutral greys
 Warm-neutral ink          ->  iOS system greys (secondarySystemBackground family)
 Linear entrances          ->  spring entrances (overshoot + settle), iOS ease curves
 Flat card highlights      ->  specular glass edge (white in dark mode, blue in light mode)
@@ -15,8 +15,8 @@ os.makedirs(DST, exist_ok=True)
 
 # ---- iOS system palette --------------------------------------------------
 # dark  : iOS dark-mode system colours      light : iOS light-mode system colours (a touch deeper for text contrast)
-DK = dict(blue='0A84FF', indigo='7D7AFF', purple='BF5AF2', cyan='64D2FF', mint='66D4CF', green='30D158')
-LT = dict(blue='007AFF', indigo='5856D6', purple='A23FD1', cyan='0A84C1', mint='0F8F86', green='248A3D')
+DK = dict(blue='0A84FF', indigo='3D9BFF', purple='5AC8FA', cyan='8EC5FF', mint='64D2FF', green='30D158')
+LT = dict(blue='007AFF', indigo='1F6FE0', purple='0A8FBF', cyan='3A8BEA', mint='0A84C1', green='248A3D')
 
 def accents(P):
     # a1..a5 : gradient order is a1 -> a2 -> a5  (blue -> indigo -> purple)
@@ -24,8 +24,8 @@ def accents(P):
             'accent1': P['blue'], 'accent2': P['indigo'], 'accent3': P['purple'], 'accent4': P['cyan'], 'accent5': P['mint']}
 
 VARS_DARK = {
-    'bg': '#0A0A0F', 'bg2': '#1C1C1E', 'surface': '#141418', 'surface2': '#1C1C1E', 'border2': '#38383A',
-    'card': 'rgba(255,255,255,0.045)', 'cardHi': 'rgba(255,255,255,0.095)', 'border': 'rgba(255,255,255,0.11)',
+    'bg': '#050506', 'bg2': '#121214', 'surface': '#101012', 'surface2': '#1C1C1E', 'border2': '#38383A',
+    'card': 'rgba(255,255,255,0.03)', 'cardHi': 'rgba(255,255,255,0.07)', 'border': 'rgba(255,255,255,0.11)',
     'text': '#FFFFFF', 'text2': '#E5E5EA', 'muted': '#AEAEB2', 'muted2': '#8E8E93',
     'chip': 'rgba(255,255,255,0.06)', 'chipB': 'rgba(255,255,255,0.16)', 'track': 'rgba(255,255,255,0.09)',
     'grid': 'rgba(255,255,255,0.045)', 'pillBg': 'rgba(255,255,255,0.06)', 'pillBorder': 'rgba(255,255,255,0.16)',
@@ -45,7 +45,7 @@ V_L = {**VARS_LIGHT, **{k: '#' + v for k, v in accents(LT).items()}}
 # hard-coded hexes left over from the previous "Ember & Lagoon" pass (fallbacks, robot.svg ink)
 HEX_DARK = {
     'F5B544': DK['blue'], '2DD4BF': DK['indigo'], 'FFD88C': DK['cyan'], '5EE08A': DK['green'], '38BDF8': DK['purple'],
-    '3A4650': '3A3A3C', '2B343D': '2C2C2E', '06090E': '050507', '1A2128': '1C1C1E', '10131F': '0F0F14',
+    '3A4650': '3A3A3C', '2B343D': '2C2C2E', '06090E': '050506', '1A2128': '1C1C1E', '10131F': '0C0C0E',
     '34404A': '38383A', '1E252C': '1F1F22', '12171C': '141416', '151B21': '18181A', '080C12': '0A0A0F', '111A22': '1C1C1E',
 }
 HEX_LIGHT = dict(HEX_DARK, **{'F5B544': LT['blue'], '2DD4BF': LT['indigo'], 'FFD88C': LT['cyan'], '38BDF8': LT['purple']})
@@ -129,10 +129,12 @@ def ios_curves(s):
 
 
 def calmer_aurora(s):
-    # ambient blobs (<circle ... fill="var(--aN,#xxxxxx)"> that carry <animate> children) stay in the
-    # blue / indigo / purple / cyan family; the mint blob read as a muddy green smudge
-    return re.sub(r'(<circle cx="\d+" cy="\d+" r="\d+" fill=")var\(--a3,#[0-9A-Fa-f]{6}\)(">)',
-                  r'\1var(--a1,#0A84FF)\2', s)
+    # ambient blobs: single blue family, very soft
+    s = re.sub(r'(<circle cx="\d+" cy="\d+" r="\d+" fill=")var\(--a[3-5],#[0-9A-Fa-f]{6}\)(">)', r'\1var(--a1,#0A84FF)\2', s)
+    s = s.replace('opacity="0.22" pointer-events="none"', 'opacity="0.13" pointer-events="none"')
+    s = s.replace('.pxAur{opacity:.22}@media (prefers-color-scheme: light){.pxAur{opacity:.11}}',
+                  '.pxAur{opacity:.13}@media (prefers-color-scheme: light){.pxAur{opacity:.08}}')
+    return s
 
 
 for f in sorted(glob.glob(os.path.join(SRC, '*.svg'))):
