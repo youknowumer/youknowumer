@@ -1,4 +1,4 @@
-<svg width="1280" height="572" viewBox="0 0 1280 572" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="1280" height="572" viewBox="0 0 1280 572" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d"><title id="t">Featured projects</title><desc id="d">Artisan Aura Creations on Odoo ERP and the Student Registration and Library Management database in Oracle.</desc>
   <style>
     :root {
       --bg: #050506; --bg2: #121214; --card: rgba(255,255,255,0.03); --cardHi: rgba(255,255,255,0.07);

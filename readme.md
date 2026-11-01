@@ -4,9 +4,12 @@
 
 <br/>
 
+<p><b>ERP Management Trainee</b> &nbsp;·&nbsp; SAP &nbsp;·&nbsp; Odoo &nbsp;·&nbsp; Business Reporting &nbsp;·&nbsp; Lahore, Pakistan</p>
+
 <p>
   <a href="#about-me"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#what-i-deliver"><b>Services</b></a> &nbsp;·&nbsp;
+  <a href="#erp-delivery-lifecycle"><b>Lifecycle</b></a> &nbsp;·&nbsp;
   <a href="#tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
   <a href="#professional-experience"><b>Experience</b></a> &nbsp;·&nbsp;
   <a href="#featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
@@ -65,20 +68,20 @@ I aim to connect the functional and technical sides: understand the business pro
 
 <img src="divider.svg" alt="" width="100%" />
 
-## System Status
+## What I Deliver
 
 <div align="center">
-<img src="robot.svg" alt="Animated robotic status mascot: online and ready to collaborate" width="100%" />
+<img src="services.svg" alt="Four core capabilities: Frontend Engineering, BI and Data, ERP and CRM, Creative and Brand" width="100%" />
 </div>
 
 <br/>
 
 <img src="divider.svg" alt="" width="100%" />
 
-## What I Deliver
+## ERP Delivery Lifecycle
 
 <div align="center">
-<img src="services.svg" alt="Four core capabilities: Frontend Engineering, BI and Data, ERP and CRM, Creative and Brand" width="100%" />
+<img src="erp-lifecycle.svg" alt="ERP delivery lifecycle: requirements, configure, test, go-live and support" width="100%" />
 </div>
 
 <br/>
@@ -228,11 +231,21 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
+## System Status
+
+<div align="center">
+<img src="robot.svg" alt="Animated robotic status mascot: online and ready to collaborate" width="100%" />
+</div>
+
+<br/>
+
+<img src="divider.svg" alt="" width="100%" />
+
 ## Get in Touch
 
 <div align="center">
 
-<img src="footer-cta.svg" alt="Let's build something great. Open to frontend, BI and ERP opportunities" width="100%" />
+<img src="footer-cta.svg" alt="Let's build something great. Open to ERP, BI and frontend opportunities" width="100%" />
 
 <br/>
 

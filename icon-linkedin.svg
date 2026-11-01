@@ -1,4 +1,4 @@
-<svg width="280" height="76" viewBox="0 0 280 76" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="280" height="76" viewBox="0 0 280 76" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d"><title id="t">LinkedIn</title><desc id="d">LinkedIn profile: in/youknowumer</desc>
   <style>
     :root {
       --bg: #050506; --bg2: #121214; --card: rgba(255,255,255,0.03); --cardHi: rgba(255,255,255,0.07);

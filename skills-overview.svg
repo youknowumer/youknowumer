@@ -1,4 +1,4 @@
-<svg width="1280" height="490" viewBox="0 0 1280 490" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="1280" height="490" viewBox="0 0 1280 490" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d"><title id="t">Tech stack</title><desc id="d">Tools across web, data and BI, ERP, collaboration, design, analytics and office.</desc>
   <style>
     :root {
       --bg: #050506; --bg2: #121214; --card: rgba(255,255,255,0.03); --cardHi: rgba(255,255,255,0.07);
