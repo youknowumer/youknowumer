@@ -176,23 +176,26 @@ def build():
         A(f'<rect x="{x-5}" y="168" width="10" height="28" rx="5" fill="url(#armorHi)" stroke="{STROKE}" stroke-width="1.4"/>'
           f'<rect x="{x-1.5}" y="176" width="3" height="12" rx="1.5" fill="#FF9F0A">' + breathe(.9, .3, 5.1, 'opacity', 0 if x < 200 else .8) + '</rect>')
     A('<path d="M184 212 H196 M184 217 H192 M256 212 H244 M256 217 H248" stroke="#000" stroke-opacity=".4" stroke-width="1.6" stroke-linecap="round"/>')
-    # lens eye: housing -> ring -> iris (looks around, refocuses) -> specular
-    A(f'<circle cx="220" cy="176" r="24" fill="#0A0705" stroke="{STROKE}" stroke-width="2"/>')
-    A('<circle cx="220" cy="176" r="21" fill="none" stroke="url(#trimG)" stroke-width="2"/>')
-    A('<circle cx="220" cy="176" r="17" fill="none" stroke="#FFB340" stroke-width=".8" stroke-opacity=".4" stroke-dasharray="2.5 4">'
-      '<animateTransform attributeName="transform" type="rotate" from="0 220 176" to="-360 220 176" dur="30s" repeatCount="indefinite"/></circle>')
-    glance = [(0, '0 0', EASE), (.12, '0 0', EASE), (.22, '-4 .6', EASE), (.43, '-4 .6', EASE), (.50, '0 0', EASE),
-              (.69, '0 0', EASE), (.80, '4 -.4', EASE), (.95, '4 -.4', EASE), (1, '0 0', EASE)]
+    # visor band with two eyes: look around together, blink like eyelids (double-blink now and then)
+    A('<path d="M190 155 Q220 148 250 155" fill="none" stroke="url(#trimG)" stroke-width="1.8" stroke-linecap="round" opacity=".85"/>')
+    A(f'<rect x="184" y="160" width="72" height="34" rx="15" fill="url(#screenG)" stroke="url(#trimG)" stroke-width="2"/>')
+    A('<clipPath id="visorClip2"><rect x="184" y="160" width="72" height="34" rx="15"/></clipPath>')
+    A('<g clip-path="url(#visorClip2)"><rect x="160" y="160" width="20" height="34" fill="url(#scanG)" opacity="0">'
+      + anim('x', [(0, 160, EASE), (.55, 258, EASE), (1, 258, EASE)], 8)
+      + anim('opacity', [(0, 0, EASE), (.05, 1, EASE), (.5, 1, EASE), (.55, 0, EASE), (1, 0, EASE)], 8) + '</rect></g>')
+    glance = [(0, '0 0', EASE), (.12, '0 0', EASE), (.22, '-3.4 .5', EASE), (.43, '-3.4 .5', EASE), (.50, '0 0', EASE),
+              (.69, '0 0', EASE), (.80, '3.4 -.4', EASE), (.95, '3.4 -.4', EASE), (1, '0 0', EASE)]
 
-    def focus(o, c):  # aperture closes quickly twice (refocus), opens slowly
-        return [(0, o, EASE), (.58, o, EASE), (.615, c, EASE), (.67, o, EASE), (.72, o, EASE), (.74, c, EASE), (.79, o, EASE), (1, o, EASE)]
+    def blink_f(o, c):
+        return [(0, o, EASE), (.60, o, EASE), (.615, c, EASE), (.645, o, EASE), (.70, o, EASE), (.715, c, EASE), (.745, o, EASE), (1, o, EASE)]
     A('<g>' + anim('translate', glance, 14))
-    A('<circle cx="220" cy="176" r="15" fill="url(#eyeGlow)"/>')
-    A('<ellipse cx="220" cy="176" rx="10.5" ry="10.5" fill="url(#irisG)">' + anim('ry', focus(10.5, 3.2), 6.4) + '</ellipse>')
-    A('<ellipse cx="220" cy="176" rx="3.6" ry="3.6" fill="#1a0e06">' + anim('ry', focus(3.6, 1.2), 6.4) + '</ellipse>')
-    A('<circle cx="216.2" cy="172.2" r="2" fill="#FFF1DC" opacity=".85">' + anim('r', focus(2, .1), 6.4) + '</circle>')
+    for x in (204, 236):
+        A(f'<ellipse cx="{x}" cy="177" rx="13" ry="13" fill="url(#eyeGlow)">' + anim('ry', blink_f(13, 1.6), 6.4) + '</ellipse>')
+        A(f'<ellipse cx="{x}" cy="177" rx="8" ry="8" fill="url(#irisG)" stroke="#FFB340" stroke-width=".8" stroke-opacity=".6">' + anim('ry', blink_f(8, .8), 6.4) + '</ellipse>')
+        A(f'<ellipse cx="{x}" cy="177" rx="2.9" ry="2.9" fill="#1a0e06">' + anim('ry', blink_f(2.9, .5), 6.4) + '</ellipse>')
+        A(f'<circle cx="{x - 2.6}" cy="173.6" r="1.6" fill="#FFF1DC" opacity=".85">' + anim('r', blink_f(1.6, .1), 6.4) + '</circle>')
     A('</g>')
-    A('<path d="M200 160 Q214 154 234 158 L226 166 Q212 164 202 172Z" fill="url(#glassG)"/>')
+    A('<path d="M190 165 Q206 161 232 164 L224 171 Q208 169 192 177Z" fill="url(#glassG)"/>')
     A('</g></g></g></g>')  # head
 
     # ---- arms (+ pauldrons on top)

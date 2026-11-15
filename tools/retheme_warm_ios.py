@@ -18,7 +18,7 @@ os.makedirs(DST, exist_ok=True)
 # ---- accent families -------------------------------------------------------
 # a1 -> a2 -> a5 is the gradient order used by every SVG (blue->indigo->sky before)
 DK = dict(a1='FF9F0A', a2='FF7A3D', a3='F2C14E', a4='FFC987', a5='FFB340', ok='30D158')
-LT = dict(a1='D96A00', a2='C2501A', a3='B07A00', a4='D98A3D', a5='E08A00', ok='248A3D')
+LT = dict(a1='D96A00', a2='C2501A', a3='B07A00', a4='B86A1F', a5='E08A00', ok='248A3D')
 
 # ---- neutrals --------------------------------------------------------------
 N_DARK = {
