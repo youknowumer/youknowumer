@@ -10,12 +10,15 @@
   <a href="#about-me"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#what-i-deliver"><b>Services</b></a> &nbsp;·&nbsp;
   <a href="#erp-delivery-lifecycle"><b>Lifecycle</b></a> &nbsp;·&nbsp;
-  <a href="#tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
   <a href="#professional-experience"><b>Experience</b></a> &nbsp;·&nbsp;
   <a href="#featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
   <a href="#education--languages"><b>Education</b></a> &nbsp;·&nbsp;
-  <a href="#awards--recognition"><b>Awards</b></a> &nbsp;·&nbsp;
   <a href="#certifications"><b>Certifications</b></a> &nbsp;·&nbsp;
+  <a href="#awards--recognition"><b>Awards</b></a> &nbsp;·&nbsp;
+  <a href="#current-focus"><b>Focus</b></a> &nbsp;·&nbsp;
+  <a href="#github-activity"><b>Activity</b></a> &nbsp;·&nbsp;
+  <a href="#system-status"><b>Status</b></a> &nbsp;·&nbsp;
   <a href="#get-in-touch"><b>Contact</b></a>
 </p>
 
@@ -31,7 +34,8 @@
 
 <br/>
 
-## About Me
+<br/>
+<h2 align="center">About Me</h2>
 
 I'm a **BBIS (Bachelor of Business Information Systems)** graduate from UMT, Lahore (Class of 2026), working across **SAP functional processes, Odoo ERP implementation, business reporting, and data operations**. In my current role as an **ERP Management Trainee Officer at Maryum N Maria**, I support SAP business processes as a core responsibility and contribute to Odoo implementation, customization, reporting, issue investigation, bug fixing, and go-live activities. My work sits at the intersection of business operations and enterprise technology: understanding the process, tracing the issue, validating the data, and helping deliver a system change users can rely on. I focus on clear requirements, controlled testing, useful reporting, and stable handover into live operations.
 
@@ -68,7 +72,7 @@ I aim to connect the functional and technical sides: understand the business pro
 
 <img src="divider.svg" alt="" width="100%" />
 
-## What I Deliver
+<h2 align="center">What I Deliver</h2>
 
 <div align="center">
 <img src="services.svg" alt="Four core capabilities: Frontend Engineering, BI and Data, ERP and CRM, Creative and Brand" width="100%" />
@@ -78,7 +82,7 @@ I aim to connect the functional and technical sides: understand the business pro
 
 <img src="divider.svg" alt="" width="100%" />
 
-## ERP Delivery Lifecycle
+<h2 align="center">ERP Delivery Lifecycle</h2>
 
 <div align="center">
 <img src="erp-lifecycle.svg" alt="ERP delivery lifecycle: requirements, configure, test, go-live and support" width="100%" />
@@ -88,23 +92,7 @@ I aim to connect the functional and technical sides: understand the business pro
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Tech Stack
-
-<div align="center">
-<img src="skills-overview.svg" alt="Tech stack across six domains: web, data and BI, ERP, dev collaboration, design, analytics and office" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="skills-proficiency.svg" alt="Proficiency breakdown for technical, creative and soft skills" width="100%" />
-</div>
-
-<br/>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## Professional Experience
+<h2 align="center">Professional Experience</h2>
 
 <div align="center">
 <img src="timeline.svg" alt="Experience timeline: Maryum N Maria, Nex Pred Solutions, MGA Industries, Tara Technologies" width="100%" />
@@ -137,7 +125,7 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 <img src="projects.svg" alt="Featured projects: Artisan Aura Creations on Odoo ERP and the Student Registration and Library Management database in Oracle" width="100%" />
@@ -179,7 +167,23 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Education & Languages
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+<img src="skills-overview.svg" alt="Tech stack across six domains: web, data and BI, ERP, dev collaboration, design, analytics and office" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="skills-proficiency.svg" alt="Proficiency breakdown for technical, creative and soft skills" width="100%" />
+</div>
+
+<br/>
+
+<img src="divider.svg" alt="" width="100%" />
+
+<h2 align="center">Education &amp; Languages</h2>
 
 <div align="center">
 <img src="education.svg" alt="Education: BBIS at UMT and FSc Pre-Engineering at Unique College; languages English and Urdu" width="100%" />
@@ -189,17 +193,7 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Awards & Recognition
-
-<div align="center">
-<img src="awards.svg" alt="Awards and recognition" width="100%" />
-</div>
-
-<br/>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## Certifications
+<h2 align="center">Certifications</h2>
 
 <div align="center">
 <img src="certifications.svg" alt="Nine certifications from Google, Microsoft, IBM, SAP, Odoo, Coursera and Simplilearn" width="100%" />
@@ -209,7 +203,27 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## GitHub Activity
+<h2 align="center">Awards &amp; Recognition</h2>
+
+<div align="center">
+<img src="awards.svg" alt="Awards and recognition" width="100%" />
+</div>
+
+<br/>
+
+<img src="divider.svg" alt="" width="100%" />
+
+<h2 align="center">Current Focus</h2>
+
+<div align="center">
+<img src="focus.svg" alt="Current focus: learning, building, exploring and open to" width="100%" />
+</div>
+
+<br/>
+
+<img src="divider.svg" alt="" width="100%" />
+
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
@@ -221,17 +235,7 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Current Focus
-
-<div align="center">
-<img src="focus.svg" alt="Current focus: learning, building, exploring and open to" width="100%" />
-</div>
-
-<br/>
-
-<img src="divider.svg" alt="" width="100%" />
-
-## System Status
+<h2 align="center">System Status</h2>
 
 <div align="center">
 <img src="robot.svg" alt="Animated robotic status mascot: online and ready to collaborate" width="100%" />
@@ -241,7 +245,7 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <img src="divider.svg" alt="" width="100%" />
 
-## Get in Touch
+<h2 align="center">Get in Touch</h2>
 
 <div align="center">
 
@@ -265,3 +269,5 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 <img src="footer-bottom.svg" alt="© 2026 Muhammad Umer Faheem · Lahore, Pakistan" width="100%" />
 
 </div>
+
+<br/>
