@@ -1,20 +1,20 @@
 <svg width="1280" height="36" viewBox="0 0 1280 36" xmlns="http://www.w3.org/2000/svg" role="img">
   <style>
     :root {
-      --bg: #050506; --bg2: #121214; --card: rgba(255,255,255,0.03); --cardHi: rgba(255,255,255,0.07);
-      --border: rgba(255,255,255,0.11); --text: #FFFFFF; --text2: #E5E5EA; --muted: #AEAEB2; --muted2: #8E8E93;
-      --a1: #0A84FF; --a2: #3D9BFF; --a3: #64D2FF; --a4: #8EC5FF; --a5: #5AC8FA; --ok: #30D158;
-      --chip: rgba(255,255,255,0.06); --chipB: rgba(255,255,255,0.16); --track: rgba(255,255,255,0.09); --grid: rgba(255,255,255,0.045); --spec: #FFFFFF;
+      --bg: #0C0907; --bg2: #16110D; --card: rgba(255,236,214,0.035); --cardHi: rgba(255,236,214,0.08);
+      --border: rgba(255,226,190,0.12); --text: #FFF8F0; --text2: #EADFD2; --muted: #B8A999; --muted2: #8F8174;
+      --a1: #FF9F0A; --a2: #FF7A3D; --a3: #F2C14E; --a4: #FFC987; --a5: #FFB340; --ok: #30D158;
+      --chip: rgba(255,236,214,0.06); --chipB: rgba(255,226,190,0.17); --track: rgba(255,226,190,0.10); --grid: rgba(255,226,190,0.05); --spec: #FFF1DC;
       }
     @media (prefers-color-scheme: light) {
       :root {
-        --bg: #FFFFFF; --bg2: #F2F2F7; --card: rgba(60,60,67,0.03); --cardHi: rgba(60,60,67,0.07);
-        --border: rgba(60,60,67,0.16); --text: #1C1C1E; --text2: #3A3A3C; --muted: #545458; --muted2: #6E6E73;
-        --a1: #007AFF; --a2: #1F6FE0; --a3: #0A84C1; --a4: #3A8BEA; --a5: #0A8FBF; --ok: #248A3D;
-        --chip: rgba(60,60,67,0.05); --chipB: rgba(60,60,67,0.20); --track: rgba(60,60,67,0.11); --grid: rgba(60,60,67,0.07); --spec: #007AFF;
+        --bg: #FFFCF7; --bg2: #F8F1E7; --card: rgba(120,84,40,0.035); --cardHi: rgba(120,84,40,0.075);
+        --border: rgba(120,84,40,0.17); --text: #2A2018; --text2: #4A3B2E; --muted: #65533F; --muted2: #7D6A56;
+        --a1: #D96A00; --a2: #C2501A; --a3: #B07A00; --a4: #D98A3D; --a5: #E08A00; --ok: #248A3D;
+        --chip: rgba(120,84,40,0.055); --chipB: rgba(120,84,40,0.22); --track: rgba(120,84,40,0.12); --grid: rgba(120,84,40,0.07); --spec: #D96A00;
       }
     }
-    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
+    text { font-variant-numeric: tabular-nums; text-rendering: geometricPrecision; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, ui-sans-serif, Helvetica, Arial, sans-serif; }
     .m { font-family: "SFMono-Regular", "JetBrains Mono", Consolas, Menlo, monospace; }
 </style>
   <defs>
@@ -29,5 +29,5 @@
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1" fill="var(--grid)"/></pattern>
     <clipPath id="clip"><rect width="1280" height="36" rx="0"/></clipPath>
   </defs>
-  <rect x="40" y="17" width="1200" height="2" rx="1" fill="url(#fade)" opacity="0.8"/><g transform="translate(640,18)"><rect x="-6" y="-6" width="12" height="12" rx="2" transform="rotate(45)" fill="url(#acc)"><animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></rect><circle cx="-26" r="2.5" fill="var(--a1)" opacity="0.8"/><circle cx="26" r="2.5" fill="var(--a2)" opacity="0.8"/></g>
+  <rect x="40" y="17" width="1200" height="2" rx="1" fill="url(#fade)" opacity="0.8"/><g transform="translate(640,18)"><rect x="-6" y="-6" width="12" height="12" rx="2" transform="rotate(45)" fill="url(#acc)"><animate attributeName="opacity" values="1;0.5;1" dur="5.4s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/></rect><circle cx="-26" r="2.5" fill="var(--a1)" opacity="0.8"/><circle cx="26" r="2.5" fill="var(--a2)" opacity="0.8"/></g>
 </svg>

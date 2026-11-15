@@ -20,11 +20,11 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=0a84ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=1c1c1e&color=3d9bff&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=1c1c1e&color=5ac8fa&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
-  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=1c1c1e&color=8ec5ff&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
-  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-30d158?style=flat-square&labelColor=1c1c1e" alt="Status: open to roles and freelance"/>
+  <img src="https://komarev.com/ghpvc/?username=youknowumer&color=ff9f0a&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=1c1713&color=ff7a3d&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=1c1713&color=ffb340&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
+  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=1c1713&color=ffc987&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
+  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-30d158?style=flat-square&labelColor=1c1713" alt="Status: open to roles and freelance"/>
 </p>
 
 </div>
@@ -213,7 +213,7 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=youknowumer&theme=github-dark&hide_border=true&background=050506&ring=0A84FF&fire=5AC8FA&currStreakLabel=0A84FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
+![GitHub Streak](https://streak-stats.demolab.com?user=youknowumer&theme=github-dark&hide_border=true&background=0C0907&ring=FF9F0A&fire=FFB340&currStreakLabel=FF9F0A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA)
 
 </div>
 
