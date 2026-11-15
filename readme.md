@@ -1,33 +1,38 @@
 <div align="center">
 
-<img src="banner.svg" alt="Muhammad Umer Faheem — SAP and Odoo ERP, implementation, reporting and business systems" width="100%" />
+<p><img src="banner.svg" alt="Muhammad Umer Faheem — SAP and Odoo ERP, implementation, reporting and business systems" width="100%" /></p>
 
-<br/>
-
-<p><b>ERP Management Trainee</b> &nbsp;·&nbsp; SAP &nbsp;·&nbsp; Odoo &nbsp;·&nbsp; Business Reporting &nbsp;·&nbsp; Lahore, Pakistan</p>
+<p><img src="header-identity.svg" alt="ERP Management Trainee at Maryum N Maria. SAP, Odoo and reporting. Lahore, Pakistan. Open to roles and freelance." width="100%" /></p>
 
 <p>
-  <a href="#about-me"><b>About</b></a> &nbsp;·&nbsp;
-  <a href="#what-i-deliver"><b>Services</b></a> &nbsp;·&nbsp;
-  <a href="#erp-delivery-lifecycle"><b>Lifecycle</b></a> &nbsp;·&nbsp;
-  <a href="#professional-experience"><b>Experience</b></a> &nbsp;·&nbsp;
-  <a href="#featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
-  <a href="#tech-stack"><b>Stack</b></a> &nbsp;·&nbsp;
-  <a href="#education--languages"><b>Education</b></a> &nbsp;·&nbsp;
-  <a href="#certifications"><b>Certifications</b></a> &nbsp;·&nbsp;
-  <a href="#awards--recognition"><b>Awards</b></a> &nbsp;·&nbsp;
-  <a href="#current-focus"><b>Focus</b></a> &nbsp;·&nbsp;
-  <a href="#github-activity"><b>Activity</b></a> &nbsp;·&nbsp;
-  <a href="#system-status"><b>Status</b></a> &nbsp;·&nbsp;
-  <a href="#get-in-touch"><b>Contact</b></a>
+  <a href="Muhammad_Umer_Faheem_CV.pdf"><img src="cta/cv.svg" height="46" alt="Download CV (PDF)"/></a>
+  <a href="#featured-projects"><img src="cta/projects.svg" height="46" alt="View projects"/></a>
+  <a href="https://www.linkedin.com/in/youknowumer/"><img src="cta/linkedin.svg" height="46" alt="LinkedIn"/></a>
+  <a href="mailto:umerfaheem632@gmail.com?subject=Opportunity%20for%20Muhammad%20Umer%20Faheem"><img src="cta/email.svg" height="46" alt="Email me"/></a>
+</p>
+
+<p>
+  <a href="#about-me"><img src="nav/about.svg" height="36" alt="About"/></a>
+  <a href="#what-i-deliver"><img src="nav/services.svg" height="36" alt="Services"/></a>
+  <a href="#erp-delivery-lifecycle"><img src="nav/lifecycle.svg" height="36" alt="Lifecycle"/></a>
+  <a href="#professional-experience"><img src="nav/experience.svg" height="36" alt="Experience"/></a>
+  <a href="#featured-projects"><img src="nav/projects.svg" height="36" alt="Projects"/></a>
+  <a href="#tech-stack"><img src="nav/stack.svg" height="36" alt="Stack"/></a>
+  <a href="#education--languages"><img src="nav/education.svg" height="36" alt="Education"/></a>
+  <br/>
+  <a href="#certifications"><img src="nav/certifications.svg" height="36" alt="Certifications"/></a>
+  <a href="#awards--recognition"><img src="nav/awards.svg" height="36" alt="Awards"/></a>
+  <a href="#current-focus"><img src="nav/focus.svg" height="36" alt="Focus"/></a>
+  <a href="#github-activity"><img src="nav/activity.svg" height="36" alt="Activity"/></a>
+  <a href="#system-status"><img src="nav/status.svg" height="36" alt="Status"/></a>
+  <a href="#get-in-touch"><img src="nav/contact.svg" height="36" alt="Contact"/></a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=youknowumer&color=ff9f0a&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=1c1713&color=ff7a3d&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=1c1713&color=ffb340&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
-  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=1c1713&color=ffc987&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
-  <img src="https://img.shields.io/badge/STATUS-Open_to_Roles_%26_Freelance-30d158?style=flat-square&labelColor=1c1713" alt="Status: open to roles and freelance"/>
+  <img src="https://img.shields.io/github/followers/youknowumer?style=flat-square&labelColor=555555&color=ff7a3d&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/youknowumer?style=flat-square&labelColor=555555&color=ffb340&label=TOTAL+STARS&logo=star&logoColor=white" alt="Total stars"/>
+  <img src="https://img.shields.io/github/last-commit/youknowumer/youknowumer?style=flat-square&labelColor=555555&color=ffc987&label=LAST+UPDATED&logo=git&logoColor=white" alt="Last updated"/>
 </p>
 
 </div>
@@ -249,22 +254,14 @@ Delivered responsive, user-centric interfaces for live client projects, translat
 
 <div align="center">
 
-<img src="footer-cta.svg" alt="Let's build something great. Open to ERP, BI and frontend opportunities" width="100%" />
+<img src="contact-hero.svg" alt="Open to roles, internships and freelance projects. SAP functional support, Odoo implementation, reporting and BI, and frontend builds. Typically replies within 24 hours." width="100%" />
 
-<br/>
-
-<table>
-<tr>
-<td align="center"><a href="https://github.com/youknowumer" target="_blank"><img src="icon-github.svg" width="270" alt="GitHub: @youknowumer" /></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/youknowumer/" target="_blank"><img src="icon-linkedin.svg" width="270" alt="LinkedIn: in/youknowumer" /></a></td>
-</tr>
-<tr>
-<td align="center"><a href="mailto:umerfaheem632@gmail.com"><img src="icon-email.svg" width="270" alt="Email: umerfaheem632@gmail.com" /></a></td>
-<td align="center"><a href="Muhammad_Umer_Faheem_CV.pdf" target="_blank"><img src="icon-resume.svg" width="270" alt="Download résumé (PDF)" /></a></td>
-</tr>
-</table>
-
-<br/>
+<p>
+  <a href="mailto:umerfaheem632@gmail.com?subject=Opportunity%20for%20Muhammad%20Umer%20Faheem"><img src="contact/email.svg" width="49%" alt="Email: umerfaheem632@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/youknowumer/" target="_blank"><img src="contact/linkedin.svg" width="49%" alt="LinkedIn: in/youknowumer"/></a>
+  <a href="Muhammad_Umer_Faheem_CV.pdf" target="_blank"><img src="contact/resume.svg" width="49%" alt="Download résumé (PDF)"/></a>
+  <a href="https://github.com/youknowumer" target="_blank"><img src="contact/github.svg" width="49%" alt="GitHub: @youknowumer"/></a>
+</p>
 
 <img src="footer-bottom.svg" alt="© 2026 Muhammad Umer Faheem · Lahore, Pakistan" width="100%" />
 

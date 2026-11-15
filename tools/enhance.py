@@ -22,7 +22,7 @@ rw("robot.svg", [
  ("Frontend interfaces, BI dashboards, and ERP systems,", "ERP workflows, BI dashboards, and frontend interfaces,"),
  (">UPTIME<", ">ROLE<"), (">99.9%<", ">ERP<"),
 ])
-rw("footer-cta.svg", [("Open to Frontend, BI &amp; ERP Opportunities", "Open to ERP, BI &amp; Frontend Opportunities")])
+# footer-cta.svg was replaced by contact-hero.svg (see gen_header_contact.py)
 
 DESC = {
  "banner": ("Muhammad Umer Faheem", "ERP management trainee working with SAP and Odoo, reporting and business systems, based in Lahore, Pakistan."),
